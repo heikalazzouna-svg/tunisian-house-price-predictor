@@ -4,6 +4,7 @@ import numpy as np
 import joblib
 import pickle
 import warnings
+import sys
 warnings.filterwarnings('ignore')
 
 st.set_page_config(page_title="🏠 Tunisian House Price Predictor", layout="wide")
@@ -11,57 +12,49 @@ st.set_page_config(page_title="🏠 Tunisian House Price Predictor", layout="wid
 st.title("🏠 Tunisian House Price Predictor")
 st.markdown("### Predict house prices in Tunisia using Machine Learning")
 
-# --- Compatibility Class to handle monotonic_cst ---
-class ModelWrapper:
-    """Wrapper to handle scikit-learn version compatibility issues"""
-    def __init__(self, model):
-        self.model = model
+# --- REAL FIX: Monkey patch scikit-learn to handle missing attribute ---
+def fix_sklearn_compatibility():
+    """Fix scikit-learn compatibility issue with monotonic_cst"""
+    try:
+        import sklearn
+        import sklearn.tree
         
-    def predict(self, X):
-        """Forward predict to the underlying model"""
-        return self.model.predict(X)
-    
-    def __getattr__(self, name):
-        """Forward any other attribute access to the underlying model"""
-        return getattr(self.model, name)
+        # Store original DecisionTreeRegressor
+        original_dtr = sklearn.tree.DecisionTreeRegressor
+        
+        # Create a wrapper class that handles missing attributes
+        class FixedDecisionTreeRegressor(original_dtr):
+            def __init__(self, *args, **kwargs):
+                # Remove monotonic_cst if present (it doesn't exist in older versions)
+                if 'monotonic_cst' in kwargs:
+                    kwargs.pop('monotonic_cst')
+                super().__init__(*args, **kwargs)
+            
+            def __getattribute__(self, name):
+                # Intercept attempts to access monotonic_cst
+                if name == 'monotonic_cst':
+                    return None
+                return super().__getattribute__(name)
+        
+        # Replace the class
+        sklearn.tree.DecisionTreeRegressor = FixedDecisionTreeRegressor
+        return True
+    except Exception as e:
+        print(f"Compatibility fix failed: {e}")
+        return False
+
+# Apply the fix BEFORE loading the model
+fix_sklearn_compatibility()
 
 # Load model
 @st.cache_resource
 def load_model():
     try:
-        # First try: load with pickle
-        try:
-            with open('model.pkl', 'rb') as f:
-                model = pickle.load(f)
-            st.success("✅ Model loaded with pickle!")
-            return ModelWrapper(model)
-        except:
-            pass
-        
-        # Second try: load with joblib
-        try:
-            model = joblib.load('model.pkl')
-            st.success("✅ Model loaded with joblib!")
-            return ModelWrapper(model)
-        except:
-            pass
-        
-        # Third try: load with scikit-learn compatibility
-        try:
-            import sklearn
-            import sklearn.ensemble
-            from sklearn.ensemble import RandomForestRegressor
-            # Save original RandomForestRegressor
-            orig_rf = sklearn.ensemble.RandomForestRegressor
-            # Monkey patch to ignore monotonic_cst
-            sklearn.ensemble.RandomForestRegressor = RandomForestRegressor
-            model = joblib.load('model.pkl')
-            st.success("✅ Model loaded with compatibility mode!")
-            return ModelWrapper(model)
-        except Exception as e:
-            st.error(f"❌ All loading methods failed: {e}")
-            return None
-            
+        # Try loading with pickle
+        with open('model.pkl', 'rb') as f:
+            model = pickle.load(f)
+        st.success("✅ Model loaded with pickle!")
+        return model
     except Exception as e:
         st.error(f"❌ Model not found: {e}")
         return None
@@ -160,6 +153,7 @@ input_data = pd.DataFrame([[
 if st.sidebar.button("🔮 Predict Price", type="primary"):
     try:
         with st.spinner("Calculating price..."):
+            # Use the model's predict method directly
             prediction = model.predict(input_data)[0]
             
             st.markdown("---")
