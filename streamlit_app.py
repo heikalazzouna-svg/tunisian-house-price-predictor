@@ -16,6 +16,14 @@ def load_model():
     try:
         model = joblib.load('model.pkl')
         st.success("✅ Model loaded successfully!")
+        
+        # Show model info
+        st.sidebar.markdown("### 📊 Model Info")
+        st.sidebar.markdown(f"""
+        - **Type:** Random Forest Regressor
+        - **Pipeline:** Yes
+        - **Features:** 17
+        """)
         return model
     except Exception as e:
         st.error(f"❌ Model not found: {e}")
@@ -59,7 +67,7 @@ city_name = st.sidebar.selectbox("City", list(city_options.keys()))
 city_encoded = city_options[city_name]
 
 # --- CALCULATE ENGINEERED FEATURES ---
-total_rooms = rooms + 1  # +1 for living room
+total_rooms = rooms + 1
 
 # Price per m2 based on city
 city_prices = {
@@ -79,7 +87,6 @@ total_rooms_log = np.log1p(total_rooms)
 rooms_log = np.log1p(rooms)
 bathrooms_log = np.log1p(bathrooms)
 
-# Calculate approximate price
 prix = price_per_m2 * surface
 prix_log = np.log1p(prix)
 rooms_per_surface_log = np.log1p(rooms_per_surface)
@@ -116,8 +123,8 @@ input_data = pd.DataFrame([[
 # --- PREDICT ---
 if st.sidebar.button("🔮 Predict Price", type="primary"):
     try:
-        # Make prediction
         with st.spinner("Calculating price..."):
+            # Use the pipeline to predict
             prediction = model.predict(input_data)[0]
             
             # Display results
@@ -155,16 +162,6 @@ if st.sidebar.button("🔮 Predict Price", type="primary"):
     except Exception as e:
         st.error(f"❌ Prediction error: {e}")
         st.info("Please try adjusting the input values.")
-
-# --- MODEL INFO ---
-st.sidebar.markdown("---")
-st.sidebar.markdown("### 📊 Model Info")
-st.sidebar.markdown("""
-- **Type:** Random Forest Regressor
-- **R² Score:** 99.98%
-- **Trained on:** 6,001 properties
-- **Features:** 17
-""")
 
 # --- FOOTER ---
 st.markdown("---")
