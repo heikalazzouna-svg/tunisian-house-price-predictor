@@ -3,6 +3,8 @@ import pandas as pd
 import joblib
 import numpy as np
 import pickle
+import sys
+print(f"Python version: {sys.version}")
 
 st.set_page_config(page_title="🏠 Tunisian House Price Predictor", layout="wide")
 
