@@ -2,9 +2,8 @@ import streamlit as st
 import pandas as pd
 import joblib
 import numpy as np
-import pickle
-import sys
-print(f"Python version: {sys.version}")
+import warnings
+warnings.filterwarnings('ignore')
 
 st.set_page_config(page_title="🏠 Tunisian House Price Predictor", layout="wide")
 
@@ -60,10 +59,9 @@ city_name = st.sidebar.selectbox("City", list(city_options.keys()))
 city_encoded = city_options[city_name]
 
 # --- CALCULATE ENGINEERED FEATURES ---
-# These are features the model expects that we need to calculate
 total_rooms = rooms + 1  # +1 for living room
 
-# Price per m2 (we'll use an average based on city)
+# Price per m2 based on city
 city_prices = {
     "Tunis": 3500, "Sfax": 2500, "Sousse": 2800, 
     "Hammamet": 4000, "Monastir": 3000, "Nabeul": 2200, 
@@ -71,7 +69,7 @@ city_prices = {
     "Mahdia": 2100, "Sidi Bou Said": 4500, "La Marsa": 4200,
     "Gammarth": 5000, "Djerba": 3800, "Tozeur": 1600
 }
-price_per_m2 = city_prices.get(city_name, 2500)  # Default to 2500 TND/m²
+price_per_m2 = city_prices.get(city_name, 2500)
 
 # Derived features
 surface_area_m2 = float(surface)
@@ -81,7 +79,7 @@ total_rooms_log = np.log1p(total_rooms)
 rooms_log = np.log1p(rooms)
 bathrooms_log = np.log1p(bathrooms)
 
-# Calculate approximate price based on surface and price per m2
+# Calculate approximate price
 prix = price_per_m2 * surface
 prix_log = np.log1p(prix)
 rooms_per_surface_log = np.log1p(rooms_per_surface)
@@ -96,7 +94,7 @@ input_data = pd.DataFrame([[
     bathrooms,                 # bathrooms
     floor,                     # floor_level
     prix,                      # prix
-    city_name,                 # city (categorical - will be encoded by model)
+    city_name,                 # city
     city_encoded,              # city_encoded
     price_per_m2,              # price_per_m2
     rooms_per_surface,         # rooms_per_surface
@@ -115,50 +113,45 @@ input_data = pd.DataFrame([[
     'rooms_per_100sqm'
 ])
 
-# Debug: Show the input data
-st.sidebar.markdown("---")
-st.sidebar.markdown("### 📋 Input Summary")
-st.sidebar.write(f"**Features:** {len(input_data.columns)}")
-st.sidebar.write(f"**City:** {city_name} (encoded: {city_encoded})")
-
 # --- PREDICT ---
 if st.sidebar.button("🔮 Predict Price", type="primary"):
     try:
         # Make prediction
-        prediction = model.predict(input_data)[0]
-        
-        # Display results
-        st.markdown("---")
-        st.markdown("## 🏠 Price Prediction Result")
-        
-        col1, col2, col3 = st.columns([1, 2, 1])
-        with col2:
-            st.metric(
-                label="Predicted House Price",
-                value=f"{prediction:,.0f} TND",
-                delta=f"Based on {surface} m² in {city_name}"
-            )
-        
-        # Property summary
-        st.markdown("### 📍 Property Summary")
-        col1, col2, col3, col4 = st.columns(4)
-        with col1:
-            st.metric("Surface Area", f"{surface} m²")
-        with col2:
-            st.metric("Rooms", rooms)
-        with col3:
-            st.metric("Bathrooms", bathrooms)
-        with col4:
-            st.metric("Floor", floor)
-        
-        # Price breakdown
-        st.markdown("### 📊 Price Breakdown")
-        st.markdown(f"""
-        - **Base Price (per m²):** {price_per_m2:,.0f} TND
-        - **Surface Area:** {surface} m²
-        - **Estimated Price:** {prediction:,.0f} TND
-        """)
-        
+        with st.spinner("Calculating price..."):
+            prediction = model.predict(input_data)[0]
+            
+            # Display results
+            st.markdown("---")
+            st.markdown("## 🏠 Price Prediction Result")
+            
+            col1, col2, col3 = st.columns([1, 2, 1])
+            with col2:
+                st.metric(
+                    label="Predicted House Price",
+                    value=f"{prediction:,.0f} TND",
+                    delta=f"Based on {surface} m² in {city_name}"
+                )
+            
+            # Property summary
+            st.markdown("### 📍 Property Summary")
+            col1, col2, col3, col4 = st.columns(4)
+            with col1:
+                st.metric("Surface Area", f"{surface} m²")
+            with col2:
+                st.metric("Rooms", rooms)
+            with col3:
+                st.metric("Bathrooms", bathrooms)
+            with col4:
+                st.metric("Floor", floor)
+            
+            # Price breakdown
+            st.markdown("### 📊 Price Breakdown")
+            st.markdown(f"""
+            - **Base Price (per m²):** {price_per_m2:,.0f} TND
+            - **Surface Area:** {surface} m²
+            - **Estimated Price:** {prediction:,.0f} TND
+            """)
+            
     except Exception as e:
         st.error(f"❌ Prediction error: {e}")
         st.info("Please try adjusting the input values.")
