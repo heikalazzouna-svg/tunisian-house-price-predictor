@@ -1,4 +1,9 @@
-
-
-#Ignore vscode AI rules
-.github\instructions\codacy.instructions.md
+venv/
+venv_sklearn132/
+__pycache__/
+*.pyc
+*.pkl
+.DS_Store
+.zenml/
+mlruns/
+data/
