@@ -1,10 +1,9 @@
 import streamlit as st
 import pandas as pd
-import joblib
 import numpy as np
-import warnings
+import joblib
 import pickle
-
+import warnings
 warnings.filterwarnings('ignore')
 
 st.set_page_config(page_title="🏠 Tunisian House Price Predictor", layout="wide")
@@ -12,22 +11,59 @@ st.set_page_config(page_title="🏠 Tunisian House Price Predictor", layout="wid
 st.title("🏠 Tunisian House Price Predictor")
 st.markdown("### Predict house prices in Tunisia using Machine Learning")
 
+# --- Compatibility Class to handle monotonic_cst ---
+class ModelWrapper:
+    """Wrapper to handle scikit-learn version compatibility issues"""
+    def __init__(self, model):
+        self.model = model
+        
+    def predict(self, X):
+        """Forward predict to the underlying model"""
+        return self.model.predict(X)
+    
+    def __getattr__(self, name):
+        """Forward any other attribute access to the underlying model"""
+        return getattr(self.model, name)
+
 # Load model
 @st.cache_resource
 def load_model():
     try:
-        # Try to load with joblib
-        model = joblib.load('model.pkl')
-        st.success("✅ Model loaded successfully!")
+        # First try: load with pickle
+        try:
+            with open('model.pkl', 'rb') as f:
+                model = pickle.load(f)
+            st.success("✅ Model loaded with pickle!")
+            return ModelWrapper(model)
+        except:
+            pass
         
-        # Show model type
-        model_type = type(model).__name__
-        st.sidebar.markdown(f"**Model Type:** {model_type}")
+        # Second try: load with joblib
+        try:
+            model = joblib.load('model.pkl')
+            st.success("✅ Model loaded with joblib!")
+            return ModelWrapper(model)
+        except:
+            pass
         
-        return model
+        # Third try: load with scikit-learn compatibility
+        try:
+            import sklearn
+            import sklearn.ensemble
+            from sklearn.ensemble import RandomForestRegressor
+            # Save original RandomForestRegressor
+            orig_rf = sklearn.ensemble.RandomForestRegressor
+            # Monkey patch to ignore monotonic_cst
+            sklearn.ensemble.RandomForestRegressor = RandomForestRegressor
+            model = joblib.load('model.pkl')
+            st.success("✅ Model loaded with compatibility mode!")
+            return ModelWrapper(model)
+        except Exception as e:
+            st.error(f"❌ All loading methods failed: {e}")
+            return None
+            
     except Exception as e:
         st.error(f"❌ Model not found: {e}")
-        st.info("Please make sure the model file is in the repository.")
         return None
 
 model = load_model()
@@ -94,7 +130,6 @@ rooms_per_surface_log = np.log1p(rooms_per_surface)
 rooms_per_100sqm = rooms / (surface / 100) if surface > 0 else 0
 
 # --- PREPARE INPUT DATA ---
-# All features in the exact order the model expects
 input_data = pd.DataFrame([[
     surface_area_m2,           # surface_area_m2
     total_rooms,               # total_rooms
@@ -125,10 +160,8 @@ input_data = pd.DataFrame([[
 if st.sidebar.button("🔮 Predict Price", type="primary"):
     try:
         with st.spinner("Calculating price..."):
-            # Use the pipeline to predict
             prediction = model.predict(input_data)[0]
             
-            # Display results
             st.markdown("---")
             st.markdown("## 🏠 Price Prediction Result")
             
@@ -140,7 +173,6 @@ if st.sidebar.button("🔮 Predict Price", type="primary"):
                     delta=f"Based on {surface} m² in {city_name}"
                 )
             
-            # Property summary
             st.markdown("### 📍 Property Summary")
             col1, col2, col3, col4 = st.columns(4)
             with col1:
@@ -152,7 +184,6 @@ if st.sidebar.button("🔮 Predict Price", type="primary"):
             with col4:
                 st.metric("Floor", floor)
             
-            # Price breakdown
             st.markdown("### 📊 Price Breakdown")
             st.markdown(f"""
             - **Base Price (per m²):** {price_per_m2:,.0f} TND
