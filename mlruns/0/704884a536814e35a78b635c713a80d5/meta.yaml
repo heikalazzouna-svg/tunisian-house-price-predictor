@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ayushsingh/Desktop/end-to-end-production-grade-projects/prices-predictor-system/mlruns/0/704884a536814e35a78b635c713a80d5/artifacts
+end_time: 1782147584512
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 704884a536814e35a78b635c713a80d5
+run_name: hyperparameter_tuning
+run_uuid: 704884a536814e35a78b635c713a80d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782147292533
+status: 3
+tags: []
+user_id: LENOVO

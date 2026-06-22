@@ -1,0 +1,2045 @@
+gouvernorat,delegation,superficie,nb_pieces,chambres,salle_de_bains,etat,etage,prix
+tunis,Aouina,88,3.0,2,1,Moins d'un an,1,340000.0
+tunis,El Ouardia,100,2.0,2,1,nan,1,135000.0
+tunis,Ariana Ville,152,2.0,2,1,nan,1,680000.0
+tunis,Ariana Ville,120,2.0,1,1,Moins d'un an,1,470000.0
+tunis,El Manar,145,4.0,3,1,Bon état,4,260000.0
+tunis,Ariana Ville,132,3.0,2,2,Nouveau,5,620000.0
+tunis,Ariana Ville,145,2.0,2,1,nan,1,550000.0
+tunis,Gammarth,209,3.0,3,1,Nouveau,1,774000.0
+tunis,Aouina,80,2.0,2,1,Nouveau,1,250000.0
+tunis,El Ouardia,65,2.0,2,1,nan,1,125000.0
+tunis,Ariana Ville,249,2.0,2,1,nan,1,1270000.0
+tunis,Aouina,30,2.0,1,1,Nouveau,1,275000.0
+tunis,Gammarth,242,5.0,3,2,Nouveau,1,900000.0
+tunis,Ain Zaghouan,164,4.0,3,3,Moins d'un an,3,538000.0
+tunis,Ariana Ville,99,3.0,2,2,Moins d'un an,1,334000.0
+tunis,Ariana Ville,147,4.0,3,3,Moins d'un an,1,698000.0
+tunis,Aouina,68,2.0,1,1,Moins d'un an,1,255000.0
+tunis,Gammarth,139,3.0,2,1,Nouveau,1,584000.0
+tunis,Gammarth,158,3.0,2,2,1-5 ans,2,750000.0
+tunis,Ariana Ville,191,3.0,2,1,Nouveau,1,1146000.0
+tunis,Ain Zaghouan,146,4.0,3,3,Nouveau,1,650000.0
+tunis,Ain Zaghouan,93,3.0,2,1,Bon état,1,235000.0
+tunis,Gammarth,133,3.0,2,1,Nouveau,1,513000.0
+tunis,Ain Zaghouan,73,2.0,1,1,Bon état,1,210000.0
+tunis,Ariana Ville,131,2.0,1,1,nan,1,386000.0
+tunis,Gammarth,250,4.0,3,2,1-5 ans,1,740000.0
+tunis,Ain Zaghouan,160,1.0,3,2,1-5 ans,6,350000.0
+tunis,Aouina,127,3.0,1,1,1-5 ans,1,420000.0
+tunis,Ariana Ville,288,6.0,5,3,Bon état,1,980000.0
+tunis,Ain Zaghouan,172,4.0,2,1,Bon état,1,750000.0
+tunis,Ariana Ville,50,1.0,1,1,1-5 ans,1,240000.0
+tunis,Ariana Ville,150,4.0,3,2,Moins d'un an,1,695000.0
+tunis,Aouina,195,5.0,4,2,5-10 ans,4,395000.0
+tunis,Ariana Ville,300,3.0,2,1,Bon état,1,550000.0
+tunis,Ain Zaghouan,120,2.0,2,1,Moins d'un an,1,370000.0
+tunis,Ain Zaghouan,116,3.0,2,1,Bon état,1,280000.0
+tunis,Ariana Ville,121,2.0,1,1,Moins d'un an,1,470000.0
+tunis,Ariana Ville,210,3.0,1,1,Moins d'un an,1,430000.0
+tunis,Le Bardo,30,2.0,1,1,Bon état,1,180000.0
+tunis,El Menzah 7,140,4.0,3,1,Bon état,1,285000.0
+tunis,Ariana Ville,100,2.0,2,1,1-5 ans,3,220000.0
+tunis,Ariana Ville,170,3.0,3,1,1-5 ans,1,780000.0
+tunis,El Menzah 7,117,2.0,2,1,5-10 ans,5,380000.0
+tunis,Les Berges Du Lac,194,4.0,3,2,Bon état,1,860000.0
+tunis,Aouina,57,1.0,1,1,Nouveau,1,206000.0
+tunis,Ariana Ville,61,2.0,2,1,nan,1,370000.0
+tunis,El Menzah 7,130,3.0,2,1,1-5 ans,4,400000.0
+tunis,Ariana Ville,67,2.0,1,1,Bon état,1,280000.0
+tunis,Ariana Ville,127,3.0,2,1,5-10 ans,1,365000.0
+tunis,Ain Zaghouan,85,2.0,1,1,Moins d'un an,3,415000.0
+tunis,Ariana Ville,199,4.0,3,3,Bon état,1,620000.0
+tunis,Ain Zaghouan,45,1.0,1,1,Moins d'un an,3,245000.0
+tunis,Ain Zaghouan,74,1.0,2,1,Nouveau,1,259500.0
+tunis,Ain Zaghouan,164,3.0,2,2,Nouveau,1,472000.0
+tunis,Ain Zaghouan,66,2.0,1,1,Nouveau,1,238000.0
+tunis,Ain Zaghouan,102,3.0,2,1,Nouveau,1,375000.0
+tunis,Ain Zaghouan,137,3.0,2,2,Nouveau,1,434000.0
+tunis,Aouina,60,2.0,1,1,Bon état,1,170000.0
+tunis,Cite El Khadra,141,3.0,2,2,5-10 ans,1,385000.0
+tunis,La Goulette,178,4.0,3,3,Moins d'un an,3,680000.0
+tunis,Ariana Ville,300,5.0,4,5,1-5 ans,9,1490000.0
+tunis,Les Berges Du Lac,300,9.0,9,2,10-20 ans,4,990000.0
+tunis,Aouina,132,3.0,3,2,10-20 ans,4,320000.0
+tunis,Ain Zaghouan,236,5.0,4,3,Moins d'un an,1,1100000.0
+tunis,Cite El Khadra,87,4.0,2,1,Bon état,2,255000.0
+tunis,Ariana Ville,100,3.0,2,1,1-5 ans,1,383000.0
+tunis,Aouina,54,2.0,1,1,Moins d'un an,5,180000.0
+tunis,Ain Zaghouan,140,3.0,2,1,Bon état,1,450000.0
+tunis,Ain Zaghouan,150,4.0,3,1,1-5 ans,1,390000.0
+tunis,Ain Zaghouan,180,4.0,3,3,Nouveau,1,970000.0
+tunis,Ariana Ville,125,3.0,2,2,Moins d'un an,4,590000.0
+tunis,Ain Zaghouan,140,3.0,2,3,Nouveau,1,620000.0
+tunis,Ariana Ville,60,2.0,1,1,Nouveau,1,336000.0
+tunis,Gammarth,175,4.0,3,2,Bon état,2,490000.0
+tunis,Ariana Ville,141,3.0,2,3,Moins d'un an,1,649000.0
+tunis,Aouina,150,4.0,3,2,1-5 ans,2,390000.0
+tunis,Ariana Ville,98,3.0,2,1,Bon état,1,368000.0
+tunis,Bab Saadoun,100,4.0,3,1,Bon état,1,250000.0
+tunis,Ain Zaghouan,66,2.0,1,1,Nouveau,1,236000.0
+tunis,Ain Zaghouan,136,3.0,2,2,1-5 ans,1,580000.0
+tunis,Ain Zaghouan,300,3.0,2,2,Nouveau,1,560000.0
+tunis,Ain Zaghouan,64,2.0,1,1,Nouveau,1,232000.0
+tunis,Ain Zaghouan,66,2.0,1,1,Nouveau,1,231000.0
+tunis,Ain Zaghouan,160,4.0,3,3,Nouveau,1,550000.0
+tunis,Ain Zaghouan,50,2.0,1,1,Bon état,1,370000.0
+tunis,Ain Zaghouan,53,2.0,1,1,Bon état,1,240000.0
+tunis,Aouina,124,3.0,2,2,Nouveau,1,420000.0
+tunis,Ariana Ville,162,4.0,3,2,Nouveau,1,825000.0
+tunis,Ariana Ville,101,3.0,2,1,Bon état,1,558000.0
+tunis,Ariana Ville,103,3.0,2,1,Bon état,1,572000.0
+tunis,Les Berges Du Lac,300,4.0,3,2,Nouveau,1,1560000.0
+tunis,Ain Zaghouan,182,4.0,3,3,Nouveau,1,970000.0
+tunis,Bab Bhar,90,3.0,3,1,1-5 ans,3,320000.0
+tunis,Ain Zaghouan,85,2.0,2,1,Nouveau,1,313000.0
+tunis,Gammarth,166,4.0,3,2,Nouveau,1,400000.0
+tunis,Ariana Ville,120,3.0,2,2,Nouveau,1,600000.0
+tunis,Cite El Khadra,198,4.0,3,2,10-20 ans,1,750000.0
+tunis,Aouina,89,3.0,2,1,Nouveau,1,338950.0
+tunis,Ariana Ville,118,3.0,2,2,Nouveau,1,547000.0
+tunis,Aouina,116,3.0,2,1,1-5 ans,1,345000.0
+tunis,Ain Zaghouan,70,1.0,1,1,Nouveau,1,260000.0
+tunis,Ariana Ville,134,4.0,3,2,Nouveau,1,459000.0
+tunis,Ariana Ville,175,4.0,3,3,Bon état,1,975000.0
+tunis,Aouina,75,2.0,1,1,Moins d'un an,1,250000.0
+tunis,Ariana Ville,82,2.0,3,1,Nouveau,1,450000.0
+tunis,Ariana Ville,110,3.0,2,1,Nouveau,1,480000.0
+tunis,Aouina,132,4.0,3,1,Nouveau,1,415000.0
+tunis,El Omrane,179,4.0,3,3,Bon état,1,550000.0
+tunis,Ariana Ville,55,2.0,1,1,Bon état,1,385000.0
+tunis,Hrairia,85,3.0,2,1,5-10 ans,1,135000.0
+tunis,Aouina,75,2.0,1,1,Bon état,1,175000.0
+tunis,El Omrane,75,5.0,3,1,Bon état,1,100000.0
+tunis,Ariana Ville,93,3.0,2,1,Nouveau,1,380000.0
+tunis,Ariana Ville,183,4.0,3,1,1-5 ans,1,850000.0
+tunis,Les Berges Du Lac,100,4.0,2,1,20-30 ans,2,415000.0
+tunis,Ariana Ville,128,4.0,3,2,Bon état,1,350000.0
+tunis,Aouina,107,3.0,2,1,10-20 ans,2,230000.0
+tunis,Aouina,100,3.0,2,1,10-20 ans,2,270000.0
+tunis,El Menzah 7,110,4.0,4,2,À rénover,3,220000.0
+tunis,Aouina,153,4.0,3,1,Nouveau,5,390000.0
+tunis,Ain Zaghouan,170,4.0,3,2,Nouveau,1,1126000.0
+tunis,Les Berges Du Lac,142,3.0,2,2,Nouveau,8,784000.0
+tunis,Ain Zaghouan,166,3.0,2,2,Nouveau,1,632000.0
+tunis,Bab Bhar,178,4.0,3,1,Bon état,1,500000.0
+tunis,El Ouardia,154,4.0,4,1,Nouveau,1,300000.0
+tunis,Bab Bhar,120,4.0,3,1,Bon état,1,295000.0
+tunis,Gammarth,180,4.0,3,2,Bon état,1,660000.0
+tunis,Aouina,200,4.0,3,2,Bon état,1,520000.0
+tunis,Ariana Ville,300,5.0,4,2,20-30 ans,1,850000.0
+tunis,Ariana Ville,121,3.0,2,1,1-5 ans,1,550000.0
+tunis,Ariana Ville,124,3.0,2,2,Moins d'un an,3,590000.0
+tunis,Ariana Ville,222,2.0,3,3,Bon état,1,1500000.0
+tunis,Ain Zaghouan,159,4.0,3,3,Moins d'un an,5,507000.0
+tunis,Ain Zaghouan,74,2.0,1,1,Moins d'un an,4,259000.0
+tunis,Ain Zaghouan,182,4.0,3,3,Moins d'un an,2,600000.0
+tunis,Ariana Ville,118,2.0,2,1,nan,1,480000.0
+tunis,Ariana Ville,158,4.0,3,3,1-5 ans,2,720000.0
+tunis,Ariana Ville,70,1.0,1,1,Nouveau,1,226000.0
+tunis,Aouina,128,4.0,4,1,Nouveau,1,360000.0
+tunis,Gammarth,150,3.0,2,1,1-5 ans,1,930000.0
+tunis,Aouina,154,4.0,3,2,5-10 ans,1,370000.0
+tunis,Les Berges Du Lac,289,4.0,3,3,Bon état,1,1445000.0
+tunis,Ariana Ville,67,2.0,1,1,Bon état,1,280000.0
+tunis,Ain Zaghouan,118,3.0,2,2,Moins d'un an,3,389000.0
+tunis,Les Berges Du Lac,194,3.0,3,1,Nouveau,1,849000.0
+tunis,Ain Zaghouan,109,1.0,2,2,Nouveau,1,371000.0
+tunis,Ariana Ville,97,3.0,2,2,Nouveau,1,548000.0
+tunis,Les Berges Du Lac,300,5.0,4,3,Bon état,1,1800000.0
+tunis,Ain Zaghouan,118,3.0,2,2,Moins d'un an,1,376000.0
+tunis,Ariana Ville,125,4.0,3,2,Moins d'un an,1,416000.0
+tunis,Ariana Ville,245,4.0,3,2,1-5 ans,1,900000.0
+tunis,El Manar,220,6.0,4,4,Bon état,1,720000.0
+tunis,Ariana Ville,153,5.0,3,2,5-10 ans,1,520000.0
+tunis,Ariana Ville,188,5.0,3,2,5-10 ans,5,690000.0
+tunis,Hrairia,140,4.0,3,1,10-20 ans,1,205000.0
+tunis,Aouina,94,3.0,2,1,Moins d'un an,3,270000.0
+tunis,Ariana Ville,76,1.0,2,1,nan,1,435000.0
+tunis,Ariana Ville,157,4.0,3,2,Nouveau,1,700000.0
+tunis,Ariana Ville,100,3.0,2,1,Nouveau,1,555000.0
+tunis,El Ouardia,100,3.0,2,1,Bon état,1,270000.0
+tunis,Ain Zaghouan,67,1.0,1,1,Nouveau,1,241000.0
+tunis,El Manar,109,4.0,3,1,Bon état,1,260000.0
+tunis,Aouina,147,4.0,3,2,Bon état,5,370000.0
+tunis,Ariana Ville,103,4.0,3,1,Bon état,1,300000.0
+tunis,Gammarth,150,3.0,2,2,Nouveau,1,980000.0
+tunis,Gammarth,111,2.0,1,1,Bon état,1,720000.0
+tunis,Ariana Ville,130,3.0,2,2,Moins d'un an,1,720000.0
+tunis,Les Berges Du Lac,194,4.0,3,3,10-20 ans,1,865000.0
+tunis,Aouina,74,2.0,1,1,1-5 ans,6,230000.0
+tunis,Les Berges Du Lac,232,4.0,3,2,Bon état,1,1000000.0
+tunis,Le Bardo,300,4.0,3,1,Moins d'un an,1,1850000.0
+tunis,Ariana Ville,181,4.0,3,3,Moins d'un an,1,795000.0
+tunis,Aouina,112,4.0,3,2,Bon état,1,594000.0
+tunis,Ariana Ville,109,2.0,2,1,nan,1,250000.0
+tunis,Ain Zaghouan,115,3.0,2,2,Moins d'un an,1,490000.0
+tunis,El Menzah 7,116,3.0,2,1,1-5 ans,3,420000.0
+tunis,Ain Zaghouan,117,3.0,2,2,Moins d'un an,1,386000.0
+tunis,Ain Zaghouan,189,3.0,3,1,5-10 ans,1,640000.0
+tunis,Ain Zaghouan,122,3.0,2,2,Moins d'un an,3,400000.0
+tunis,Ariana Ville,162,3.0,2,1,nan,1,825000.0
+tunis,Gammarth,138,3.0,2,2,Nouveau,1,692500.0
+tunis,Gammarth,149,3.0,2,1,Nouveau,1,972000.0
+tunis,Gammarth,138,3.0,2,1,Nouveau,1,531552.0
+tunis,Ariana Ville,112,2.0,2,1,nan,1,398000.0
+tunis,Le Bardo,137,2.0,2,1,nan,1,300000.0
+tunis,Ariana Ville,163,4.0,3,2,Nouveau,1,825000.0
+tunis,Le Bardo,93,1.0,2,1,5-10 ans,1,270000.0
+tunis,Le Bardo,100,4.0,3,1,Bon état,2,260000.0
+tunis,Ain Zaghouan,160,3.0,2,2,Nouveau,1,865000.0
+tunis,Ariana Ville,170,4.0,3,3,1-5 ans,1,788000.0
+tunis,Ariana Ville,153,4.0,3,2,Bon état,1,530000.0
+tunis,Ain Zaghouan,120,3.0,2,2,Nouveau,1,564000.0
+tunis,Le Bardo,97,3.0,2,1,10-20 ans,4,280000.0
+tunis,Ariana Ville,230,5.0,3,2,Bon état,1,790000.0
+tunis,Ariana Ville,200,4.0,3,2,1-5 ans,1,1600000.0
+tunis,Ain Zaghouan,102,2.0,2,1,Nouveau,1,750000.0
+tunis,Aouina,100,3.0,2,1,Nouveau,1,260000.0
+tunis,Gammarth,120,2.0,1,1,Bon état,1,680000.0
+tunis,Ariana Ville,172,4.0,4,3,Moins d'un an,1,780000.0
+tunis,Ariana Ville,99,3.0,2,2,Moins d'un an,1,437000.0
+tunis,Ariana Ville,136,4.0,3,3,Moins d'un an,1,590000.0
+tunis,Ariana Ville,126,3.0,2,2,Nouveau,1,668000.0
+tunis,Cite El Khadra,160,4.0,3,1,Bon état,2,304000.0
+tunis,Ariana Ville,136,4.0,3,3,Moins d'un an,1,620000.0
+tunis,Ain Zaghouan,167,4.0,3,3,Moins d'un an,2,635000.0
+tunis,Ariana Ville,200,4.0,3,2,Bon état,1,990000.0
+tunis,Ariana Ville,70,2.0,1,1,Bon état,1,410000.0
+tunis,Ariana Ville,100,2.0,2,1,nan,1,340000.0
+tunis,Bab Bhar,41,2.0,2,1,Bon état,1,110000.0
+tunis,Ariana Ville,75,2.0,2,1,nan,1,570000.0
+tunis,Ariana Ville,155,4.0,3,2,5-10 ans,3,550000.0
+tunis,Ariana Ville,68,2.0,2,1,10-20 ans,2,400000.0
+tunis,Ariana Ville,115,3.0,2,2,Bon état,1,415000.0
+tunis,El Manar,180,4.0,3,2,20-30 ans,1,470000.0
+tunis,Ain Zaghouan,206,3.0,2,2,10-20 ans,1,390000.0
+tunis,Ain Zaghouan,43,1.0,1,1,Moins d'un an,1,245000.0
+tunis,Aouina,109,3.0,2,1,10-20 ans,6,250000.0
+tunis,Les Berges Du Lac,180,4.0,3,3,5-10 ans,3,820000.0
+tunis,Aouina,73,2.0,1,1,10-20 ans,3,175000.0
+tunis,El Ouardia,97,3.0,2,1,10-20 ans,6,210000.0
+tunis,Ariana Ville,185,4.0,3,3,Moins d'un an,1,1320000.0
+tunis,Ariana Ville,83,3.0,2,1,Moins d'un an,3,450000.0
+tunis,Ariana Ville,300,5.0,4,3,1-5 ans,4,3000000.0
+tunis,Ariana Ville,30,3.0,2,1,1-5 ans,10,680000.0
+tunis,Ariana Ville,300,18.0,12,6,Bon état,1,900000.0
+tunis,Gammarth,30,3.0,2,1,Moins d'un an,1,1850000.0
+tunis,Aouina,142,4.0,3,2,Moins d'un an,3,370000.0
+tunis,Ain Zaghouan,167,4.0,3,3,Moins d'un an,1,635000.0
+tunis,Ariana Ville,194,5.0,4,4,Moins d'un an,3,1150000.0
+tunis,Ariana Ville,92,3.0,2,1,Moins d'un an,1,506000.0
+tunis,Ariana Ville,137,3.0,2,2,Moins d'un an,1,724000.0
+tunis,Les Berges Du Lac,74,2.0,1,1,1-5 ans,1,380000.0
+tunis,Bab Bhar,114,3.0,3,1,Bon état,2,230000.0
+tunis,Ariana Ville,220,3.0,4,1,Nouveau,1,650000.0
+tunis,Ariana Ville,172,4.0,3,2,Nouveau,1,855000.0
+tunis,Ariana Ville,208,4.0,3,2,Nouveau,1,850000.0
+tunis,Les Berges Du Lac,238,4.0,3,2,Nouveau,1,1000000.0
+tunis,Gammarth,149,2.0,2,1,nan,1,410000.0
+tunis,Ariana Ville,84,2.0,2,1,nan,1,750000.0
+tunis,Ariana Ville,300,4.0,4,3,1-5 ans,1,950000.0
+tunis,Ain Zaghouan,85,2.0,1,1,Nouveau,1,400000.0
+tunis,Ariana Ville,67,1.0,2,1,nan,1,276000.0
+tunis,El Menzah 7,145,1.0,4,2,À rénover,1,450000.0
+tunis,Cite El Khadra,120,4.0,3,2,1-5 ans,4,290000.0
+tunis,Ariana Ville,75,3.0,2,1,Bon état,1,370000.0
+tunis,Ain Zaghouan,137,4.0,3,2,Bon état,1,410000.0
+tunis,Ain Zaghouan,146,1.0,2,2,Bon état,1,575000.0
+tunis,Les Berges Du Lac,220,4.0,3,2,Nouveau,1,1000000.0
+tunis,Aouina,65,1.0,1,1,Moins d'un an,4,227500.0
+tunis,El Menzah 7,120,4.0,4,1,Bon état,1,450000.0
+tunis,El Manar,100,3.0,3,1,À rénover,1,220000.0
+tunis,Ain Zaghouan,202,5.0,4,3,Bon état,7,620000.0
+tunis,Gammarth,150,3.0,2,2,Bon état,1,950000.0
+tunis,Ariana Ville,273,5.0,4,5,Nouveau,1,1801110.0
+tunis,Ariana Ville,147,3.0,2,2,Nouveau,1,650000.0
+tunis,Ariana Ville,190,4.0,3,3,Moins d'un an,3,1263000.0
+tunis,Ariana Ville,30,1.0,1,1,Moins d'un an,1,300000.0
+tunis,Ain Zaghouan,127,3.0,2,2,Nouveau,1,370000.0
+tunis,Ariana Ville,152,4.0,3,3,Moins d'un an,1,820000.0
+tunis,Sidi Hassine,69,2.0,1,1,Nouveau,1,112470.0
+tunis,Ariana Ville,155,2.0,2,1,nan,1,580000.0
+tunis,Ariana Ville,30,4.0,2,1,Nouveau,1,950000.0
+tunis,Aouina,64,2.0,1,1,1-5 ans,4,240000.0
+tunis,Aouina,156,4.0,3,2,5-10 ans,6,375000.0
+tunis,Ain Zaghouan,87,2.0,1,1,Bon état,1,330000.0
+tunis,El Ouardia,30,1.0,1,1,1-5 ans,4,125000.0
+tunis,El Ouardia,87,3.0,2,1,Bon état,1,120000.0
+tunis,Ariana Ville,150,3.0,2,3,Moins d'un an,3,928000.0
+tunis,Ain Zaghouan,74,2.0,1,1,Moins d'un an,1,350000.0
+tunis,Aouina,150,4.0,3,2,Nouveau,1,408000.0
+tunis,Ariana Ville,187,5.0,4,2,1-5 ans,1,970000.0
+tunis,Ain Zaghouan,146,4.0,3,1,10-20 ans,2,318000.0
+tunis,Ain Zaghouan,131,3.0,2,2,Moins d'un an,1,486000.0
+tunis,Gammarth,115,2.0,1,1,5-10 ans,1,900000.0
+tunis,Ain Zaghouan,158,5.0,4,2,Bon état,1,645000.0
+tunis,Ain Zaghouan,198,3.0,2,2,Moins d'un an,2,710000.0
+tunis,Bab El Khadra,120,4.0,3,2,Bon état,1,265000.0
+tunis,Ariana Ville,156,2.0,3,2,1-5 ans,2,220000.0
+tunis,Aouina,127,3.0,2,2,Bon état,1,400000.0
+tunis,Les Berges Du Lac,180,4.0,3,3,Bon état,1,850000.0
+tunis,Ariana Ville,85,2.0,1,1,Nouveau,1,290000.0
+tunis,Sidi Hassine,121,4.0,3,1,Moins d'un an,1,195860.0
+tunis,Ariana Ville,264,2.0,2,1,nan,1,570000.0
+tunis,Ariana Ville,288,6.0,5,3,Bon état,1,980000.0
+tunis,Les Berges Du Lac,80,3.0,2,1,Bon état,1,325000.0
+tunis,Ariana Ville,51,2.0,1,1,Nouveau,1,309000.0
+tunis,Ariana Ville,247,6.0,4,3,Bon état,1,820000.0
+tunis,Ariana Ville,134,4.0,3,2,Bon état,1,450000.0
+tunis,Ain Zaghouan,291,4.0,3,3,Moins d'un an,1,970000.0
+tunis,Ariana Ville,70,2.0,1,1,Nouveau,1,440000.0
+tunis,Aouina,148,4.0,3,2,Bon état,1,370000.0
+tunis,Ain Zaghouan,161,4.0,3,3,Moins d'un an,4,514000.0
+tunis,Ariana Ville,51,2.0,2,1,Moins d'un an,2,295896.0
+tunis,Ariana Ville,81,3.0,2,1,Moins d'un an,1,270000.0
+tunis,Les Berges Du Lac,137,3.0,2,2,5-10 ans,8,500000.0
+tunis,Gammarth,158,2.0,3,1,Nouveau,1,580000.0
+tunis,Ariana Ville,166,4.0,3,2,Nouveau,1,748000.0
+tunis,Gammarth,160,4.0,3,2,5-10 ans,3,500000.0
+tunis,Ariana Ville,126,3.0,2,2,Nouveau,1,592600.0
+tunis,Ariana Ville,119,4.0,3,2,Moins d'un an,1,393000.0
+tunis,Gammarth,140,3.0,2,1,Nouveau,1,420000.0
+tunis,Cite El Khadra,100,4.0,3,1,Bon état,1,245000.0
+tunis,El Menzah 7,114,3.0,2,2,Nouveau,1,380000.0
+tunis,Les Berges Du Lac,130,3.0,2,1,Bon état,1,660000.0
+tunis,Les Berges Du Lac,171,3.0,2,2,1-5 ans,1,850000.0
+tunis,Ariana Ville,85,2.0,1,1,Moins d'un an,1,413000.0
+tunis,Ain Zaghouan,101,3.0,4,1,Nouveau,1,325000.0
+tunis,Le Bardo,123,4.0,3,2,10-20 ans,2,205000.0
+tunis,Ain Zaghouan,160,4.0,3,2,Bon état,1,785000.0
+tunis,Ain Zaghouan,135,3.0,2,2,Bon état,1,350000.0
+tunis,Aouina,129,2.0,1,1,Bon état,1,410000.0
+tunis,Ain Zaghouan,60,2.0,1,1,Nouveau,1,238000.0
+tunis,Ariana Ville,113,3.0,2,2,Bon état,1,490000.0
+tunis,Les Berges Du Lac,195,5.0,3,2,5-10 ans,1,860000.0
+tunis,Ariana Ville,266,4.0,2,1,nan,1,679000.0
+tunis,Ain Zaghouan,218,5.0,2,1,nan,1,1100000.0
+tunis,Les Berges Du Lac,202,3.0,2,1,nan,1,1300000.0
+tunis,Ariana Ville,132,3.0,2,2,Nouveau,1,594000.0
+tunis,Ain Zaghouan,123,3.0,2,2,Nouveau,1,455000.0
+tunis,Ariana Ville,84,2.0,1,1,Bon état,1,380000.0
+tunis,Aouina,147,4.0,3,2,Bon état,1,370000.0
+tunis,Aouina,155,4.0,4,1,Bon état,1,295000.0
+tunis,Aouina,70,2.0,1,1,Moins d'un an,1,239000.0
+tunis,Aouina,157,4.0,3,2,Nouveau,1,399000.0
+tunis,Aouina,50,2.0,1,1,Nouveau,1,210000.0
+tunis,Ariana Ville,120,3.0,2,2,Moins d'un an,1,450000.0
+tunis,Ariana Ville,93,3.0,2,1,Bon état,1,380000.0
+tunis,Ariana Ville,224,4.0,2,1,nan,1,800000.0
+tunis,Ain Zaghouan,170,4.0,3,2,Nouveau,1,745000.0
+tunis,Aouina,50,1.0,1,1,1-5 ans,1,175000.0
+tunis,Ain Zaghouan,130,3.0,2,2,Bon état,1,310000.0
+tunis,Ariana Ville,130,4.0,2,1,nan,1,420000.0
+tunis,Ariana Ville,154,4.0,3,3,Bon état,1,530000.0
+tunis,Ariana Ville,70,2.0,1,1,Moins d'un an,1,420000.0
+tunis,Ariana Ville,300,4.0,3,3,Moins d'un an,1,1800000.0
+tunis,Ain Zaghouan,104,3.0,2,1,Bon état,1,250000.0
+tunis,Gammarth,118,2.0,1,1,Nouveau,1,800000.0
+tunis,Ariana Ville,140,2.0,2,1,nan,1,350000.0
+tunis,Ariana Ville,149,4.0,3,3,1-5 ans,1,695000.0
+tunis,Ariana Ville,153,3.0,2,3,Moins d'un an,2,1025000.0
+tunis,Ariana Ville,137,3.0,2,2,Moins d'un an,2,724000.0
+tunis,Gammarth,63,2.0,1,1,Nouveau,1,350000.0
+tunis,Ariana Ville,150,3.0,2,1,nan,1,850000.0
+tunis,Gammarth,130,3.0,2,1,Moins d'un an,1,375000.0
+tunis,Ariana Ville,225,4.0,3,3,1-5 ans,1,1237000.0
+tunis,Ariana Ville,74,2.0,1,1,Moins d'un an,1,375000.0
+tunis,Le Bardo,74,2.0,2,1,nan,1,170000.0
+tunis,Gammarth,150,3.0,2,1,Bon état,1,2500000.0
+tunis,Gammarth,95,3.0,2,1,Nouveau,1,550000.0
+tunis,Gammarth,165,4.0,3,2,1-5 ans,2,465000.0
+tunis,Ain Zaghouan,140,3.0,2,2,Nouveau,1,650000.0
+tunis,La Goulette,114,2.0,2,1,nan,1,440000.0
+tunis,Ain Zaghouan,100,3.0,2,2,Moins d'un an,1,320000.0
+tunis,Ariana Ville,65,3.0,2,1,Moins d'un an,1,210000.0
+tunis,Le Bardo,116,2.0,2,1,nan,1,195000.0
+tunis,Gammarth,175,4.0,3,2,Moins d'un an,2,490000.0
+tunis,Ain Zaghouan,132,2.0,2,1,Nouveau,1,450000.0
+tunis,Ariana Ville,220,4.0,3,2,Moins d'un an,5,850000.0
+tunis,Aouina,64,3.0,2,1,Bon état,1,260000.0
+tunis,Les Berges Du Lac,170,3.0,3,1,Bon état,1,600000.0
+tunis,Ariana Ville,200,3.0,2,1,Bon état,1,380000.0
+tunis,Ariana Ville,163,4.0,4,3,Moins d'un an,1,875000.0
+tunis,Ariana Ville,102,3.0,2,2,Nouveau,1,472590.0
+tunis,El Manar,86,3.0,2,2,1-5 ans,1,230000.0
+tunis,El Manar,90,2.0,2,1,nan,1,210000.0
+tunis,Ariana Ville,212,2.0,2,1,nan,1,1000000.0
+tunis,Cite El Khadra,137,3.0,2,2,Moins d'un an,1,550000.0
+tunis,Cite El Khadra,95,2.0,2,1,nan,1,155000.0
+tunis,Ariana Ville,145,4.0,2,1,Nouveau,1,768500.0
+tunis,Gammarth,150,2.0,2,1,nan,1,1200000.0
+tunis,Ariana Ville,220,3.0,2,1,nan,1,1050000.0
+tunis,La Goulette,179,2.0,2,1,nan,1,465000.0
+tunis,La Goulette,110,2.0,2,1,nan,1,265000.0
+tunis,Gammarth,120,4.0,3,2,Bon état,1,500000.0
+tunis,Ariana Ville,72,2.0,1,1,Bon état,1,320000.0
+tunis,Ain Zaghouan,140,3.0,2,2,Bon état,1,700000.0
+tunis,Ariana Ville,90,3.0,2,1,Bon état,1,195000.0
+tunis,Ain Zaghouan,117,2.0,1,1,1-5 ans,2,300000.0
+tunis,Ariana Ville,300,3.0,4,1,Nouveau,1,680000.0
+tunis,Ariana Ville,90,3.0,2,1,10-20 ans,2,175000.0
+tunis,El Omrane,115,3.0,2,1,Bon état,1,150000.0
+tunis,Ariana Ville,172,2.0,2,1,nan,1,845000.0
+tunis,Ariana Ville,300,5.0,4,5,5-10 ans,1,2800000.0
+tunis,Les Berges Du Lac,146,5.0,4,3,1-5 ans,1,530000.0
+tunis,Ariana Ville,164,2.0,2,1,nan,1,580000.0
+tunis,Cite El Khadra,163,2.0,2,1,nan,1,340000.0
+tunis,Ariana Ville,224,5.0,4,2,Nouveau,1,895000.0
+tunis,Les Berges Du Lac,201,2.0,2,1,nan,1,1150000.0
+tunis,Ariana Ville,300,5.0,4,4,Nouveau,1,1200000.0
+tunis,Ariana Ville,175,4.0,3,3,Bon état,1,780000.0
+tunis,Ariana Ville,140,4.0,3,2,Nouveau,1,742000.0
+tunis,Ariana Ville,83,2.0,1,1,Bon état,1,380000.0
+tunis,Ariana Ville,200,5.0,4,2,1-5 ans,1,650000.0
+tunis,Aouina,67,2.0,1,1,Moins d'un an,1,265000.0
+tunis,Ain Zaghouan,77,2.0,2,1,Moins d'un an,1,312000.0
+tunis,Ariana Ville,240,5.0,4,3,Bon état,1,975000.0
+tunis,Ariana Ville,119,3.0,2,1,Nouveau,1,640000.0
+tunis,Ariana Ville,77,2.0,1,1,Moins d'un an,1,440000.0
+tunis,Ariana Ville,60,2.0,1,1,Bon état,1,340000.0
+tunis,El Menzah 7,100,3.0,1,2,Nouveau,1,389000.0
+tunis,Ain Zaghouan,195,4.0,3,3,Moins d'un an,1,660000.0
+tunis,Ariana Ville,83,2.0,1,1,Moins d'un an,2,445000.0
+tunis,Ariana Ville,68,2.0,1,1,Moins d'un an,1,368000.0
+tunis,Ariana Ville,129,3.0,2,1,Nouveau,1,709000.0
+tunis,Ariana Ville,72,2.0,1,1,1-5 ans,2,320000.0
+tunis,Ariana Ville,93,3.0,2,2,Moins d'un an,6,500181.0
+tunis,Gammarth,165,4.0,3,2,Nouveau,1,465000.0
+tunis,Les Berges Du Lac,100,3.0,2,1,10-20 ans,3,440000.0
+tunis,Gammarth,175,4.0,3,2,Nouveau,1,490000.0
+tunis,El Menzah 7,129,4.0,3,2,Nouveau,1,520000.0
+tunis,Ariana Ville,125,4.0,3,2,Moins d'un an,1,429000.0
+tunis,Ain Zaghouan,117,3.0,2,1,Moins d'un an,2,386000.0
+tunis,Ariana Ville,300,4.0,4,3,Nouveau,1,1800000.0
+tunis,Ariana Ville,165,4.0,3,2,5-10 ans,2,680000.0
+tunis,Ain Zaghouan,186,4.0,3,3,Moins d'un an,1,720000.0
+tunis,Ariana Ville,102,3.0,2,2,Moins d'un an,1,349000.0
+tunis,Ariana Ville,110,3.0,2,2,Moins d'un an,8,589111.0
+tunis,El Menzah 7,145,4.0,3,2,Nouveau,1,555000.0
+tunis,El Manar,140,4.0,3,2,20-30 ans,1,310000.0
+tunis,Ain Zaghouan,269,4.0,3,2,Moins d'un an,3,790000.0
+tunis,Ariana Ville,175,4.0,3,2,Moins d'un an,1,780000.0
+tunis,Ariana Ville,83,3.0,2,1,Moins d'un an,1,277000.0
+tunis,Ariana Ville,117,5.0,2,2,Nouveau,2,641000.0
+tunis,Ariana Ville,151,3.0,3,3,Nouveau,1,798000.0
+tunis,Ain Zaghouan,131,3.0,2,1,1-5 ans,1,350000.0
+tunis,Ariana Ville,105,3.0,2,1,Moins d'un an,2,420000.0
+tunis,Ariana Ville,60,1.0,1,1,Bon état,1,320000.0
+tunis,Ain Zaghouan,144,3.0,2,1,5-10 ans,2,570000.0
+tunis,Ariana Ville,110,3.0,2,2,Moins d'un an,1,364000.0
+tunis,Ariana Ville,164,4.0,3,4,Nouveau,2,897000.0
+tunis,Ariana Ville,140,4.0,3,2,Moins d'un an,7,741000.0
+tunis,Ariana Ville,110,3.0,2,2,Moins d'un an,2,607000.0
+tunis,Ariana Ville,140,4.0,3,2,10-20 ans,1,495000.0
+tunis,Gammarth,152,3.0,2,2,1-5 ans,2,350000.0
+tunis,Ariana Ville,150,4.0,3,3,Nouveau,2,735000.0
+tunis,Les Berges Du Lac,160,5.0,4,1,Bon état,1,570000.0
+tunis,Ain Zaghouan,72,2.0,1,1,Moins d'un an,1,457000.0
+tunis,Ain Zaghouan,167,4.0,4,2,Moins d'un an,1,740000.0
+tunis,Ain Zaghouan,205,4.0,3,3,Nouveau,1,1076000.0
+tunis,Ariana Ville,72,2.0,1,1,1-5 ans,1,305000.0
+tunis,Ariana Ville,115,4.0,3,2,Bon état,1,1500000.0
+tunis,Bab El Khadra,80,4.0,3,1,Bon état,1,130000.0
+tunis,Ariana Ville,72,2.0,1,1,10-20 ans,1,320000.0
+tunis,Aouina,120,2.0,2,1,Nouveau,1,408646.0
+tunis,El Ouardia,170,2.0,2,1,nan,1,480000.0
+tunis,Ain Zaghouan,71,2.0,1,2,Nouveau,1,340000.0
+tunis,El Ouardia,63,2.0,2,1,nan,1,125000.0
+tunis,El Ouardia,70,2.0,2,1,nan,1,175000.0
+tunis,Aouina,90,3.0,2,1,Bon état,1,240000.0
+tunis,Ariana Ville,103,3.0,2,1,Nouveau,1,571650.0
+tunis,El Ouardia,140,2.0,2,1,nan,1,280000.0
+tunis,Ariana Ville,117,3.0,2,2,Nouveau,1,671000.0
+tunis,Ariana Ville,232,4.0,3,4,Nouveau,2,1350000.0
+tunis,Aouina,95,3.0,2,1,10-20 ans,5,220000.0
+tunis,Ariana Ville,217,5.0,4,3,Nouveau,1,1193500.0
+tunis,Aouina,101,3.0,2,1,5-10 ans,5,288000.0
+tunis,Ariana Ville,139,3.0,2,2,Moins d'un an,1,764500.0
+tunis,La Goulette,65,2.0,2,1,nan,1,260000.0
+tunis,Ain Zaghouan,70,1.0,1,1,Nouveau,1,370000.0
+tunis,Ariana Ville,168,4.0,3,3,Nouveau,1,924000.0
+tunis,Gammarth,206,4.0,3,2,Nouveau,1,780000.0
+tunis,Ain Zaghouan,170,4.0,3,3,Moins d'un an,2,740000.0
+tunis,Gammarth,108,2.0,2,1,nan,1,210000.0
+tunis,Ariana Ville,160,6.0,2,2,1-5 ans,1,490000.0
+tunis,Ariana Ville,219,4.0,3,2,Moins d'un an,1,1095000.0
+tunis,Ariana Ville,191,2.0,2,1,nan,1,700000.0
+tunis,Gammarth,134,3.0,2,2,Moins d'un an,2,295000.0
+tunis,Ain Zaghouan,173,4.0,3,3,5-10 ans,6,690000.0
+tunis,Ariana Ville,300,6.0,5,5,Moins d'un an,1,1600000.0
+tunis,El Menzah 7,192,4.0,3,2,Moins d'un an,3,773000.0
+tunis,Ariana Ville,300,4.0,2,1,nan,1,1800000.0
+tunis,Aouina,70,2.0,1,1,5-10 ans,6,180000.0
+tunis,Ariana Ville,69,2.0,1,1,Nouveau,1,443000.0
+tunis,El Menzah 7,132,2.0,2,1,nan,1,255000.0
+tunis,Ariana Ville,135,4.0,2,1,nan,1,675000.0
+tunis,Sidi Hassine,124,6.0,4,1,Moins d'un an,5,196000.0
+tunis,Aouina,105,2.0,2,1,10-20 ans,2,260000.0
+tunis,Ariana Ville,181,4.0,3,2,Moins d'un an,3,785000.0
+tunis,Aouina,118,3.0,2,2,Moins d'un an,2,401000.0
+tunis,Ariana Ville,140,4.0,3,4,Moins d'un an,1,650000.0
+tunis,Ain Zaghouan,125,3.0,2,2,10-20 ans,1,240000.0
+tunis,Les Berges Du Lac,296,4.0,3,3,5-10 ans,6,900000.0
+tunis,Aouina,157,5.0,4,2,10-20 ans,2,330000.0
+tunis,Aouina,71,2.0,1,1,Moins d'un an,1,239700.0
+tunis,Aouina,122,3.0,2,1,5-10 ans,2,310000.0
+tunis,Aouina,100,1.0,2,1,10-20 ans,6,240000.0
+tunis,Ariana Ville,181,4.0,3,1,Nouveau,1,780000.0
+tunis,Ariana Ville,132,3.0,2,1,5-10 ans,1,350000.0
+tunis,Aouina,118,2.0,1,1,Moins d'un an,1,327000.0
+tunis,Montfleury,170,3.0,3,1,Bon état,1,240000.0
+tunis,Ain Zaghouan,58,1.0,1,1,1-5 ans,1,183000.0
+tunis,Ariana Ville,118,3.0,2,2,Moins d'un an,1,600000.0
+tunis,Aouina,115,3.0,2,1,Bon état,2,340000.0
+tunis,Aouina,77,3.0,2,1,10-20 ans,4,245000.0
+tunis,La Goulette,195,7.0,4,1,20-30 ans,7,420000.0
+tunis,La Goulette,300,2.0,2,1,nan,1,200000.0
+tunis,Aouina,97,2.0,2,1,Nouveau,1,345000.0
+tunis,Aouina,100,4.0,3,1,20-30 ans,2,280000.0
+tunis,Ariana Ville,151,4.0,3,3,Nouveau,1,797000.0
+tunis,Ariana Ville,239,4.0,4,3,Nouveau,1,750000.0
+tunis,Ain Zaghouan,106,4.0,3,1,Bon état,1,280000.0
+tunis,Cite El Khadra,152,4.0,3,2,nan,1,520000.0
+tunis,Ain Zaghouan,178,4.0,3,3,Moins d'un an,1,1126000.0
+tunis,Le Bardo,70,2.0,2,1,10-20 ans,1,150000.0
+tunis,Ariana Ville,189,2.0,4,1,Nouveau,1,930000.0
+tunis,Ariana Ville,65,2.0,2,1,nan,1,400000.0
+tunis,Bab El Khadra,85,3.0,2,1,Bon état,3,220000.0
+tunis,Ariana Ville,154,2.0,3,2,Bon état,1,593000.0
+tunis,Ariana Ville,252,3.0,4,2,Nouveau,1,947300.0
+tunis,Bab El Khadra,180,4.0,3,1,Bon état,3,190000.0
+tunis,Ariana Ville,204,4.0,2,1,nan,1,780000.0
+tunis,El Manar,300,12.0,9,5,10-20 ans,1,1800000.0
+tunis,Ariana Ville,123,3.0,2,2,Nouveau,1,553500.0
+tunis,Gammarth,180,4.0,3,2,Nouveau,1,915000.0
+tunis,Ain Zaghouan,236,4.0,4,1,Nouveau,1,1100000.0
+tunis,Ain Zaghouan,45,1.0,1,1,Moins d'un an,2,245000.0
+tunis,Aouina,110,3.0,2,2,Moins d'un an,1,360000.0
+tunis,El Menzah 7,128,2.0,2,1,nan,1,430000.0
+tunis,Les Berges Du Lac,244,3.0,2,1,nan,1,1060000.0
+tunis,Montfleury,113,3.0,2,1,5-10 ans,4,200000.0
+tunis,Ariana Ville,125,3.0,2,1,Nouveau,1,365000.0
+tunis,Ariana Ville,125,3.0,2,1,Nouveau,1,405000.0
+tunis,Ain Zaghouan,43,1.0,1,1,Nouveau,1,245000.0
+tunis,Aouina,90,3.0,2,2,10-20 ans,2,320000.0
+tunis,Ariana Ville,98,3.0,2,1,Bon état,1,185000.0
+tunis,El Ouardia,110,3.0,2,1,Bon état,1,250000.0
+tunis,El Manar,180,7.0,4,1,20-30 ans,1,450000.0
+tunis,Ariana Ville,120,6.0,2,1,Bon état,2,170000.0
+tunis,Ain Zaghouan,172,4.0,3,2,Nouveau,1,750000.0
+tunis,Ariana Ville,112,3.0,2,1,Bon état,1,250000.0
+tunis,El Ouardia,95,3.0,3,1,30-50 ans,1,240000.0
+tunis,Ariana Ville,72,2.0,1,1,Bon état,1,320000.0
+tunis,Gammarth,300,5.0,4,2,Bon état,1,3000000.0
+tunis,Aouina,168,4.0,3,2,10-20 ans,4,350000.0
+tunis,Ain Zaghouan,110,2.0,2,1,Nouveau,1,500000.0
+tunis,Gammarth,300,10.0,6,3,10-20 ans,1,1100000.0
+tunis,Aouina,108,3.0,2,1,Moins d'un an,1,524000.0
+tunis,Aouina,75,2.0,1,1,Moins d'un an,4,304000.0
+tunis,Aouina,174,4.0,3,3,Moins d'un an,3,593000.0
+tunis,Aouina,165,4.0,3,3,Moins d'un an,1,561000.0
+tunis,Cite El Khadra,94,1.0,2,1,Nouveau,1,433600.0
+tunis,El Omrane,93,1.0,4,1,Bon état,1,120000.0
+tunis,Les Berges Du Lac,200,4.0,3,2,5-10 ans,3,790000.0
+tunis,Cite El Khadra,57,2.0,1,1,Nouveau,1,338235.0
+tunis,Ariana Ville,275,4.0,3,2,Bon état,6,990000.0
+tunis,Ariana Ville,120,2.0,2,1,nan,1,510000.0
+tunis,Ariana Ville,174,3.0,2,1,nan,1,982000.0
+tunis,Aouina,185,4.0,3,3,Bon état,1,460000.0
+tunis,Cite El Khadra,122,2.0,2,1,nan,1,400000.0
+tunis,Ariana Ville,90,3.0,2,1,Bon état,1,490000.0
+tunis,Ariana Ville,199,2.0,2,1,nan,1,830000.0
+tunis,Ain Zaghouan,153,4.0,3,2,Nouveau,1,430000.0
+tunis,Ain Zaghouan,62,2.0,1,1,Moins d'un an,1,345000.0
+tunis,Les Berges Du Lac,70,3.0,1,1,20-30 ans,1,300000.0
+tunis,Ain Zaghouan,63,1.0,1,1,Nouveau,3,345000.0
+tunis,Les Berges Du Lac,120,3.0,2,1,5-10 ans,7,580000.0
+tunis,Ain Zaghouan,140,4.0,3,2,Moins d'un an,5,420000.0
+tunis,El Manar,114,3.0,2,1,20-30 ans,1,330000.0
+tunis,Aouina,72,2.0,1,1,Moins d'un an,4,251850.0
+tunis,Ariana Ville,124,3.0,2,2,Moins d'un an,4,420000.0
+tunis,Aouina,100,3.0,2,2,Moins d'un an,5,315000.0
+tunis,Ariana Ville,43,1.0,1,1,Nouveau,1,265000.0
+tunis,Cite El Khadra,84,2.0,2,1,nan,1,190000.0
+tunis,Cite El Khadra,103,2.0,2,1,nan,1,470000.0
+tunis,Cite El Khadra,88,2.0,2,1,nan,1,210000.0
+tunis,Cite El Khadra,173,2.0,2,1,nan,1,325000.0
+tunis,Aouina,130,7.0,3,2,Nouveau,7,313000.0
+tunis,Ariana Ville,108,2.0,2,1,Nouveau,1,540000.0
+tunis,El Menzah 7,128,4.0,2,2,Nouveau,1,445000.0
+tunis,Ariana Ville,210,4.0,3,2,Bon état,1,320000.0
+tunis,Bab Bhar,117,4.0,4,1,Bon état,3,210000.0
+tunis,La Goulette,178,4.0,3,3,Nouveau,1,680000.0
+tunis,Cite El Khadra,146,4.0,3,2,Bon état,1,580000.0
+tunis,Ain Zaghouan,173,4.0,3,2,Bon état,4,650000.0
+tunis,Ariana Ville,50,2.0,1,1,Bon état,1,440000.0
+tunis,Gammarth,176,4.0,3,2,Moins d'un an,1,420000.0
+tunis,Ariana Ville,110,4.0,3,1,Bon état,1,300000.0
+tunis,Aouina,92,2.0,1,1,Moins d'un an,5,340000.0
+tunis,Les Berges Du Lac,260,5.0,4,2,20-30 ans,3,1500000.0
+tunis,Aouina,168,4.0,3,2,Moins d'un an,1,638000.0
+tunis,Aouina,188,4.0,3,2,Moins d'un an,1,750000.0
+tunis,Aouina,290,4.0,3,2,Moins d'un an,1,855000.0
+tunis,Aouina,135,3.0,2,2,Moins d'un an,4,540000.0
+tunis,El Menzah 7,152,4.0,3,2,5-10 ans,1,520000.0
+tunis,Ariana Ville,225,5.0,3,3,Bon état,1,770000.0
+tunis,Ariana Ville,120,4.0,3,2,Bon état,1,170000.0
+tunis,El Manar,115,4.0,3,2,Bon état,2,290000.0
+tunis,Ain Zaghouan,146,4.0,3,2,1-5 ans,4,470000.0
+tunis,Aouina,95,3.0,2,1,Bon état,1,270000.0
+tunis,Cite El Khadra,210,5.0,4,2,1-5 ans,3,380000.0
+tunis,Cite El Khadra,137,3.0,2,2,Bon état,1,380000.0
+tunis,Ain Zaghouan,72,2.0,1,2,Moins d'un an,1,360000.0
+tunis,Ariana Ville,141,3.0,2,2,Nouveau,1,620000.0
+tunis,Montplaisir,78,2.0,1,1,Nouveau,1,195980.0
+tunis,Ariana Ville,168,4.0,3,3,Nouveau,1,756000.0
+tunis,Ariana Ville,109,1.0,2,1,1-5 ans,4,300000.0
+tunis,Aouina,97,3.0,2,1,Bon état,1,270000.0
+tunis,Ariana Ville,126,2.0,2,1,Nouveau,1,698000.0
+tunis,Ariana Ville,224,3.0,2,1,nan,1,850000.0
+tunis,Ariana Ville,86,2.0,1,1,Nouveau,1,413000.0
+tunis,Cite El Khadra,115,3.0,2,2,Bon état,1,350000.0
+tunis,El Menzah 7,300,3.0,6,3,10-20 ans,1,3100000.0
+tunis,El Ouardia,220,2.0,2,1,nan,1,330000.0
+tunis,Ariana Ville,100,2.0,2,1,nan,1,250000.0
+tunis,Gammarth,300,5.0,4,3,Bon état,1,1700000.0
+tunis,Ariana Ville,150,3.0,3,2,Nouveau,1,695000.0
+tunis,El Ouardia,115,2.0,2,1,nan,1,160000.0
+tunis,Ariana Ville,182,4.0,3,2,5-10 ans,5,700000.0
+tunis,Ariana Ville,95,3.0,2,1,Bon état,1,210000.0
+tunis,Ain Zaghouan,190,5.0,4,2,Moins d'un an,1,850000.0
+tunis,Montplaisir,101,4.0,1,1,Nouveau,1,252250.0
+tunis,Aouina,111,3.0,2,2,Moins d'un an,2,355968.0
+tunis,Ain Zaghouan,79,1.0,1,1,Nouveau,1,385000.0
+tunis,Ariana Ville,260,5.0,3,3,Moins d'un an,1,1450000.0
+tunis,Les Berges Du Lac,300,6.0,4,2,10-20 ans,7,1750000.0
+tunis,Ain Zaghouan,30,2.0,1,1,Nouveau,1,395000.0
+tunis,Ariana Ville,174,4.0,3,3,Bon état,1,700000.0
+tunis,Ariana Ville,86,2.0,2,1,Bon état,1,430000.0
+tunis,Aouina,173,3.0,2,1,Moins d'un an,1,540000.0
+tunis,Ain Zaghouan,78,2.0,1,1,Moins d'un an,1,429000.0
+tunis,Gammarth,132,2.0,2,1,nan,1,550000.0
+tunis,Aouina,125,4.0,3,1,1-5 ans,1,370000.0
+tunis,Le Bardo,76,1.0,2,1,10-20 ans,1,120000.0
+tunis,Aouina,250,4.0,3,2,Moins d'un an,1,1050000.0
+tunis,Ariana Ville,86,3.0,2,1,Bon état,1,320000.0
+tunis,Ariana Ville,183,2.0,2,1,nan,1,720000.0
+tunis,Ariana Ville,104,2.0,2,1,nan,1,325000.0
+tunis,Gammarth,300,5.0,4,4,Nouveau,1,1350000.0
+tunis,Aouina,132,5.0,3,2,Moins d'un an,5,380000.0
+tunis,Ain Zaghouan,130,3.0,2,2,Moins d'un an,3,490000.0
+tunis,Ariana Ville,103,4.0,3,2,Bon état,1,425000.0
+tunis,Aouina,130,3.0,3,1,5-10 ans,3,360000.0
+tunis,Bab Bhar,97,3.0,2,1,Bon état,1,175000.0
+tunis,Ariana Ville,123,2.0,2,2,Moins d'un an,4,578000.0
+tunis,Ariana Ville,203,2.0,2,3,Moins d'un an,1,857000.0
+tunis,El Menzah 7,120,3.0,2,1,Moins d'un an,1,420000.0
+tunis,Ariana Ville,130,2.0,2,1,nan,1,780000.0
+tunis,Sijoumi,100,4.0,3,1,1-5 ans,3,135000.0
+tunis,Ariana Ville,105,1.0,1,1,Moins d'un an,3,442000.0
+tunis,Bab Bhar,50,3.0,2,1,Bon état,1,100000.0
+tunis,Cite El Khadra,127,3.0,2,1,1-5 ans,1,470000.0
+tunis,Bab Bhar,104,4.0,3,1,Bon état,1,180000.0
+tunis,Bab El Khadra,90,3.0,2,1,10-20 ans,2,165000.0
+tunis,Ariana Ville,147,2.0,2,1,nan,1,335000.0
+tunis,Ariana Ville,274,6.0,4,5,Nouveau,1,1800000.0
+tunis,Ariana Ville,126,3.0,2,2,Moins d'un an,2,605000.0
+tunis,Ariana Ville,208,3.0,2,2,Nouveau,1,1050000.0
+tunis,Gammarth,242,3.0,2,1,Nouveau,1,693000.0
+tunis,Ariana Ville,176,1.0,3,2,1-5 ans,1,275000.0
+tunis,Ariana Ville,112,2.0,2,1,nan,1,550000.0
+tunis,Ain Zaghouan,140,4.0,3,1,10-20 ans,2,320000.0
+tunis,Ariana Ville,150,4.0,3,3,Moins d'un an,1,695000.0
+tunis,Ariana Ville,190,1.0,2,1,nan,1,1080000.0
+tunis,El Menzah 7,110,2.0,2,1,nan,1,195000.0
+tunis,Gammarth,243,3.0,4,1,Nouveau,1,910000.0
+tunis,Le Bardo,110,4.0,3,1,Bon état,2,210000.0
+tunis,Les Berges Du Lac,208,6.0,4,3,10-20 ans,2,650000.0
+tunis,Aouina,144,4.0,3,3,Moins d'un an,5,482240.0
+tunis,Aouina,61,2.0,1,1,Moins d'un an,5,261222.0
+tunis,Ariana Ville,100,3.0,2,1,1-5 ans,2,450000.0
+tunis,Ariana Ville,160,4.0,3,2,Bon état,1,550000.0
+tunis,Ariana Ville,135,3.0,3,2,Moins d'un an,2,628000.0
+tunis,Les Berges Du Lac,220,4.0,3,3,1-5 ans,2,1300000.0
+tunis,Bab Bhar,130,5.0,5,1,Nouveau,1,245000.0
+tunis,El Ouardia,95,4.0,3,1,Nouveau,1,275000.0
+tunis,Aouina,220,3.0,2,2,Moins d'un an,1,430000.0
+tunis,Ain Zaghouan,175,4.0,3,2,Nouveau,1,620000.0
+tunis,Aouina,300,4.0,3,3,Moins d'un an,1,750000.0
+tunis,La Goulette,142,4.0,3,2,Bon état,1,330000.0
+tunis,Aouina,144,3.0,2,1,Moins d'un an,1,450000.0
+tunis,Aouina,125,4.0,3,2,Moins d'un an,1,450000.0
+tunis,Aouina,103,3.0,2,2,Moins d'un an,1,319000.0
+tunis,Ariana Ville,84,2.0,2,1,nan,1,380000.0
+tunis,Ariana Ville,112,1.0,2,1,Bon état,1,240000.0
+tunis,Ariana Ville,120,3.0,2,1,Nouveau,1,400000.0
+tunis,Aouina,156,5.0,4,1,Bon état,1,319000.0
+tunis,Ain Zaghouan,144,5.0,4,3,Bon état,1,580000.0
+tunis,Les Berges Du Lac,77,4.0,3,1,10-20 ans,1,280000.0
+tunis,Aouina,108,3.0,2,2,Nouveau,3,368500.0
+tunis,Ariana Ville,135,3.0,2,2,1-5 ans,1,295000.0
+tunis,Ariana Ville,76,2.0,1,1,Nouveau,1,435000.0
+tunis,Ain Zaghouan,65,2.0,1,1,5-10 ans,1,300000.0
+tunis,Ain Zaghouan,135,2.0,1,1,nan,1,521000.0
+tunis,Gammarth,295,4.0,3,2,1-5 ans,1,2400000.0
+tunis,Ain Zaghouan,122,2.0,1,1,nan,1,455000.0
+tunis,Ain Zaghouan,123,2.0,1,1,nan,1,477000.0
+tunis,Ariana Ville,165,3.0,3,2,10-20 ans,1,800000.0
+tunis,El Ouardia,300,5.0,4,3,1-5 ans,3,850000.0
+tunis,Ain Zaghouan,300,13.0,12,4,À rénover,1,900000.0
+tunis,Les Berges Du Lac,144,3.0,2,2,5-10 ans,4,550000.0
+tunis,Ariana Ville,183,3.0,3,2,Bon état,1,880000.0
+tunis,Le Bardo,58,2.0,1,1,Bon état,1,100000.0
+tunis,Gammarth,128,4.0,3,3,1-5 ans,2,590000.0
+tunis,Gammarth,150,3.0,2,2,Moins d'un an,1,950000.0
+tunis,Ariana Ville,100,3.0,2,1,Bon état,1,100000.0
+tunis,Ain Zaghouan,253,5.0,3,3,Nouveau,1,899079.0
+tunis,Les Berges Du Lac,200,4.0,3,2,Nouveau,1,1100000.0
+tunis,Ariana Ville,165,4.0,3,1,nan,1,810000.0
+tunis,Les Berges Du Lac,267,4.0,3,2,Nouveau,1,1874000.0
+tunis,Ariana Ville,250,4.0,3,2,Nouveau,1,750000.0
+tunis,Ariana Ville,300,5.0,4,2,Nouveau,1,1250000.0
+tunis,Ain Zaghouan,120,3.0,2,1,5-10 ans,1,390000.0
+tunis,Les Berges Du Lac,262,4.0,3,1,Nouveau,1,1972000.0
+tunis,Aouina,85,3.0,2,1,Bon état,1,220000.0
+tunis,Ariana Ville,110,3.0,2,1,Bon état,1,380000.0
+tunis,Ariana Ville,192,4.0,3,1,Bon état,1,350000.0
+tunis,Aouina,138,4.0,3,2,10-20 ans,3,335000.0
+tunis,Ain Zaghouan,185,4.0,3,3,1-5 ans,7,760000.0
+tunis,Ariana Ville,150,3.0,2,2,Nouveau,1,560000.0
+tunis,Aouina,65,2.0,1,1,Moins d'un an,1,234000.0
+tunis,Aouina,60,2.0,1,1,Moins d'un an,1,229000.0
+tunis,Aouina,120,4.0,3,3,5-10 ans,1,390000.0
+tunis,Ariana Ville,200,4.0,2,1,nan,1,950000.0
+tunis,Ariana Ville,125,2.0,3,1,Nouveau,1,590000.0
+tunis,Aouina,101,4.0,3,2,10-20 ans,1,330000.0
+tunis,El Ouardia,200,3.0,2,1,Bon état,1,550000.0
+tunis,Aouina,140,3.0,4,1,Nouveau,1,533165.0
+tunis,Ain Zaghouan,182,5.0,4,3,Bon état,1,620000.0
+tunis,Ariana Ville,146,5.0,2,1,nan,1,530000.0
+tunis,Ariana Ville,154,3.0,2,3,Moins d'un an,1,1110000.0
+tunis,Ariana Ville,221,3.0,3,3,Moins d'un an,1,883000.0
+tunis,Ariana Ville,202,4.0,3,4,Moins d'un an,2,1342000.0
+tunis,Les Berges Du Lac,225,4.0,3,2,Nouveau,1,1485000.0
+tunis,Ain Zaghouan,265,5.0,4,3,Moins d'un an,1,982000.0
+tunis,Les Berges Du Lac,105,3.0,2,1,Bon état,1,460000.0
+tunis,Ariana Ville,102,3.0,2,1,1-5 ans,5,390000.0
+tunis,Ariana Ville,273,5.0,4,4,Nouveau,1,1800000.0
+tunis,Ariana Ville,110,3.0,2,1,5-10 ans,1,450000.0
+tunis,Ariana Ville,150,4.0,3,2,Nouveau,1,695000.0
+tunis,Ariana Ville,172,4.0,3,2,nan,1,855000.0
+tunis,Aouina,200,4.0,3,2,10-20 ans,1,360000.0
+tunis,Ariana Ville,100,2.0,1,1,Bon état,1,100000.0
+tunis,Gammarth,85,2.0,2,1,nan,1,340000.0
+tunis,Ariana Ville,181,4.0,3,2,Nouveau,1,780000.0
+tunis,Ariana Ville,120,1.0,2,2,1-5 ans,4,480000.0
+tunis,Ariana Ville,67,1.0,1,1,1-5 ans,7,276000.0
+tunis,Ain Zaghouan,124,3.0,2,1,Nouveau,1,477000.0
+tunis,Aouina,120,3.0,2,1,Nouveau,1,377000.0
+tunis,Ain Zaghouan,131,4.0,3,2,Nouveau,1,490000.0
+tunis,Le Bardo,101,2.0,2,1,nan,1,295000.0
+tunis,Le Bardo,107,2.0,2,1,nan,1,240000.0
+tunis,Ain Zaghouan,112,2.0,2,2,Nouveau,1,380000.0
+tunis,Ariana Ville,111,3.0,2,2,Nouveau,1,500000.0
+tunis,Aouina,300,3.0,2,1,Nouveau,1,470000.0
+tunis,Ain Zaghouan,61,1.0,2,1,Nouveau,1,212000.0
+tunis,Ariana Ville,126,3.0,2,2,Nouveau,1,685000.0
+tunis,Ain Zaghouan,155,5.0,4,3,1-5 ans,7,650000.0
+tunis,Ain Zaghouan,130,3.0,2,1,À rénover,1,400000.0
+tunis,El Ouardia,170,2.0,3,2,10-20 ans,2,315000.0
+tunis,Ain Zaghouan,122,3.0,2,3,Moins d'un an,1,455000.0
+tunis,Aouina,123,3.0,2,2,1-5 ans,6,340000.0
+tunis,Aouina,120,3.0,2,1,Moins d'un an,3,400000.0
+tunis,Aouina,145,5.0,4,2,Bon état,1,380000.0
+tunis,Gammarth,200,4.0,4,3,Bon état,1,1250000.0
+tunis,Cite El Khadra,110,4.0,2,1,20-30 ans,3,320000.0
+tunis,Ariana Ville,111,3.0,2,2,Moins d'un an,1,500000.0
+tunis,La Goulette,200,5.0,4,3,Nouveau,1,700000.0
+tunis,Ariana Ville,100,3.0,2,1,Bon état,1,120000.0
+tunis,Ain Zaghouan,84,2.0,1,1,Bon état,1,210000.0
+tunis,Ain Zaghouan,70,2.0,1,1,Nouveau,1,256000.0
+tunis,El Ouardia,99,2.0,2,1,nan,1,205000.0
+tunis,Ariana Ville,39,2.0,2,1,nan,1,195000.0
+tunis,Cite El Khadra,93,2.0,2,1,nan,1,180000.0
+tunis,Ariana Ville,220,2.0,2,1,nan,1,1100000.0
+tunis,Ain Zaghouan,147,4.0,3,2,Bon état,1,425000.0
+tunis,Montfleury,185,4.0,3,2,Moins d'un an,1,550000.0
+tunis,Bab Bhar,81,3.0,2,1,À rénover,1,115000.0
+tunis,Ain Zaghouan,110,2.0,1,1,nan,1,407000.0
+tunis,Ain Zaghouan,131,1.0,2,3,Nouveau,1,486000.0
+tunis,Ain Zaghouan,131,2.0,1,1,nan,1,486000.0
+tunis,Ain Zaghouan,151,3.0,2,1,Moins d'un an,1,505000.0
+tunis,Ain Zaghouan,132,2.0,1,1,nan,1,493000.0
+tunis,Ain Zaghouan,152,3.0,2,1,Nouveau,1,501000.0
+tunis,Gammarth,189,1.0,2,1,nan,1,825000.0
+tunis,Ain Zaghouan,110,3.0,2,2,Moins d'un an,4,410000.0
+tunis,Ain Zaghouan,132,3.0,2,2,Nouveau,1,450000.0
+tunis,Les Berges Du Lac,230,1.0,2,1,nan,1,980000.0
+tunis,La Goulette,110,2.0,2,1,Nouveau,1,300000.0
+tunis,Aouina,100,3.0,2,1,5-10 ans,5,210000.0
+tunis,Les Berges Du Lac,69,2.0,1,1,Moins d'un an,1,466690.0
+tunis,Ariana Ville,220,4.0,3,2,nan,1,760000.0
+tunis,Aouina,154,4.0,3,1,Nouveau,1,340000.0
+tunis,Ariana Ville,150,4.0,3,1,Bon état,1,220000.0
+tunis,Montfleury,120,3.0,2,1,Bon état,1,250000.0
+tunis,Les Berges Du Lac,236,2.0,2,1,nan,1,1100000.0
+tunis,Ariana Ville,272,4.0,2,1,nan,1,980000.0
+tunis,Ariana Ville,69,1.0,2,1,nan,1,443000.0
+tunis,Ariana Ville,150,4.0,3,2,10-20 ans,3,1250000.0
+tunis,Gammarth,112,3.0,1,1,1-5 ans,1,800000.0
+tunis,Ariana Ville,202,5.0,4,3,1-5 ans,1,980000.0
+tunis,Ariana Ville,75,2.0,1,1,nan,1,370000.0
+tunis,Ariana Ville,125,3.0,2,1,Nouveau,1,590000.0
+tunis,Ain Zaghouan,64,2.0,1,1,nan,1,319000.0
+tunis,Ariana Ville,140,3.0,2,2,nan,1,720000.0
+tunis,Ain Zaghouan,40,1.0,1,1,nan,1,245000.0
+tunis,Ain Zaghouan,235,5.0,4,3,nan,1,1100000.0
+tunis,Ariana Ville,140,4.0,3,2,1-5 ans,6,330000.0
+tunis,Ariana Ville,132,4.0,3,2,Moins d'un an,1,458000.0
+tunis,Ariana Ville,85,3.0,2,1,Moins d'un an,1,311000.0
+tunis,Ariana Ville,117,3.0,2,2,Moins d'un an,1,410000.0
+tunis,Gammarth,160,3.0,2,3,1-5 ans,2,750000.0
+tunis,Ariana Ville,140,3.0,2,1,Bon état,1,520000.0
+tunis,Les Berges Du Lac,210,3.0,2,2,Nouveau,1,1400000.0
+tunis,Cite El Khadra,110,2.0,2,1,nan,1,210000.0
+tunis,Les Berges Du Lac,164,3.0,2,2,Nouveau,1,1215000.0
+tunis,Ariana Ville,69,2.0,1,1,nan,1,413000.0
+tunis,Les Berges Du Lac,183,4.0,3,2,Bon état,1,790000.0
+tunis,Ariana Ville,200,3.0,2,3,5-10 ans,3,1350000.0
+tunis,La Goulette,74,2.0,2,1,nan,1,250000.0
+tunis,Bab El Khadra,140,17.0,13,7,Bon état,1,770000.0
+tunis,Ariana Ville,175,1.0,3,3,10-20 ans,3,720000.0
+tunis,Ettahrir,90,3.0,2,1,10-20 ans,1,190000.0
+tunis,Ain Zaghouan,117,4.0,2,1,Nouveau,1,378000.0
+tunis,Ariana Ville,90,2.0,2,1,Nouveau,1,480000.0
+tunis,Ain Zaghouan,165,4.0,4,2,1-5 ans,4,780000.0
+tunis,Ariana Ville,126,3.0,2,1,Moins d'un an,3,669000.0
+tunis,El Menzah 7,70,2.0,1,1,Moins d'un an,2,310000.0
+tunis,Gammarth,110,4.0,3,2,Bon état,1,290000.0
+tunis,Ain Zaghouan,163,5.0,3,2,Nouveau,1,734000.0
+tunis,Ain Zaghouan,137,4.0,3,2,Bon état,1,295000.0
+tunis,Ariana Ville,75,2.0,1,1,Nouveau,1,413000.0
+tunis,Ariana Ville,86,3.0,2,1,Moins d'un an,1,330000.0
+tunis,Ariana Ville,196,2.0,2,3,Moins d'un an,1,827000.0
+tunis,Ariana Ville,130,4.0,3,1,Moins d'un an,1,520000.0
+tunis,Ariana Ville,119,4.0,3,2,Moins d'un an,1,401000.0
+tunis,Ariana Ville,101,3.0,2,1,Moins d'un an,2,388000.0
+tunis,Aouina,118,3.0,2,1,Moins d'un an,1,357000.0
+tunis,Ain Zaghouan,138,3.0,2,2,Nouveau,1,727000.0
+tunis,Gammarth,132,5.0,1,1,5-10 ans,1,700000.0
+tunis,Ain Zaghouan,121,3.0,2,2,Nouveau,1,438440.0
+tunis,Ariana Ville,175,4.0,3,2,Nouveau,1,986000.0
+tunis,Ariana Ville,290,4.0,3,3,Moins d'un an,1,1100000.0
+tunis,Cite El Khadra,90,3.0,2,1,30-50 ans,4,170000.0
+tunis,Ariana Ville,103,5.0,2,1,Moins d'un an,2,576800.0
+tunis,Le Bardo,54,3.0,3,1,30-50 ans,1,100000.0
+tunis,Ariana Ville,130,4.0,3,2,5-10 ans,1,800000.0
+tunis,Cite El Khadra,165,5.0,4,2,30-50 ans,6,385000.0
+tunis,Gammarth,121,2.0,1,1,1-5 ans,1,750000.0
+tunis,Gammarth,207,4.0,3,3,Moins d'un an,2,724500.0
+tunis,Ariana Ville,110,3.0,2,1,10-20 ans,1,350000.0
+tunis,Gammarth,137,3.0,2,2,Bon état,1,880000.0
+tunis,Ariana Ville,90,3.0,2,1,Nouveau,1,490000.0
+tunis,El Manar,117,1.0,3,1,30-50 ans,7,215000.0
+tunis,Ariana Ville,83,3.0,2,1,10-20 ans,1,310000.0
+tunis,Ain Zaghouan,202,5.0,4,2,Bon état,7,620000.0
+tunis,Gammarth,138,3.0,2,1,Nouveau,1,693700.0
+tunis,Gammarth,139,3.0,2,2,Moins d'un an,1,583800.0
+tunis,Gammarth,140,2.0,2,1,Nouveau,1,385000.0
+tunis,Gammarth,142,3.0,2,2,Moins d'un an,1,637828.0
+tunis,Gammarth,136,3.0,2,1,Moins d'un an,1,743230.0
+tunis,Ain Zaghouan,136,3.0,2,2,Nouveau,1,570000.0
+tunis,Ain Zaghouan,71,3.0,2,2,Nouveau,1,410000.0
+tunis,Ariana Ville,200,4.0,3,3,1-5 ans,1,980000.0
+tunis,Ariana Ville,134,4.0,3,3,Bon état,1,490000.0
+tunis,Ariana Ville,133,2.0,2,1,nan,1,450000.0
+tunis,Ariana Ville,246,5.0,4,3,Bon état,1,753000.0
+tunis,Ariana Ville,115,3.0,2,1,1-5 ans,6,420000.0
+tunis,Ariana Ville,99,2.0,2,1,Nouveau,1,592600.0
+tunis,El Manar,180,6.0,3,2,20-30 ans,2,495000.0
+tunis,Les Berges Du Lac,210,3.0,2,1,nan,1,1400000.0
+tunis,Ariana Ville,140,3.0,2,3,Moins d'un an,1,1097450.0
+tunis,Ariana Ville,99,3.0,2,2,Moins d'un an,2,592600.0
+tunis,Ariana Ville,170,4.0,3,2,5-10 ans,3,650000.0
+tunis,Ariana Ville,67,1.0,1,1,Bon état,1,282000.0
+tunis,Ariana Ville,52,2.0,1,1,Nouveau,1,296294.0
+tunis,Bab Bhar,130,4.0,3,1,Bon état,1,420000.0
+tunis,Ariana Ville,147,3.0,2,2,1-5 ans,3,470000.0
+tunis,Bab Saadoun,87,4.0,3,1,Bon état,1,240000.0
+tunis,Aouina,111,3.0,2,2,Nouveau,1,422000.0
+tunis,Ariana Ville,93,2.0,3,1,Nouveau,1,499566.0
+tunis,Les Berges Du Lac,300,2.0,2,1,Nouveau,1,1580000.0
+tunis,Les Berges Du Lac,123,3.0,2,2,Bon état,1,510000.0
+tunis,Ain Zaghouan,123,3.0,2,2,Nouveau,1,478000.0
+tunis,Ariana Ville,170,3.0,2,2,Moins d'un an,1,790000.0
+tunis,Ariana Ville,280,5.0,4,4,Moins d'un an,1,2190000.0
+tunis,Ariana Ville,88,1.0,2,2,Moins d'un an,1,413000.0
+tunis,Ariana Ville,125,4.0,3,2,Moins d'un an,1,430000.0
+tunis,Ain Zaghouan,103,3.0,2,2,Nouveau,1,359000.0
+tunis,Ain Zaghouan,63,2.0,1,1,Nouveau,1,350000.0
+tunis,Ariana Ville,186,4.0,2,1,nan,1,600000.0
+tunis,Gammarth,170,4.0,3,1,Bon état,1,550000.0
+tunis,Ain Zaghouan,117,4.0,3,2,Nouveau,1,458000.0
+tunis,Ariana Ville,160,4.0,3,3,Nouveau,1,580000.0
+tunis,Ariana Ville,117,2.0,2,1,Nouveau,1,643500.0
+tunis,Ariana Ville,252,4.0,3,3,Nouveau,1,947300.0
+tunis,Ariana Ville,154,3.0,2,3,Nouveau,1,593000.0
+tunis,Ariana Ville,126,3.0,2,1,Nouveau,1,698701.0
+tunis,Ariana Ville,174,4.0,3,3,Moins d'un an,1,1314800.0
+tunis,Bab El Khadra,144,4.0,3,1,Bon état,1,175000.0
+tunis,El Ouardia,120,2.0,2,1,nan,1,175000.0
+tunis,Ariana Ville,163,4.0,3,3,Moins d'un an,1,650000.0
+tunis,Les Berges Du Lac,194,4.0,3,2,Bon état,1,865000.0
+tunis,Ain Zaghouan,41,1.0,1,1,Nouveau,1,245000.0
+tunis,Les Berges Du Lac,100,3.0,2,1,Nouveau,1,410000.0
+tunis,Ain Zaghouan,60,2.0,1,1,Nouveau,1,335000.0
+tunis,Ariana Ville,176,3.0,2,2,1-5 ans,1,550000.0
+tunis,Ariana Ville,224,5.0,4,3,5-10 ans,1,760000.0
+tunis,Ain Zaghouan,165,3.0,3,1,1-5 ans,1,580000.0
+tunis,Les Berges Du Lac,185,4.0,3,2,Moins d'un an,1,820000.0
+tunis,Ariana Ville,145,3.0,2,2,Moins d'un an,1,660000.0
+tunis,Gammarth,147,3.0,2,1,Nouveau,1,565100.0
+tunis,Aouina,121,3.0,2,1,Bon état,2,271000.0
+tunis,Gammarth,138,3.0,2,1,Moins d'un an,1,692453.0
+tunis,Ariana Ville,163,4.0,3,3,Moins d'un an,2,734000.0
+tunis,Ariana Ville,222,5.0,4,3,1-5 ans,1,1350000.0
+tunis,El Ouardia,257,3.0,5,1,Nouveau,1,380000.0
+tunis,Ariana Ville,120,3.0,3,1,5-10 ans,2,160000.0
+tunis,Ariana Ville,108,3.0,2,2,Moins d'un an,1,363000.0
+tunis,Aouina,75,2.0,1,1,Bon état,1,260000.0
+tunis,Ain Zaghouan,150,3.0,2,2,Bon état,1,320000.0
+tunis,Les Berges Du Lac,111,1.0,2,1,5-10 ans,1,530000.0
+tunis,Ariana Ville,146,3.0,2,2,1-5 ans,20,750000.0
+tunis,Ariana Ville,87,3.0,2,1,1-5 ans,5,450000.0
+ariana,La Soukra,95,4.0,3,1,Bon état,1,140000.0
+tunis,Ariana Ville,82,2.0,2,1,Nouveau,1,450000.0
+ariana,La Soukra,300,5.0,2,1,nan,1,870000.0
+ariana,Ariana Ville,300,8.0,7,3,Bon état,1,980000.0
+tunis,Les Berges Du Lac,155,4.0,3,2,5-10 ans,1,760000.0
+ariana,Cite El Ghazela,110,3.0,2,1,Moins d'un an,1,378100.0
+ariana,Cite El Ghazela,139,4.0,3,2,Nouveau,3,489800.0
+ariana,Cite Ennasr,152,4.0,3,3,Moins d'un an,5,519000.0
+ariana,Cite Ennasr,128,4.0,3,1,1-5 ans,1,350000.0
+ariana,La Soukra,157,3.0,3,1,Nouveau,1,495000.0
+ariana,La Soukra,116,2.0,2,1,Nouveau,1,470000.0
+ariana,La Soukra,127,2.0,2,1,nan,1,380000.0
+ariana,Ariana Ville,143,3.0,2,2,Nouveau,1,404000.0
+ariana,La Soukra,83,2.0,2,1,nan,1,283370.0
+ariana,La Soukra,93,3.0,2,2,Nouveau,1,405000.0
+ariana,La Soukra,160,4.0,3,2,1-5 ans,6,520000.0
+ariana,El Menzah 7,145,4.0,3,1,Bon état,1,270000.0
+ariana,Ariana Ville,102,2.0,2,1,nan,1,320000.0
+ariana,Cite Ennasr,167,3.0,3,1,Nouveau,1,395000.0
+ariana,La Soukra,130,3.0,2,1,Bon état,1,245000.0
+ariana,Ariana Ville,90,2.0,2,1,Bon état,3,190000.0
+ariana,La Soukra,214,3.0,3,1,1-5 ans,3,635000.0
+ariana,La Soukra,130,2.0,1,1,1-5 ans,1,445000.0
+ariana,Cite Ennasr,140,4.0,3,3,Bon état,1,410000.0
+ariana,Ariana Ville,59,2.0,1,1,Bon état,2,169000.0
+ariana,Ariana Ville,130,2.0,2,1,nan,1,350000.0
+ariana,Raoued,150,4.0,3,3,Bon état,1,500000.0
+ariana,Ariana Ville,147,4.0,3,3,Nouveau,1,411000.0
+ariana,La Soukra,111,3.0,2,2,Nouveau,1,457000.0
+ariana,El Menzah 7,130,4.0,3,2,5-10 ans,2,360000.0
+ariana,Cite Ennasr,68,1.0,1,1,Bon état,3,195000.0
+ariana,Ariana Ville,145,4.0,4,2,Bon état,1,345000.0
+ariana,La Soukra,100,3.0,2,1,Bon état,1,150000.0
+ariana,La Soukra,225,3.0,2,2,1-5 ans,1,665000.0
+ariana,El Menzah 7,81,2.0,1,1,1-5 ans,1,385810.0
+ariana,La Soukra,122,3.0,2,1,Moins d'un an,2,494530.0
+ariana,La Soukra,113,3.0,2,2,Nouveau,1,457492.0
+ariana,Cite Ennasr,129,5.0,4,1,Bon état,1,495000.0
+ariana,El Menzah 7,157,4.0,3,1,Bon état,1,365000.0
+ariana,La Soukra,122,4.0,3,2,Moins d'un an,1,541000.0
+ariana,Cite El Ghazela,175,4.0,3,1,Moins d'un an,1,599700.0
+ariana,Cite El Ghazela,129,3.0,2,1,Moins d'un an,1,364600.0
+ariana,Cite El Ghazela,171,4.0,3,2,Moins d'un an,1,495700.0
+ariana,Cite El Ghazela,136,3.0,2,1,Moins d'un an,1,384000.0
+ariana,Cite El Ghazela,134,3.0,2,1,Moins d'un an,4,349300.0
+ariana,Cite El Ghazela,117,3.0,2,1,Moins d'un an,5,324000.0
+ariana,La Soukra,63,2.0,1,1,Nouveau,1,282000.0
+ariana,Cite El Ghazela,111,3.0,2,1,Moins d'un an,5,322300.0
+ariana,Cite Ennasr,90,3.0,2,1,Bon état,1,255000.0
+ariana,La Soukra,93,2.0,2,1,nan,1,368100.0
+ariana,Cite El Ghazela,104,3.0,2,2,Moins d'un an,6,285800.0
+ariana,Cite El Ghazela,173,2.0,3,1,Nouveau,1,418600.0
+ariana,Cite El Ghazela,151,3.0,3,1,Nouveau,1,387800.0
+ariana,Cite El Ghazela,194,3.0,3,1,Nouveau,1,498400.0
+ariana,Cite El Ghazela,140,2.0,2,1,Nouveau,1,392000.0
+ariana,La Soukra,167,3.0,3,1,Nouveau,1,690000.0
+ariana,La Soukra,140,3.0,2,1,Nouveau,1,430000.0
+ariana,La Soukra,70,2.0,1,1,Nouveau,2,285000.0
+ariana,La Soukra,157,3.0,3,1,Nouveau,1,505000.0
+ariana,La Soukra,99,3.0,2,1,Nouveau,2,396000.0
+ariana,La Soukra,78,2.0,1,1,Moins d'un an,1,237000.0
+ariana,La Soukra,84,2.0,1,1,Bon état,1,320000.0
+ariana,La Soukra,143,3.0,2,2,Bon état,7,395000.0
+ariana,La Soukra,138,3.0,2,2,Bon état,1,430000.0
+ariana,El Menzah 7,70,3.0,2,1,Bon état,1,212000.0
+ariana,El Menzah 7,75,1.0,1,1,1-5 ans,3,200000.0
+ariana,Cite Ennasr,146,4.0,3,1,Bon état,1,460000.0
+ariana,Cite Ennasr,130,4.0,3,2,Bon état,1,365000.0
+ariana,Cite Ennasr,116,3.0,2,2,Moins d'un an,4,395000.0
+ariana,Cite Ennasr,100,2.0,1,1,1-5 ans,4,315000.0
+ariana,Cite El Ghazela,144,4.0,3,2,Nouveau,1,335000.0
+ariana,El Menzah 7,140,4.0,3,2,Bon état,1,235000.0
+ariana,La Soukra,60,2.0,1,1,Nouveau,1,295000.0
+ariana,La Soukra,115,3.0,2,2,Moins d'un an,1,480000.0
+ariana,La Soukra,120,2.0,1,1,1-5 ans,1,285000.0
+ariana,El Menzah 7,100,2.0,2,1,nan,1,260000.0
+ariana,La Soukra,148,4.0,3,2,Nouveau,1,570501.0
+ariana,La Soukra,59,1.0,1,1,Nouveau,1,234500.0
+ariana,La Soukra,99,3.0,2,1,Bon état,1,250000.0
+ariana,La Soukra,153,3.0,2,2,Moins d'un an,2,425000.0
+ariana,La Soukra,74,2.0,2,1,Bon état,1,275000.0
+ariana,El Menzah 7,150,2.0,2,1,nan,1,330000.0
+ariana,Ariana Ville,132,4.0,3,2,Bon état,1,370000.0
+ariana,Raoued,300,5.0,4,2,Bon état,1,370000.0
+ariana,Ariana Ville,130,4.0,3,2,Bon état,1,230000.0
+ariana,La Soukra,120,3.0,2,2,Nouveau,1,396000.0
+ariana,El Menzah 7,63,2.0,1,1,Bon état,1,175000.0
+ariana,Cite Ennasr,55,1.0,1,1,1-5 ans,1,187000.0
+ariana,El Menzah 7,50,2.0,1,1,Bon état,1,175000.0
+ariana,Ariana Ville,155,5.0,4,2,Nouveau,1,700000.0
+ariana,Cite Ennasr,200,4.0,3,2,Nouveau,1,400000.0
+ariana,La Soukra,112,2.0,3,1,Nouveau,1,380000.0
+ariana,Raoued,300,23.0,19,10,Bon état,1,1500000.0
+ariana,Cite El Ghazela,89,3.0,2,1,Moins d'un an,1,284800.0
+ariana,Ariana Ville,86,2.0,2,1,Nouveau,1,250000.0
+ariana,La Soukra,111,3.0,2,1,Bon état,1,330000.0
+ariana,Cite Ennasr,39,2.0,1,1,Nouveau,1,180000.0
+ariana,La Soukra,123,3.0,2,2,Moins d'un an,1,511640.0
+ariana,Ariana Ville,70,3.0,2,1,Bon état,1,175000.0
+ariana,La Soukra,80,2.0,2,1,nan,1,180000.0
+ariana,Raoued,144,4.0,3,2,Moins d'un an,1,330000.0
+ariana,Raoued,127,4.0,3,2,Moins d'un an,1,295000.0
+ariana,La Soukra,76,1.0,1,1,1-5 ans,1,197600.0
+ariana,Cite El Ghazela,136,3.0,2,1,Moins d'un an,1,375000.0
+ariana,Cite El Ghazela,188,4.0,3,2,Moins d'un an,1,526400.0
+ariana,La Soukra,214,4.0,3,3,1-5 ans,1,650000.0
+ariana,La Soukra,152,4.0,3,3,1-5 ans,1,445000.0
+ariana,La Soukra,143,4.0,3,3,1-5 ans,1,371800.0
+ariana,La Soukra,130,3.0,2,2,Moins d'un an,2,365000.0
+ariana,La Soukra,117,3.0,2,2,Nouveau,1,467461.0
+ariana,Raoued,57,2.0,1,1,Moins d'un an,1,135000.0
+ariana,Cite Ennasr,150,4.0,3,2,Bon état,1,450000.0
+ariana,La Soukra,97,3.0,2,2,Nouveau,1,405784.0
+ariana,Cite El Ghazela,71,2.0,1,1,Moins d'un an,1,234400.0
+ariana,La Soukra,115,3.0,2,2,Moins d'un an,2,480000.0
+ariana,Cite El Ghazela,69,2.0,1,1,Moins d'un an,1,235000.0
+ariana,Ariana Ville,69,2.0,1,1,Nouveau,1,173875.0
+ariana,La Soukra,118,4.0,3,2,Moins d'un an,2,581000.0
+ariana,La Soukra,120,1.0,3,2,Nouveau,1,245500.0
+tunis,Ariana Ville,126,3.0,2,2,Moins d'un an,2,668701.0
+tunis,Ariana Ville,219,5.0,3,5,Nouveau,1,1095000.0
+tunis,Ariana Ville,133,2.0,2,1,Nouveau,1,560500.0
+tunis,Gammarth,160,2.0,2,1,Nouveau,1,560000.0
+tunis,Ariana Ville,252,3.0,3,1,1-5 ans,1,1200000.0
+tunis,Cite El Khadra,116,1.0,3,1,30-50 ans,3,100000.0
+tunis,Ariana Ville,183,9.0,5,1,20-30 ans,1,455000.0
+tunis,Ariana Ville,300,4.0,3,2,Moins d'un an,4,2100000.0
+tunis,Aouina,180,4.0,3,3,1-5 ans,6,550000.0
+tunis,Ariana Ville,127,3.0,2,2,Moins d'un an,2,662000.0
+tunis,Le Bardo,71,3.0,2,1,10-20 ans,4,120000.0
+tunis,Ain Zaghouan,120,2.0,2,1,5-10 ans,4,250000.0
+tunis,Montfleury,123,4.0,3,2,Bon état,1,235000.0
+tunis,Ariana Ville,264,4.0,3,2,1-5 ans,2,1100000.0
+tunis,Ariana Ville,168,4.0,3,3,Moins d'un an,3,926000.0
+tunis,El Menzah 7,120,3.0,2,2,5-10 ans,1,360000.0
+tunis,El Menzah 7,180,4.0,3,3,5-10 ans,1,450000.0
+tunis,Ariana Ville,300,3.0,3,1,Moins d'un an,1,1800000.0
+tunis,Ariana Ville,120,3.0,2,2,Moins d'un an,1,950000.0
+tunis,Cite El Khadra,137,5.0,3,2,10-20 ans,5,1700000.0
+tunis,Aouina,72,2.0,1,1,Moins d'un an,1,273600.0
+tunis,Ariana Ville,175,4.0,3,2,Moins d'un an,2,926500.0
+tunis,Les Berges Du Lac,300,5.0,4,4,5-10 ans,7,1500000.0
+tunis,El Manar,81,2.0,2,1,nan,1,215000.0
+tunis,Ariana Ville,126,3.0,2,1,Moins d'un an,2,670000.0
+tunis,El Ouardia,200,4.0,3,1,Bon état,1,150000.0
+tunis,Bab Bhar,100,4.0,3,1,Nouveau,1,250000.0
+tunis,Les Berges Du Lac,240,4.0,3,2,Bon état,3,1800000.0
+tunis,El Ouardia,160,5.0,3,1,Bon état,1,300000.0
+tunis,Sidi Hassine,80,3.0,2,1,10-20 ans,1,120000.0
+tunis,Le Bardo,90,1.0,2,1,5-10 ans,1,125000.0
+tunis,Ariana Ville,185,5.0,4,3,5-10 ans,1,590000.0
+tunis,Les Berges Du Lac,289,4.0,3,3,Moins d'un an,4,1500000.0
+tunis,Montplaisir,156,6.0,5,2,20-30 ans,5,400000.0
+tunis,Ariana Ville,150,4.0,3,1,Bon état,1,510000.0
+tunis,Ariana Ville,208,5.0,3,2,5-10 ans,1,850000.0
+tunis,Les Berges Du Lac,115,3.0,2,2,Bon état,1,880000.0
+tunis,Le Bardo,85,3.0,2,1,Bon état,4,145000.0
+tunis,Gammarth,200,6.0,3,2,Moins d'un an,1,750000.0
+tunis,Aouina,60,2.0,1,1,Bon état,1,179000.0
+tunis,Ariana Ville,90,2.0,1,1,Bon état,1,400000.0
+tunis,Ariana Ville,200,4.0,3,1,Bon état,1,585000.0
+tunis,Ain Zaghouan,165,3.0,2,1,5-10 ans,2,520000.0
+tunis,Ain Zaghouan,110,5.0,3,1,5-10 ans,7,270000.0
+tunis,Gammarth,206,4.0,3,2,Nouveau,2,790000.0
+tunis,El Omrane,130,8.0,4,2,70-100 ans,2,195000.0
+tunis,Ariana Ville,200,5.0,4,2,5-10 ans,1,600000.0
+tunis,Bab Bhar,160,4.0,4,1,Bon état,1,300000.0
+tunis,La Goulette,178,4.0,3,3,Moins d'un an,2,720000.0
+tunis,Sijoumi,30,2.0,1,1,1-5 ans,2,100000.0
+tunis,Les Berges Du Lac,200,5.0,3,3,10-20 ans,1,850000.0
+tunis,Ariana Ville,30,1.0,1,1,Nouveau,1,300000.0
+tunis,Les Berges Du Lac,220,4.0,3,2,Bon état,5,1200000.0
+tunis,Le Bardo,135,4.0,3,1,Bon état,1,280000.0
+tunis,El Manar,140,2.0,2,1,nan,1,260000.0
+tunis,Gammarth,300,2.0,2,1,nan,1,1800000.0
+tunis,El Ouardia,300,10.0,9,3,Bon état,1,430000.0
+tunis,Gammarth,152,3.0,2,3,Bon état,1,920000.0
+tunis,Ariana Ville,160,3.0,2,3,Nouveau,1,865000.0
+tunis,Bab Bhar,300,10.0,8,5,Bon état,1,600000.0
+tunis,La Goulette,69,3.0,2,1,Bon état,1,165000.0
+tunis,Aouina,145,4.0,3,2,5-10 ans,18,340000.0
+tunis,Ariana Ville,75,1.0,2,1,nan,1,450000.0
+tunis,El Manar,144,1.0,3,2,10-20 ans,1,345000.0
+tunis,Ariana Ville,110,3.0,2,1,5-10 ans,1,280000.0
+tunis,Les Berges Du Lac,234,5.0,4,3,Bon état,1,980000.0
+tunis,Ain Zaghouan,112,3.0,2,2,Moins d'un an,1,450000.0
+tunis,Aouina,135,4.0,3,2,5-10 ans,4,269000.0
+tunis,Ariana Ville,187,4.0,3,1,1-5 ans,4,780000.0
+tunis,Les Berges Du Lac,280,3.0,2,1,5-10 ans,4,1200000.0
+tunis,Les Berges Du Lac,69,2.0,1,1,Moins d'un an,2,413000.0
+tunis,Ain Zaghouan,122,3.0,2,1,1-5 ans,1,304000.0
+tunis,Ariana Ville,216,4.0,3,2,Moins d'un an,3,850000.0
+tunis,Ariana Ville,157,4.0,3,2,1-5 ans,1,965000.0
+tunis,El Ouardia,114,4.0,3,1,30-50 ans,2,250000.0
+tunis,Ariana Ville,243,2.0,2,1,nan,1,1300000.0
+tunis,El Manar,140,1.0,3,2,Bon état,1,450000.0
+tunis,Les Berges Du Lac,122,3.0,2,2,Moins d'un an,2,731000.0
+tunis,El Menzah 7,110,4.0,3,2,Bon état,1,250000.0
+tunis,Aouina,118,2.0,2,1,1-5 ans,2,335000.0
+tunis,Ariana Ville,77,2.0,1,1,nan,1,465000.0
+tunis,Gammarth,140,3.0,2,2,10-20 ans,20,895000.0
+tunis,Les Berges Du Lac,300,4.0,2,1,nan,1,4500000.0
+tunis,Les Berges Du Lac,300,5.0,4,3,Bon état,3,1500000.0
+tunis,El Menzah 7,213,3.0,2,1,10-20 ans,6,470000.0
+tunis,Ariana Ville,140,3.0,2,3,Nouveau,1,700000.0
+tunis,Ariana Ville,99,3.0,2,1,Moins d'un an,2,592601.0
+tunis,Ariana Ville,130,4.0,3,3,1-5 ans,2,880000.0
+tunis,Aouina,60,2.0,1,1,5-10 ans,6,175000.0
+tunis,El Ouardia,65,3.0,2,1,1-5 ans,19,140000.0
+tunis,Ariana Ville,128,3.0,2,2,1-5 ans,2,445000.0
+tunis,Les Berges Du Lac,160,4.0,3,3,Bon état,1,750000.0
+tunis,Ain Zaghouan,133,2.0,2,1,Nouveau,1,520000.0
+tunis,Les Berges Du Lac,205,4.0,3,3,Bon état,1,820000.0
+tunis,Hrairia,81,4.0,3,1,10-20 ans,4,100000.0
+tunis,Gammarth,128,3.0,2,2,5-10 ans,1,840000.0
+tunis,Les Berges Du Lac,220,4.0,3,3,1-5 ans,1,1300000.0
+tunis,Les Berges Du Lac,300,5.0,4,3,10-20 ans,1,1100000.0
+tunis,Les Berges Du Lac,69,2.0,1,1,Bon état,1,413000.0
+tunis,Cite El Khadra,160,6.0,5,2,20-30 ans,8,400000.0
+tunis,Ariana Ville,300,10.0,8,1,1-5 ans,1,1300000.0
+tunis,Montfleury,70,3.0,2,1,30-50 ans,5,100000.0
+tunis,Ariana Ville,152,5.0,3,1,10-20 ans,2,285000.0
+tunis,Aouina,155,4.0,3,1,5-10 ans,6,340000.0
+tunis,Aouina,145,4.0,3,2,5-10 ans,2,355000.0
+tunis,El Ouardia,70,3.0,3,1,Bon état,1,220000.0
+tunis,Ariana Ville,152,1.0,4,2,Nouveau,1,550000.0
+tunis,Gammarth,130,1.0,2,1,Nouveau,1,380000.0
+tunis,El Menzah 7,117,2.0,2,2,Nouveau,1,409500.0
+tunis,Gammarth,209,4.0,3,1,Moins d'un an,1,732000.0
+tunis,Aouina,44,1.0,1,1,Moins d'un an,1,169000.0
+tunis,Ariana Ville,120,3.0,2,2,1-5 ans,4,500000.0
+tunis,Ariana Ville,300,7.0,4,5,1-5 ans,1,2300000.0
+tunis,El Menzah 7,202,4.0,4,3,Nouveau,4,792750.0
+tunis,El Ouardia,136,1.0,4,1,Nouveau,1,160000.0
+tunis,Ain Zaghouan,100,3.0,2,1,1-5 ans,20,430000.0
+tunis,Le Bardo,100,4.0,3,1,Bon état,1,240000.0
+tunis,El Omrane,93,4.0,4,1,Bon état,1,135000.0
+tunis,Aouina,135,4.0,3,1,1-5 ans,2,350000.0
+tunis,Ariana Ville,147,3.0,2,2,1-5 ans,1,650000.0
+tunis,El Menzah 7,70,1.0,1,1,Nouveau,3,279110.0
+tunis,Ariana Ville,120,3.0,2,1,Moins d'un an,3,380000.0
+tunis,Ariana Ville,80,2.0,1,1,Nouveau,1,442000.0
+tunis,La Goulette,56,1.0,1,2,10-20 ans,5,215000.0
+tunis,El Ouardia,300,9.0,7,4,Bon état,1,2100000.0
+tunis,Gammarth,145,4.0,3,3,Nouveau,1,1350000.0
+ben-arous,El Mourouj,225,7.0,5,2,Bon état,2,450000.0
+tunis,Le Bardo,154,3.0,2,1,Bon état,1,260000.0
+tunis,El Manar,110,3.0,2,1,10-20 ans,1,275000.0
+tunis,Bab Bhar,90,3.0,3,2,Bon état,1,175000.0
+tunis,Bab Bhar,160,32.0,24,8,Bon état,1,1500000.0
+tunis,Ariana Ville,172,4.0,3,2,Bon état,1,848000.0
+tunis,El Ouardia,179,5.0,3,1,10-20 ans,2,480000.0
+tunis,El Ouardia,115,3.0,2,2,Moins d'un an,1,280000.0
+tunis,Cite El Khadra,110,4.0,3,1,Bon état,3,255000.0
+tunis,Ariana Ville,150,4.0,3,2,20-30 ans,1,590000.0
+tunis,Ariana Ville,128,3.0,2,2,Nouveau,1,640000.0
+tunis,Ariana Ville,150,2.0,2,1,nan,1,510000.0
+tunis,Ariana Ville,125,2.0,2,1,nan,1,725000.0
+tunis,Ariana Ville,225,5.0,2,1,nan,1,700000.0
+tunis,Aouina,121,3.0,2,1,Bon état,1,300000.0
+tunis,Aouina,90,3.0,2,1,Bon état,1,270000.0
+tunis,Ain Zaghouan,131,4.0,3,1,Nouveau,1,410000.0
+tunis,Ariana Ville,106,6.0,6,1,Nouveau,1,820000.0
+tunis,Aouina,147,6.0,4,3,1-5 ans,1,380000.0
+tunis,Aouina,118,3.0,2,1,Bon état,1,225000.0
+tunis,Aouina,100,3.0,2,1,Bon état,1,180000.0
+tunis,Aouina,85,3.0,2,1,Bon état,1,195000.0
+tunis,La Goulette,134,3.0,3,1,5-10 ans,3,380000.0
+tunis,Ariana Ville,95,2.0,2,1,nan,1,540000.0
+tunis,Aouina,105,2.0,1,1,Bon état,1,285000.0
+tunis,Ain Zaghouan,160,4.0,3,2,Bon état,1,440000.0
+tunis,Ain Zaghouan,116,3.0,2,1,Nouveau,1,350000.0
+tunis,Ariana Ville,240,6.0,4,2,Bon état,1,360000.0
+tunis,Les Berges Du Lac,185,3.0,3,2,Nouveau,1,795000.0
+tunis,Ain Zaghouan,110,3.0,2,1,Bon état,1,240000.0
+tunis,El Ouardia,177,2.0,2,1,nan,1,230000.0
+tunis,Gammarth,250,3.0,3,1,Nouveau,1,1250000.0
+tunis,Les Berges Du Lac,68,1.0,1,1,Nouveau,1,350000.0
+tunis,Les Berges Du Lac,147,3.0,2,2,Bon état,1,650000.0
+tunis,Ain Zaghouan,236,5.0,3,3,Moins d'un an,3,1100000.0
+tunis,Ariana Ville,162,8.0,3,3,Moins d'un an,1,825000.0
+tunis,Les Berges Du Lac,103,6.0,2,1,5-10 ans,1,530000.0
+tunis,Ariana Ville,147,3.0,2,1,nan,1,680000.0
+tunis,Ariana Ville,130,3.0,2,3,Nouveau,1,690000.0
+tunis,Ain Zaghouan,90,1.0,1,1,Bon état,1,220000.0
+tunis,La Goulette,63,2.0,2,1,nan,1,230000.0
+tunis,Les Berges Du Lac,300,11.0,5,4,Moins d'un an,1,1900000.0
+tunis,El Ouardia,63,2.0,2,1,10-20 ans,3,100000.0
+tunis,Ain Zaghouan,72,2.0,1,1,Moins d'un an,1,390000.0
+tunis,Ariana Ville,148,2.0,2,1,nan,1,580000.0
+tunis,Bab El Khadra,238,14.0,8,6,À rénover,1,500000.0
+tunis,Aouina,87,3.0,2,1,Bon état,1,220000.0
+tunis,Montplaisir,135,4.0,3,1,Bon état,3,290000.0
+tunis,Montplaisir,62,2.0,2,1,10-20 ans,2,140000.0
+tunis,Aouina,173,3.0,3,1,Nouveau,1,430000.0
+tunis,Montplaisir,42,4.0,2,1,10-20 ans,1,110000.0
+tunis,Ariana Ville,190,4.0,3,3,Nouveau,1,912000.0
+tunis,Aouina,190,5.0,4,1,Bon état,1,480000.0
+tunis,Ariana Ville,300,5.0,3,2,Bon état,1,1300000.0
+tunis,Aouina,138,4.0,3,2,Bon état,1,290000.0
+tunis,Ain Zaghouan,130,4.0,3,1,Bon état,1,360000.0
+tunis,La Goulette,119,4.0,3,2,10-20 ans,2,350000.0
+tunis,La Goulette,119,4.0,3,1,nan,1,350000.0
+tunis,Aouina,156,4.0,3,1,5-10 ans,3,430000.0
+tunis,Ariana Ville,137,3.0,2,1,Moins d'un an,2,715000.0
+tunis,El Manar,150,5.0,4,1,1-5 ans,1,400000.0
+tunis,Ariana Ville,134,4.0,2,2,1-5 ans,4,425000.0
+tunis,El Manar,97,4.0,3,2,Bon état,1,280000.0
+tunis,Ariana Ville,101,2.0,2,1,nan,1,562800.0
+tunis,Gammarth,111,2.0,1,1,Moins d'un an,1,850000.0
+tunis,Gammarth,150,3.0,2,1,Moins d'un an,1,1200000.0
+tunis,Ariana Ville,150,2.0,2,1,nan,1,730000.0
+tunis,Gammarth,201,3.0,2,1,Moins d'un an,1,1500000.0
+tunis,Aouina,75,1.0,1,1,Nouveau,1,260000.0
+tunis,Aouina,168,3.0,3,1,Nouveau,1,350000.0
+tunis,El Manar,175,4.0,3,1,20-30 ans,1,680000.0
+tunis,El Menzah 7,110,2.0,2,1,nan,1,225000.0
+tunis,Ariana Ville,120,2.0,2,1,nan,1,400000.0
+tunis,Ariana Ville,120,2.0,2,1,Nouveau,1,480000.0
+tunis,Ariana Ville,65,2.0,1,1,5-10 ans,2,330000.0
+tunis,La Goulette,200,2.0,2,1,nan,1,720000.0
+tunis,Ariana Ville,250,4.0,3,1,1-5 ans,1,1350000.0
+tunis,Ariana Ville,148,3.0,2,2,Bon état,3,560000.0
+tunis,Gammarth,113,3.0,2,2,Bon état,1,680000.0
+tunis,La Goulette,147,2.0,2,1,nan,1,350000.0
+tunis,El Menzah 7,133,2.0,2,1,nan,1,350000.0
+tunis,Gammarth,122,2.0,2,1,nan,1,550000.0
+tunis,Aouina,125,3.0,2,1,1-5 ans,2,305000.0
+tunis,La Goulette,100,2.0,2,1,nan,1,280000.0
+tunis,El Menzah 7,162,2.0,2,1,nan,1,360000.0
+tunis,Aouina,124,3.0,2,2,5-10 ans,2,290000.0
+tunis,Les Berges Du Lac,30,4.0,2,1,Moins d'un an,3,780000.0
+tunis,Le Bardo,200,7.0,7,2,Bon état,1,400000.0
+tunis,Ain Zaghouan,101,3.0,3,2,5-10 ans,5,490000.0
+tunis,Ariana Ville,135,2.0,2,1,nan,1,638574.0
+tunis,Ariana Ville,134,3.0,2,2,5-10 ans,2,425000.0
+tunis,Aouina,108,6.0,3,1,Bon état,3,360000.0
+tunis,Ariana Ville,68,1.0,1,1,Nouveau,1,390000.0
+tunis,El Ouardia,300,3.0,2,1,nan,1,560000.0
+tunis,Aouina,109,5.0,2,1,Bon état,6,240000.0
+tunis,Ariana Ville,204,4.0,3,3,1-5 ans,1,881000.0
+tunis,Ain Zaghouan,92,1.0,1,1,Moins d'un an,8,330000.0
+tunis,Ariana Ville,160,3.0,2,2,1-5 ans,1,778550.0
+tunis,Aouina,118,1.0,2,2,Moins d'un an,2,400000.0
+tunis,Gammarth,150,3.0,2,3,1-5 ans,1,1250000.0
+tunis,Ariana Ville,221,4.0,3,3,1-5 ans,1,947000.0
+tunis,Aouina,114,6.0,2,2,Nouveau,2,365000.0
+tunis,Ain Zaghouan,113,3.0,2,1,1-5 ans,1,360000.0
+tunis,Aouina,120,1.0,2,2,Moins d'un an,2,410000.0
+tunis,El Manar,110,2.0,2,1,nan,1,340000.0
+tunis,Aouina,111,4.0,2,1,Nouveau,4,323000.0
+tunis,Aouina,102,5.0,2,1,Bon état,1,280000.0
+tunis,Ariana Ville,174,4.0,3,3,Nouveau,1,981700.0
+tunis,Gammarth,80,2.0,2,1,nan,1,280000.0
+tunis,Les Berges Du Lac,212,3.0,3,1,Nouveau,1,1250000.0
+tunis,Ariana Ville,265,4.0,3,3,Nouveau,1,1250000.0
+tunis,Ariana Ville,75,1.0,2,1,nan,1,390000.0
+tunis,Ariana Ville,137,2.0,2,1,nan,1,685000.0
+tunis,Aouina,112,5.0,2,1,Bon état,4,270000.0
+tunis,Ain Zaghouan,41,1.0,1,1,Nouveau,3,245000.0
+tunis,Ain Zaghouan,139,4.0,3,2,Nouveau,1,525000.0
+tunis,Ariana Ville,174,4.0,3,2,1-5 ans,9,850000.0
+tunis,Gammarth,111,2.0,1,1,Moins d'un an,1,900000.0
+tunis,Cite El Khadra,152,4.0,3,2,10-20 ans,1,520000.0
+tunis,Gammarth,91,3.0,2,1,Bon état,1,315000.0
+tunis,Les Berges Du Lac,130,2.0,2,1,nan,1,650000.0
+tunis,Bab Bhar,150,6.0,4,1,Bon état,1,300000.0
+tunis,Aouina,183,5.0,4,3,1-5 ans,5,490000.0
+tunis,Ain Zaghouan,149,3.0,2,1,5-10 ans,7,360000.0
+tunis,Aouina,80,3.0,2,1,Bon état,1,260000.0
+tunis,Ariana Ville,140,3.0,2,2,Bon état,1,550000.0
+tunis,Ain Zaghouan,165,4.0,3,3,5-10 ans,6,590000.0
+tunis,Cite El Khadra,105,3.0,2,1,Bon état,1,250000.0
+tunis,Ain Zaghouan,83,2.0,1,1,Moins d'un an,1,395000.0
+tunis,Ain Zaghouan,73,2.0,1,1,Moins d'un an,1,370000.0
+tunis,El Menzah 7,130,5.0,3,2,20-30 ans,2,380000.0
+tunis,Le Bardo,256,5.0,3,1,10-20 ans,1,450000.0
+tunis,Ain Zaghouan,43,1.0,1,1,Moins d'un an,1,230000.0
+tunis,El Ouardia,100,3.0,2,1,nan,1,164000.0
+ariana,Cite Ennasr,167,3.0,2,1,10-20 ans,2,395000.0
+ariana,La Soukra,57,1.0,1,1,Nouveau,1,210000.0
+ariana,La Soukra,173,3.0,2,2,Nouveau,1,540000.0
+ariana,El Menzah 7,85,3.0,2,2,20-30 ans,2,270000.0
+ariana,Cite Ennasr,97,2.0,1,1,1-5 ans,1,320000.0
+ariana,La Soukra,225,5.0,4,2,5-10 ans,2,780000.0
+ariana,La Soukra,165,4.0,3,3,5-10 ans,2,520000.0
+ariana,Raoued,300,4.0,3,1,1-5 ans,1,380000.0
+ariana,Cite El Ghazela,75,2.0,1,1,Moins d'un an,1,255000.0
+ariana,La Soukra,61,2.0,1,1,Moins d'un an,2,241000.0
+ariana,La Soukra,175,8.0,3,3,Nouveau,1,575000.0
+ariana,La Soukra,122,3.0,2,1,Moins d'un an,1,374304.0
+ariana,La Soukra,49,2.0,1,1,Nouveau,1,220000.0
+ariana,La Soukra,44,2.0,1,1,Moins d'un an,1,225000.0
+ariana,Ariana Ville,181,5.0,4,3,Moins d'un an,3,629000.0
+ariana,Cite Ennasr,90,3.0,2,1,Bon état,1,370000.0
+ariana,Raoued,85,2.0,1,1,1-5 ans,1,175000.0
+ariana,La Soukra,150,4.0,3,1,Bon état,3,150000.0
+ariana,Ariana Ville,150,4.0,3,2,Bon état,1,280000.0
+ariana,La Soukra,145,1.0,3,1,5-10 ans,1,335000.0
+ariana,Ariana Ville,102,3.0,2,1,10-20 ans,2,260000.0
+ariana,La Soukra,137,4.0,3,2,5-10 ans,3,375000.0
+ariana,La Soukra,52,1.0,1,1,Moins d'un an,2,157000.0
+ariana,La Soukra,124,3.0,1,1,5-10 ans,1,230000.0
+ariana,Cite Ennasr,100,5.0,2,1,10-20 ans,1,280000.0
+ariana,La Soukra,146,4.0,3,3,Moins d'un an,1,525000.0
+ariana,La Soukra,160,4.0,3,2,Nouveau,1,570000.0
+ariana,Cite Ennasr,145,4.0,3,1,Bon état,1,370000.0
+ariana,Kalaat Landalous,260,3.0,2,2,Bon état,1,200000.0
+ariana,Ariana Ville,70,3.0,2,1,Bon état,1,165000.0
+ariana,Cite Ennasr,75,2.0,1,1,Bon état,1,180000.0
+ariana,La Soukra,52,2.0,1,1,Nouveau,1,160000.0
+ariana,La Soukra,61,2.0,1,1,Moins d'un an,1,246000.0
+ariana,La Soukra,192,4.0,3,2,5-10 ans,3,750000.0
+ariana,La Soukra,157,4.0,3,2,1-5 ans,1,540000.0
+ariana,Kalaat Landalous,150,3.0,2,1,Nouveau,1,100000.0
+ariana,Cite El Ghazela,170,4.0,3,3,Moins d'un an,6,476000.0
+ariana,La Soukra,173,2.0,3,1,10-20 ans,1,330000.0
+ariana,La Soukra,147,4.0,3,3,1-5 ans,2,580000.0
+ariana,Cite Ennasr,180,4.0,4,2,Bon état,6,395000.0
+ariana,La Soukra,124,5.0,3,1,10-20 ans,1,250000.0
+ariana,Raoued,80,1.0,2,1,5-10 ans,1,150000.0
+ariana,La Soukra,300,11.0,8,5,Bon état,1,980000.0
+ariana,La Soukra,110,3.0,2,1,nan,1,430000.0
+ariana,El Menzah 7,75,1.0,1,1,5-10 ans,1,215000.0
+ariana,Cite El Ghazela,108,1.0,1,1,10-20 ans,1,170000.0
+ariana,La Soukra,126,3.0,2,2,10-20 ans,1,240000.0
+ariana,Cite Ennasr,75,1.0,2,1,Nouveau,1,250000.0
+ariana,La Soukra,167,2.0,2,2,1-5 ans,5,500000.0
+ariana,La Soukra,220,10.0,7,3,Bon état,1,850000.0
+ariana,Raoued,193,3.0,2,2,Nouveau,1,560000.0
+ariana,Raoued,154,3.0,2,2,Bon état,1,490000.0
+ariana,La Soukra,130,4.0,3,3,10-20 ans,1,345000.0
+ariana,Cite Ennasr,121,3.0,2,1,5-10 ans,6,390000.0
+ariana,Cite Ennasr,86,2.0,2,1,Moins d'un an,1,350000.0
+ariana,Cite Ennasr,185,3.0,3,3,1-5 ans,2,550000.0
+ariana,Cite Ennasr,74,1.0,1,2,1-5 ans,1,220000.0
+ariana,Cite Ennasr,200,3.0,3,3,1-5 ans,2,570000.0
+ariana,La Soukra,120,3.0,2,7,Moins d'un an,1,410000.0
+ariana,El Menzah 7,206,4.0,4,3,5-10 ans,2,470000.0
+ariana,La Soukra,162,3.0,2,1,nan,1,640000.0
+ariana,El Menzah 7,190,2.0,2,1,nan,1,485000.0
+ariana,Ariana Ville,125,1.0,2,2,1-5 ans,2,395000.0
+ariana,Cite Ennasr,109,2.0,2,2,Moins d'un an,3,425000.0
+ariana,Cite Ennasr,268,4.0,2,3,10-20 ans,5,400000.0
+ariana,Ariana Ville,120,3.0,2,1,Bon état,1,150000.0
+ariana,Cite Ennasr,57,1.0,1,1,Moins d'un an,1,216000.0
+ariana,Cite Ennasr,257,5.0,4,3,5-10 ans,1,650000.0
+ariana,Cite El Ghazela,120,2.0,1,1,Nouveau,1,175000.0
+ariana,La Soukra,52,2.0,1,1,10-20 ans,7,175000.0
+ariana,Cite Ennasr,110,3.0,2,2,1-5 ans,7,355000.0
+ariana,Cite El Ghazela,120,3.0,1,1,Nouveau,1,175000.0
+ariana,La Soukra,153,3.0,2,1,5-10 ans,2,420000.0
+ariana,Ariana Ville,119,2.0,2,1,nan,1,425000.0
+ariana,Ariana Ville,167,2.0,2,1,nan,1,660000.0
+ariana,La Soukra,125,3.0,2,2,Moins d'un an,1,680000.0
+ariana,El Menzah 7,120,2.0,2,1,nan,1,280000.0
+ariana,La Soukra,157,4.0,4,2,1-5 ans,6,530000.0
+ariana,Ariana Ville,125,3.0,2,2,1-5 ans,2,395000.0
+ariana,Raoued,154,3.0,3,1,Nouveau,1,430000.0
+ariana,La Soukra,86,1.0,1,1,Nouveau,1,263000.0
+ariana,Raoued,135,3.0,3,1,Nouveau,1,245000.0
+ariana,Ariana Ville,156,5.0,4,1,20-30 ans,5,255000.0
+ariana,Cite Ennasr,148,3.0,2,2,5-10 ans,2,410000.0
+ariana,Ariana Ville,120,5.0,4,2,Bon état,1,350000.0
+ariana,La Soukra,183,2.0,2,1,nan,1,850000.0
+ariana,Cite Ennasr,137,3.0,3,3,Moins d'un an,3,527000.0
+ariana,La Soukra,124,3.0,2,1,Moins d'un an,1,365000.0
+ariana,Cite Ennasr,151,1.0,3,2,Bon état,1,450000.0
+ariana,Cite Ennasr,139,1.0,1,1,1-5 ans,1,315000.0
+ariana,La Soukra,139,2.0,2,1,nan,1,490650.0
+ariana,La Soukra,53,1.0,2,1,Moins d'un an,1,248733.0
+ariana,El Menzah 7,150,1.0,4,2,5-10 ans,6,365000.0
+ariana,Cite Ennasr,113,1.0,3,2,5-10 ans,2,265000.0
+ariana,La Soukra,130,3.0,2,2,1-5 ans,2,340000.0
+ariana,La Soukra,111,3.0,2,1,5-10 ans,3,340000.0
+ariana,Raoued,135,1.0,3,2,1-5 ans,6,300000.0
+ariana,Ariana Ville,120,4.0,3,1,Bon état,1,165000.0
+ariana,La Soukra,187,4.0,3,1,5-10 ans,1,590000.0
+ariana,La Soukra,151,4.0,3,2,Bon état,1,420000.0
+ariana,Cite Ennasr,120,5.0,4,2,Bon état,1,400000.0
+ariana,La Soukra,250,6.0,4,2,5-10 ans,1,1070000.0
+ariana,La Soukra,106,4.0,3,1,Bon état,1,132000.0
+ariana,Raoued,70,3.0,2,1,Bon état,3,110000.0
+ariana,Raoued,99,4.0,3,1,Bon état,3,150000.0
+ariana,Ariana Ville,199,3.0,2,2,Moins d'un an,2,295000.0
+ariana,Ariana Ville,107,2.0,2,1,nan,1,250000.0
+ariana,Ariana Ville,125,6.0,3,2,30-50 ans,4,225000.0
+ariana,Cite Ennasr,52,1.0,1,1,Nouveau,1,170000.0
+ariana,La Soukra,112,2.0,3,1,Nouveau,1,195000.0
+ariana,La Soukra,110,3.0,3,1,Bon état,2,360000.0
+ariana,La Soukra,172,2.0,3,2,Bon état,1,425000.0
+ariana,La Soukra,124,3.0,2,1,nan,1,420000.0
+ariana,Ariana Ville,105,2.0,2,1,nan,1,365000.0
+ariana,Cite Ennasr,182,5.0,3,2,10-20 ans,1,470000.0
+ariana,La Soukra,170,4.0,3,1,1-5 ans,1,540000.0
+ariana,La Soukra,61,2.0,1,1,Nouveau,2,241000.0
+ariana,La Soukra,170,4.0,3,1,Moins d'un an,1,540000.0
+ariana,La Soukra,75,3.0,2,1,10-20 ans,1,130000.0
+ariana,La Soukra,64,2.0,1,1,Moins d'un an,1,252000.0
+ariana,La Soukra,150,4.0,3,2,Nouveau,1,650000.0
+ariana,La Soukra,170,4.0,3,2,Nouveau,1,740000.0
+ariana,La Soukra,57,2.0,1,1,Nouveau,1,210900.0
+ariana,El Menzah 7,220,5.0,4,3,1-5 ans,3,569000.0
+ariana,Ariana Ville,88,3.0,2,1,Bon état,1,150000.0
+ariana,La Soukra,158,4.0,3,2,Moins d'un an,1,475328.0
+ariana,Ariana Ville,300,2.0,2,1,nan,1,520000.0
+ariana,La Soukra,145,3.0,2,1,nan,1,580000.0
+ariana,El Menzah 7,115,2.0,2,1,1-5 ans,1,299000.0
+ariana,La Soukra,159,4.0,3,2,Nouveau,1,860000.0
+ariana,La Soukra,80,2.0,1,1,Moins d'un an,1,260000.0
+ariana,Ariana Ville,30,1.0,1,1,Nouveau,1,1550000.0
+ariana,La Soukra,98,3.0,2,1,nan,1,300000.0
+ariana,Ariana Ville,143,4.0,3,1,10-20 ans,2,385000.0
+ariana,Raoued,144,3.0,3,1,Nouveau,1,330000.0
+ariana,La Soukra,162,4.0,3,3,Nouveau,1,495000.0
+ariana,La Soukra,300,2.0,2,1,nan,1,1410000.0
+ariana,La Soukra,100,7.0,3,2,5-10 ans,3,250000.0
+ariana,La Soukra,112,3.0,2,2,Moins d'un an,2,448000.0
+ariana,La Soukra,64,2.0,1,1,Moins d'un an,1,252000.0
+ariana,La Soukra,162,3.0,3,2,Bon état,1,663000.0
+ariana,La Soukra,161,4.0,3,3,1-5 ans,1,640000.0
+ariana,La Soukra,126,3.0,2,1,Nouveau,1,370000.0
+ariana,Ariana Ville,127,6.0,4,1,20-30 ans,2,250000.0
+ariana,La Soukra,69,1.0,1,1,Moins d'un an,1,254000.0
+ariana,La Soukra,149,2.0,2,1,nan,1,343000.0
+ariana,La Soukra,68,1.0,1,1,Moins d'un an,1,249000.0
+ariana,Cite Ennasr,50,2.0,1,1,Bon état,1,180000.0
+ariana,Cite Ennasr,160,5.0,4,2,10-20 ans,4,399000.0
+ariana,La Soukra,100,2.0,2,1,nan,1,430000.0
+ariana,La Soukra,140,3.0,3,1,Nouveau,1,360000.0
+ariana,La Soukra,82,2.0,2,1,nan,1,270000.0
+ariana,La Soukra,91,2.0,2,1,nan,1,338950.0
+ariana,La Soukra,112,3.0,2,2,Nouveau,2,398000.0
+ariana,Cite Ennasr,170,5.0,4,3,Bon état,1,390000.0
+ariana,El Menzah 7,167,4.0,3,2,5-10 ans,1,410000.0
+ariana,Ariana Ville,117,2.0,2,1,nan,1,330000.0
+ariana,El Menzah 7,150,4.0,3,2,10-20 ans,3,350000.0
+ariana,La Soukra,89,4.0,1,1,Nouveau,1,320000.0
+ariana,Cite Ennasr,148,4.0,3,2,Bon état,1,365000.0
+ariana,La Soukra,191,2.0,2,1,nan,1,780000.0
+ariana,La Soukra,56,2.0,1,1,Nouveau,1,220000.0
+ariana,El Menzah 7,167,4.0,3,3,Moins d'un an,1,550000.0
+ariana,Ariana Ville,67,1.0,2,1,Nouveau,1,220000.0
+ariana,La Soukra,217,4.0,3,2,Nouveau,1,807240.0
+ariana,El Menzah 7,147,4.0,3,2,Moins d'un an,2,480000.0
+ariana,La Soukra,107,3.0,2,1,Nouveau,1,398040.0
+ariana,La Soukra,80,3.0,3,1,À rénover,3,120000.0
+ariana,El Menzah 7,160,5.0,4,2,À rénover,1,190000.0
+ariana,Ariana Ville,125,2.0,2,1,nan,1,395000.0
+ariana,Ariana Ville,140,2.0,2,1,nan,1,330000.0
+ariana,La Soukra,52,2.0,2,1,nan,1,260000.0
+ariana,El Menzah 7,118,3.0,2,2,Moins d'un an,1,410000.0
+ariana,Cite El Ghazela,130,3.0,2,1,Moins d'un an,1,286000.0
+ariana,La Soukra,122,3.0,2,2,Moins d'un an,1,370000.0
+ariana,Cite El Ghazela,160,4.0,3,1,Moins d'un an,6,430000.0
+ariana,La Soukra,126,3.0,2,2,Nouveau,1,520000.0
+ariana,La Soukra,75,2.0,1,2,Nouveau,1,250000.0
+ariana,La Soukra,153,5.0,2,2,Moins d'un an,2,425000.0
+ariana,Cite Ennasr,136,4.0,3,2,Bon état,1,530000.0
+ariana,La Soukra,110,3.0,2,2,5-10 ans,1,430000.0
+ariana,Ariana Ville,104,2.0,3,1,Nouveau,1,250000.0
+ariana,La Soukra,30,1.0,1,1,Nouveau,1,1500000.0
+ariana,Cite Ennasr,218,2.0,4,2,10-20 ans,5,545000.0
+ariana,La Soukra,105,4.0,3,1,10-20 ans,1,140000.0
+ariana,Cite Ennasr,250,6.0,5,3,10-20 ans,6,630000.0
+ariana,Cite Ennasr,72,2.0,1,1,10-20 ans,6,190000.0
+ariana,La Soukra,300,1.0,4,3,Bon état,1,800000.0
+ariana,Cite Ennasr,156,4.0,2,1,10-20 ans,9,620000.0
+ariana,La Soukra,300,8.0,3,1,Moins d'un an,1,755000.0
+ariana,Cite El Ghazela,131,3.0,2,1,Moins d'un an,6,288200.0
+ariana,Cite Ennasr,212,4.0,3,2,5-10 ans,8,550000.0
+ariana,El Menzah 7,150,2.0,2,1,nan,1,400000.0
+ariana,Cite Ennasr,124,4.0,3,1,Bon état,1,305000.0
+ariana,La Soukra,112,3.0,2,2,Moins d'un an,2,380000.0
+ariana,La Soukra,70,5.0,2,1,Nouveau,1,250000.0
+ariana,La Soukra,162,4.0,3,2,Nouveau,1,640000.0
+ariana,La Soukra,92,3.0,2,1,Bon état,1,250000.0
+ariana,Cite Ennasr,60,2.0,1,1,Bon état,1,178000.0
+ariana,Ariana Ville,90,3.0,2,2,Bon état,1,120000.0
+ariana,Raoued,164,4.0,3,2,10-20 ans,1,295000.0
+ariana,El Menzah 7,272,5.0,4,3,5-10 ans,4,684000.0
+ariana,Ariana Ville,160,2.0,2,1,nan,1,249000.0
+ariana,La Soukra,90,4.0,2,2,Bon état,1,182000.0
+ariana,Ariana Ville,112,2.0,2,1,nan,1,365000.0
+ariana,La Soukra,156,4.0,3,3,Moins d'un an,1,650000.0
+ariana,Ariana Ville,129,2.0,2,1,nan,1,449000.0
+ariana,Ariana Ville,57,2.0,2,1,nan,1,135000.0
+ariana,Ariana Ville,147,2.0,2,1,nan,1,536500.0
+ariana,Ariana Ville,163,2.0,2,1,nan,1,550000.0
+ariana,Ariana Ville,127,2.0,2,1,nan,1,290000.0
+ariana,La Soukra,151,4.0,3,1,Moins d'un an,1,740500.0
+ariana,El Menzah 7,135,3.0,2,2,Bon état,1,375000.0
+ariana,Ariana Ville,96,2.0,2,1,nan,1,215000.0
+ariana,La Soukra,70,2.0,1,1,Bon état,1,170000.0
+ariana,Raoued,160,2.0,2,1,Nouveau,1,155000.0
+ariana,Cite Ennasr,128,4.0,3,2,Bon état,1,365000.0
+ariana,Raoued,140,3.0,4,1,Nouveau,1,370000.0
+ariana,Raoued,100,4.0,3,2,Bon état,1,150000.0
+ariana,La Soukra,75,1.0,1,1,Nouveau,1,311000.0
+ariana,La Soukra,90,4.0,3,1,Bon état,1,160000.0
+ariana,La Soukra,89,1.0,1,1,Bon état,1,320000.0
+ariana,La Soukra,126,4.0,4,1,Bon état,3,200000.0
+ariana,La Soukra,143,3.0,2,2,5-10 ans,7,390000.0
+ariana,Cite El Ghazela,138,4.0,3,3,Bon état,1,360000.0
+ariana,Raoued,108,3.0,3,1,Bon état,1,230000.0
+ariana,Cite Ennasr,104,3.0,2,1,Nouveau,1,365000.0
+ariana,Cite Ennasr,122,3.0,2,2,1-5 ans,2,398000.0
+ariana,Cite Ennasr,194,3.0,3,3,Nouveau,1,598000.0
+ariana,La Soukra,205,2.0,2,1,nan,1,783684.0
+ariana,Cite El Ghazela,76,1.0,1,1,Nouveau,1,170000.0
+ariana,El Menzah 7,120,3.0,2,2,Moins d'un an,2,360000.0
+ariana,Cite Ennasr,100,3.0,2,1,Bon état,1,248000.0
+ariana,El Menzah 7,261,4.0,3,3,Moins d'un an,1,570000.0
+ariana,La Soukra,68,2.0,1,1,Moins d'un an,1,289500.0
+ariana,Ariana Ville,100,4.0,3,2,Bon état,1,240000.0
+ariana,El Menzah 7,150,4.0,3,3,5-10 ans,2,340000.0
+ariana,La Soukra,117,3.0,2,1,Moins d'un an,1,385000.0
+ariana,La Soukra,135,4.0,3,3,Moins d'un an,1,513000.0
+ariana,La Soukra,125,4.0,3,2,Moins d'un an,1,350000.0
+ariana,La Soukra,88,3.0,2,2,Moins d'un an,2,404000.0
+ariana,La Soukra,168,4.0,3,2,Moins d'un an,2,641679.0
+ariana,Ariana Ville,138,5.0,3,1,5-10 ans,3,410000.0
+ariana,La Soukra,63,2.0,1,1,Moins d'un an,1,315000.0
+ariana,La Soukra,99,3.0,2,2,Nouveau,1,425700.0
+ariana,La Soukra,68,2.0,1,1,Nouveau,1,210000.0
+ariana,Cite Ennasr,180,3.0,2,1,1-5 ans,5,600000.0
+ariana,La Soukra,280,5.0,4,2,Moins d'un an,1,700000.0
+ariana,La Soukra,149,3.0,2,4,Moins d'un an,1,448000.0
+ariana,Cite Ennasr,136,3.0,2,2,1-5 ans,3,444000.0
+ariana,Ariana Ville,100,2.0,2,1,nan,1,140000.0
+ariana,Ariana Ville,90,4.0,3,2,Bon état,1,158000.0
+ariana,La Soukra,90,4.0,4,2,Bon état,1,170000.0
+ariana,Ariana Ville,135,2.0,2,1,nan,1,250000.0
+ariana,La Soukra,160,3.0,3,2,Bon état,1,580000.0
+ariana,Ariana Ville,140,4.0,2,1,nan,1,420000.0
+ariana,El Menzah 7,170,4.0,3,1,Nouveau,1,790000.0
+ariana,La Soukra,218,3.0,2,1,nan,1,870000.0
+ariana,Cite Ennasr,175,4.0,3,3,1-5 ans,4,480000.0
+ariana,Cite Ennasr,55,2.0,1,1,Bon état,1,190000.0
+ariana,Ariana Ville,153,2.0,2,1,nan,1,370000.0
+ariana,La Soukra,105,2.0,2,1,nan,1,350000.0
+ariana,La Soukra,106,2.0,2,1,nan,1,230000.0
+ariana,La Soukra,125,4.0,1,1,Moins d'un an,2,360000.0
+ariana,La Soukra,140,2.0,2,1,nan,1,350000.0
+ariana,La Soukra,101,3.0,2,2,Moins d'un an,1,433000.0
+ariana,Cite Ennasr,155,3.0,2,2,1-5 ans,5,649000.0
+ariana,La Soukra,58,1.0,1,1,Moins d'un an,2,276000.0
+ariana,Raoued,99,3.0,2,2,Moins d'un an,1,255000.0
+ariana,La Soukra,67,2.0,1,1,Moins d'un an,1,328000.0
+ariana,Cite El Ghazela,89,3.0,2,1,Moins d'un an,1,374400.0
+ariana,Cite Ennasr,54,1.0,1,1,Moins d'un an,1,246000.0
+ariana,Cite Ennasr,154,4.0,3,2,Bon état,1,400000.0
+ariana,La Soukra,145,4.0,3,3,Moins d'un an,2,491000.0
+ariana,La Soukra,136,3.0,2,1,nan,1,420000.0
+ariana,Ariana Ville,100,4.0,3,1,Bon état,1,220000.0
+ariana,La Soukra,110,3.0,3,1,Moins d'un an,1,380000.0
+ariana,Cite Ennasr,98,3.0,2,1,Bon état,1,290000.0
+ariana,Cite El Ghazela,167,2.0,3,2,5-10 ans,4,289000.0
+ariana,Cite Ennasr,261,7.0,6,3,Nouveau,1,1300000.0
+ariana,La Soukra,147,4.0,3,2,Nouveau,1,540000.0
+ariana,Cite Ennasr,300,6.0,4,3,10-20 ans,6,650000.0
+ariana,Cite Ennasr,55,2.0,1,1,Bon état,1,170000.0
+ariana,Ariana Ville,300,6.0,3,2,Moins d'un an,1,850000.0
+ariana,La Soukra,130,4.0,3,2,10-20 ans,3,310000.0
+ariana,Ariana Ville,115,5.0,4,2,Bon état,1,370000.0
+ariana,La Soukra,230,5.0,4,3,5-10 ans,6,700000.0
+ariana,El Menzah 7,300,2.0,2,1,nan,1,450000.0
+ariana,El Menzah 7,180,2.0,2,1,nan,1,600000.0
+ariana,La Soukra,160,5.0,3,2,Moins d'un an,1,464000.0
+ariana,La Soukra,110,3.0,2,2,1-5 ans,2,335000.0
+ariana,La Soukra,56,2.0,1,1,Moins d'un an,2,240000.0
+ariana,Raoued,99,3.0,2,2,Nouveau,1,250000.0
+ariana,Raoued,95,4.0,3,2,Moins d'un an,1,220000.0
+ariana,Cite Ennasr,125,4.0,3,2,Bon état,3,420000.0
+ariana,Cite El Ghazela,62,1.0,1,1,Nouveau,1,210800.0
+ariana,La Soukra,155,3.0,2,1,nan,1,520000.0
+ariana,Raoued,90,4.0,2,1,10-20 ans,2,165000.0
+ariana,Ariana Ville,76,3.0,2,1,Moins d'un an,1,228000.0
+ariana,La Soukra,125,3.0,3,1,1-5 ans,1,350000.0
+ariana,La Soukra,76,2.0,1,1,Nouveau,1,247000.0
+ariana,Raoued,89,4.0,3,1,Bon état,1,160000.0
+ariana,La Soukra,61,1.0,1,1,Nouveau,1,246000.0
+ariana,La Soukra,117,3.0,2,2,Moins d'un an,2,420000.0
+ariana,La Soukra,76,2.0,1,1,Moins d'un an,1,178000.0
+ariana,La Soukra,114,3.0,2,2,Moins d'un an,1,419000.0
+ariana,La Soukra,100,2.0,2,1,Nouveau,1,210000.0
+ariana,Raoued,250,5.0,2,1,Nouveau,1,125000.0
+ariana,Cite Ennasr,118,3.0,2,1,Nouveau,1,420000.0
+ariana,La Soukra,65,2.0,1,1,Bon état,1,273000.0
+ariana,La Soukra,131,2.0,2,1,nan,1,509810.0
+ariana,La Soukra,247,2.0,2,1,nan,1,710000.0
+ariana,La Soukra,123,3.0,2,2,1-5 ans,1,435000.0
+ariana,Ariana Ville,146,2.0,2,1,nan,1,360000.0
+ariana,Ariana Ville,101,2.0,2,1,nan,1,385000.0
+ariana,La Soukra,57,2.0,2,1,nan,1,220000.0
+ariana,Cite Ennasr,125,4.0,3,2,20-30 ans,3,389000.0
+ariana,La Soukra,92,3.0,2,2,Nouveau,1,372066.0
+ariana,El Menzah 7,175,4.0,3,2,1-5 ans,3,449000.0
+ariana,Ariana Ville,50,1.0,1,1,10-20 ans,1,160000.0
+ariana,La Soukra,110,3.0,2,1,nan,1,400000.0
+ariana,La Soukra,68,2.0,2,1,nan,1,189000.0
+ariana,Cite Ennasr,90,3.0,2,1,Bon état,1,280000.0
+ariana,La Soukra,200,2.0,2,1,nan,1,830000.0
+ariana,Cite Ennasr,156,5.0,4,2,1-5 ans,5,540000.0
+ariana,La Soukra,153,3.0,3,1,Moins d'un an,1,540000.0
+ariana,La Soukra,91,2.0,3,1,Bon état,1,225000.0
+ariana,La Soukra,80,2.0,2,1,nan,1,350000.0
+ariana,La Soukra,30,1.0,1,1,Bon état,1,300000.0
+ariana,La Soukra,61,2.0,1,1,Nouveau,1,268000.0
+ariana,La Soukra,175,4.0,3,3,Nouveau,1,575000.0
+ariana,La Soukra,117,1.0,2,2,Nouveau,1,460000.0
+ariana,La Soukra,126,3.0,2,1,Bon état,1,370000.0
+ariana,La Soukra,108,3.0,2,1,Nouveau,1,441000.0
+ariana,Cite Ennasr,118,3.0,2,1,10-20 ans,4,380000.0
+ariana,La Soukra,116,3.0,2,1,nan,1,330000.0
+ariana,La Soukra,117,3.0,2,1,Nouveau,1,440000.0
+ariana,La Soukra,132,4.0,4,2,Bon état,1,420000.0
+ariana,La Soukra,117,3.0,2,1,Nouveau,1,460000.0
+ariana,La Soukra,124,4.0,4,2,Bon état,1,300000.0
+ariana,Cite Ennasr,140,4.0,3,2,10-20 ans,1,349000.0
+ariana,Cite Ennasr,152,4.0,3,2,Bon état,1,490000.0
+ariana,Raoued,131,3.0,2,1,Nouveau,4,281650.0
+ariana,La Soukra,64,2.0,2,1,Moins d'un an,1,241000.0
+ariana,Ariana Ville,160,1.0,1,1,Nouveau,1,100000.0
+ariana,La Soukra,147,3.0,3,1,Nouveau,1,420000.0
+ariana,La Soukra,112,3.0,2,1,Bon état,1,335000.0
+ariana,Cite Ennasr,190,4.0,3,2,Nouveau,1,450000.0
+ariana,La Soukra,200,4.0,3,1,20-30 ans,1,370000.0
+ariana,Cite Ennasr,136,4.0,2,1,nan,1,480000.0
+ariana,Ariana Ville,110,2.0,2,1,Nouveau,1,250000.0
+ariana,Cite Ennasr,67,2.0,1,1,5-10 ans,1,180000.0
+ariana,La Soukra,170,4.0,3,2,Bon état,1,570000.0
+ariana,La Soukra,145,3.0,3,3,Moins d'un an,1,527000.0
+ariana,La Soukra,94,3.0,1,1,Nouveau,1,388000.0
+ariana,Ariana Ville,143,4.0,3,1,10-20 ans,2,330000.0
+ariana,Ariana Ville,118,4.0,3,1,Bon état,1,190000.0
+ariana,La Soukra,172,2.0,3,2,10-20 ans,1,380000.0
+ariana,Raoued,170,4.0,3,1,Bon état,1,320000.0
+ariana,Cite Ennasr,146,4.0,3,1,Nouveau,1,465000.0
+ariana,Ariana Ville,117,2.0,3,1,Nouveau,1,310000.0
+ariana,La Soukra,62,2.0,1,1,Moins d'un an,1,254400.0
+ariana,La Soukra,117,3.0,2,1,nan,1,272000.0
+ariana,Cite Ennasr,125,3.0,2,2,Bon état,1,330000.0
+ariana,Raoued,64,5.0,1,2,1-5 ans,1,160000.0
+ariana,Cite Ennasr,172,5.0,4,1,10-20 ans,1,550000.0
+ariana,La Soukra,65,2.0,1,1,Bon état,3,275000.0
+ariana,La Soukra,163,4.0,3,2,Moins d'un an,1,645211.0
+ariana,La Soukra,58,1.0,1,1,Nouveau,1,280000.0
+ariana,La Soukra,96,3.0,2,1,10-20 ans,4,133000.0
+ariana,La Soukra,118,3.0,2,2,Moins d'un an,1,432267.0
+ariana,Cite Ennasr,177,4.0,4,2,10-20 ans,3,330000.0
+ariana,Raoued,114,1.0,2,1,5-10 ans,2,295000.0
+ariana,Cite Ennasr,145,4.0,3,2,10-20 ans,1,419000.0
+ariana,La Soukra,188,4.0,3,2,Nouveau,1,830000.0
+ariana,La Soukra,78,1.0,1,1,Nouveau,1,245000.0
+ariana,La Soukra,50,1.0,1,1,Nouveau,1,225000.0
+ariana,La Soukra,88,2.0,1,1,1-5 ans,2,290000.0
+ariana,Ariana Ville,120,4.0,3,1,Bon état,1,140000.0
+ariana,La Soukra,167,4.0,3,1,5-10 ans,2,465000.0
+ariana,La Soukra,125,3.0,2,1,Nouveau,1,425000.0
+ariana,Cite Ennasr,145,4.0,3,2,Bon état,1,420000.0
+ariana,Ariana Ville,99,3.0,2,1,5-10 ans,2,320000.0
+ariana,Cite Ennasr,168,4.0,3,2,Bon état,1,415000.0
+ariana,La Soukra,127,3.0,2,2,Nouveau,4,400000.0
+ariana,El Menzah 7,100,3.0,2,1,À rénover,1,196000.0
+ariana,La Soukra,146,4.0,2,1,nan,1,550000.0
+ariana,El Menzah 7,167,3.0,3,1,Nouveau,1,430000.0
+ariana,Cite Ennasr,248,5.0,4,3,5-10 ans,1,619000.0
+ariana,El Menzah 7,120,3.0,2,1,1-5 ans,3,312000.0
+ariana,La Soukra,230,4.0,2,1,nan,1,635000.0
+ariana,Cite Ennasr,174,4.0,3,2,Moins d'un an,2,624208.0
+ariana,El Menzah 7,124,3.0,2,1,Moins d'un an,1,583225.0
+ariana,La Soukra,67,1.0,1,1,Nouveau,1,294000.0
+ariana,La Soukra,200,7.0,3,2,10-20 ans,1,5200000.0
+ariana,La Soukra,60,2.0,1,1,Moins d'un an,1,260000.0
+ariana,La Soukra,155,3.0,3,1,Nouveau,1,510000.0
+ariana,Cite Ennasr,300,7.0,3,3,Moins d'un an,1,1050000.0
+ariana,La Soukra,214,4.0,3,2,Bon état,1,600000.0
+ariana,La Soukra,185,4.0,3,3,Moins d'un an,1,885000.0
+ariana,La Soukra,78,2.0,2,1,Moins d'un an,1,378000.0
+ariana,Cite Ennasr,180,4.0,3,3,5-10 ans,7,430000.0
+ariana,Aouina,91,3.0,2,1,Nouveau,1,343000.0
+ariana,La Soukra,56,1.0,2,1,Nouveau,1,239400.0
+ariana,La Soukra,155,4.0,3,3,Nouveau,2,1065000.0
+ariana,La Soukra,95,2.0,2,1,nan,1,230000.0
+ariana,La Soukra,228,4.0,3,2,Nouveau,1,630000.0
+ariana,La Soukra,150,2.0,2,1,nan,1,350000.0
+ariana,La Soukra,163,1.0,3,2,Nouveau,1,495000.0
+ariana,La Soukra,149,4.0,3,2,Nouveau,2,580000.0
+ariana,La Soukra,210,5.0,4,2,Bon état,1,650000.0
+ariana,La Soukra,80,1.0,2,2,Nouveau,1,180000.0
+ariana,La Soukra,56,2.0,1,1,Nouveau,1,142000.0
+ariana,Ariana Ville,64,2.0,1,1,Nouveau,1,161650.0
+ariana,Aouina,93,3.0,2,1,Bon état,1,288000.0
+ariana,Aouina,142,4.0,2,1,Bon état,1,298000.0
+ariana,Aouina,70,2.0,1,1,Nouveau,1,180000.0
+ariana,Aouina,139,4.0,3,2,Bon état,1,313000.0
+ariana,Aouina,100,3.0,2,2,Bon état,1,299000.0
+ariana,La Soukra,122,2.0,2,1,nan,1,310000.0
+ariana,La Soukra,91,2.0,2,1,nan,1,250000.0
+ariana,La Soukra,168,3.0,3,2,Nouveau,1,638000.0
+ariana,Cite Ennasr,163,4.0,3,3,5-10 ans,2,410000.0
+ariana,La Soukra,77,2.0,1,1,Moins d'un an,1,200000.0
+ariana,La Soukra,120,3.0,2,2,5-10 ans,2,335000.0
+ariana,Cite El Ghazela,148,2.0,2,1,Nouveau,1,380000.0
+ariana,La Soukra,116,2.0,2,1,nan,1,335000.0
+ariana,Ariana Ville,110,4.0,3,2,Bon état,1,220000.0
+ariana,La Soukra,133,4.0,3,2,Moins d'un an,1,755000.0
+ariana,Cite El Ghazela,142,4.0,3,2,Moins d'un an,1,426000.0
+ariana,Cite Ennasr,109,3.0,2,2,Nouveau,1,350000.0
+ariana,Raoued,136,4.0,3,1,1-5 ans,1,340000.0
+ariana,Cite Ennasr,167,5.0,4,2,Bon état,1,395000.0
+ariana,La Soukra,181,3.0,2,1,Moins d'un an,1,968000.0
+ariana,Cite Ennasr,139,4.0,3,2,Bon état,1,385000.0
+ariana,Cite Ennasr,194,4.0,3,2,1-5 ans,7,598000.0
+ariana,Cite Ennasr,212,4.0,3,2,5-10 ans,8,480000.0
+ariana,El Menzah 7,125,3.0,2,1,5-10 ans,1,410000.0
+ariana,Cite Ennasr,114,2.0,2,1,Bon état,1,550000.0
+ariana,La Soukra,57,2.0,1,1,Nouveau,1,295000.0
+ariana,Cite Ennasr,196,4.0,3,2,1-5 ans,3,575000.0
+ariana,La Soukra,280,2.0,2,1,1-5 ans,1,600000.0
+ariana,Cite Ennasr,155,4.0,3,2,1-5 ans,1,676000.0
+ariana,La Soukra,110,1.0,1,1,Bon état,1,230000.0
+ariana,La Soukra,84,2.0,1,1,Bon état,1,315000.0
+ariana,Ariana Ville,107,3.0,4,1,Nouveau,1,160000.0
+ariana,Ariana Ville,200,5.0,3,3,10-20 ans,1,429000.0
+ariana,Cite Ennasr,177,7.0,4,2,10-20 ans,3,330000.0
+ariana,La Soukra,292,4.0,3,3,Moins d'un an,1,970000.0
+ariana,El Menzah 7,175,4.0,3,3,1-5 ans,1,468000.0
+ariana,Ariana Ville,222,5.0,5,1,Nouveau,1,770000.0
+ariana,El Menzah 7,90,3.0,2,1,Bon état,1,244000.0
+ariana,La Soukra,120,3.0,2,1,Bon état,2,330000.0
+ariana,Ariana Ville,69,2.0,1,1,Bon état,4,200000.0
+ariana,La Soukra,114,3.0,2,1,5-10 ans,1,440000.0
+ariana,Cite Ennasr,62,2.0,1,1,Bon état,2,210000.0
+ariana,Cite Ennasr,115,4.0,3,2,Bon état,1,250000.0
+ariana,Cite El Ghazela,114,1.0,3,1,1-5 ans,5,275000.0
+ariana,El Menzah 7,200,5.0,4,2,1-5 ans,1,520000.0
+ariana,Cite Ennasr,125,5.0,3,2,10-20 ans,3,415000.0
+ariana,La Soukra,112,3.0,2,2,Moins d'un an,2,448000.0
+ariana,La Soukra,160,4.0,3,3,Moins d'un an,2,520000.0
+ariana,Cite Ennasr,300,6.0,5,3,Bon état,1,600000.0
+ariana,Cite Ennasr,150,3.0,2,1,Nouveau,2,510758.0
+ariana,El Menzah 7,300,9.0,6,2,À rénover,1,1200000.0
+ariana,La Soukra,300,4.0,3,3,1-5 ans,1,850000.0
+ariana,Cite Ennasr,130,3.0,3,1,Nouveau,1,400000.0
+ariana,Ariana Ville,103,2.0,2,1,nan,1,175000.0
+ariana,La Soukra,125,3.0,2,2,Moins d'un an,1,437000.0
+ariana,El Menzah 7,220,5.0,4,2,Bon état,1,510000.0
+ariana,La Soukra,126,3.0,2,1,nan,1,335000.0
+ariana,La Soukra,100,3.0,2,2,Moins d'un an,1,400000.0
+ariana,La Soukra,157,4.0,3,2,Bon état,1,475000.0
+ariana,La Soukra,279,4.0,3,2,Nouveau,1,710000.0
+ariana,La Soukra,110,3.0,2,2,Moins d'un an,2,437500.0
+ariana,Cite Ennasr,59,2.0,1,1,Nouveau,1,253000.0
+ariana,Raoued,164,5.0,4,3,Moins d'un an,1,550000.0
+ariana,La Soukra,160,5.0,4,2,Bon état,1,730000.0
+ariana,La Soukra,111,3.0,2,1,1-5 ans,2,288600.0
+ariana,La Soukra,105,2.0,1,1,Moins d'un an,2,330000.0
+ariana,La Soukra,102,3.0,2,2,Moins d'un an,1,483000.0
+ariana,La Soukra,148,4.0,3,2,Nouveau,1,616310.0
+ariana,La Soukra,200,1.0,4,2,Bon état,6,380000.0
+ariana,La Soukra,123,2.0,1,1,Moins d'un an,2,380000.0
+ariana,La Soukra,94,3.0,2,1,Nouveau,1,338000.0
+ariana,Cite Ennasr,120,4.0,3,2,Bon état,1,360000.0
+ariana,La Soukra,175,4.0,3,2,Nouveau,1,560000.0
+ariana,Cite Ennasr,158,4.0,3,3,10-20 ans,7,500000.0
+ariana,La Soukra,116,3.0,2,1,Bon état,1,398000.0
+ariana,La Soukra,128,3.0,2,2,Nouveau,1,448000.0
+ariana,La Soukra,118,4.0,3,1,20-30 ans,2,325000.0
+ariana,La Soukra,30,3.0,3,1,Nouveau,1,330000.0
+ariana,Cite Ennasr,186,4.0,3,2,Bon état,6,690000.0
+ariana,La Soukra,119,1.0,2,1,nan,1,370000.0
+ariana,Cite Ennasr,80,2.0,1,1,10-20 ans,1,190000.0
+ariana,La Soukra,220,5.0,3,2,Bon état,6,530000.0
+ariana,La Soukra,177,5.0,2,1,20-30 ans,2,440000.0
+ariana,La Soukra,70,4.0,3,1,Bon état,1,120000.0
+ariana,La Soukra,121,2.0,2,1,nan,1,485000.0
+ariana,Ariana Ville,90,3.0,2,1,5-10 ans,4,128000.0
+ariana,La Soukra,200,3.0,2,1,Moins d'un an,1,520000.0
+ariana,La Soukra,160,4.0,3,2,Bon état,1,520000.0
+ariana,La Soukra,162,3.0,2,1,nan,1,420000.0
+ariana,La Soukra,150,3.0,2,2,1-5 ans,2,350000.0
+ariana,Cite El Ghazela,88,2.0,2,1,nan,1,317200.0
+ariana,La Soukra,44,1.0,1,1,Nouveau,1,222000.0
+ariana,La Soukra,245,5.0,2,1,nan,1,750000.0
+ariana,La Soukra,120,3.0,2,1,Bon état,1,300000.0
+ariana,La Soukra,130,2.0,2,1,nan,1,375000.0
+ariana,La Soukra,300,5.0,4,2,nan,1,700000.0
+ariana,Ariana Ville,136,2.0,2,1,nan,1,473900.0
+ariana,La Soukra,64,1.0,2,1,nan,1,260000.0
+ariana,El Menzah 7,235,5.0,3,3,Bon état,1,730000.0
+ariana,La Soukra,161,3.0,3,2,5-10 ans,2,510000.0
+ariana,Cite Ennasr,200,5.0,4,3,Bon état,1,750000.0
+ariana,Ariana Ville,51,2.0,2,1,nan,1,170787.0
+ariana,La Soukra,300,5.0,4,2,nan,1,1500000.0
+ariana,El Menzah 7,135,4.0,3,2,Bon état,1,250000.0
+ariana,La Soukra,103,3.0,2,1,1-5 ans,9,245000.0
+ariana,Cite Ennasr,200,10.0,4,2,20-30 ans,1,600000.0
+ariana,La Soukra,178,4.0,3,1,Moins d'un an,1,650000.0
+ariana,El Menzah 7,190,5.0,4,2,5-10 ans,1,480000.0
+ariana,Cite Ennasr,175,2.0,2,1,nan,1,530000.0
+ariana,La Soukra,96,4.0,3,1,10-20 ans,1,160000.0
+ariana,Raoued,100,6.0,4,1,5-10 ans,3,180000.0
+ariana,La Soukra,77,2.0,1,1,Nouveau,1,287000.0
+ariana,La Soukra,75,3.0,2,1,10-20 ans,1,250000.0
+ariana,La Soukra,280,6.0,4,3,10-20 ans,7,650000.0
+ariana,La Soukra,76,3.0,2,1,10-20 ans,6,220000.0
+ariana,La Soukra,133,3.0,2,1,nan,1,386000.0
+ariana,La Soukra,124,2.0,2,1,5-10 ans,1,230000.0
+ariana,El Menzah 7,207,5.0,4,2,Bon état,1,380000.0
+ariana,Cite Ennasr,118,3.0,2,1,10-20 ans,8,269000.0
+ariana,La Soukra,183,2.0,3,2,Nouveau,1,756500.0
+ariana,La Soukra,112,1.0,2,1,Moins d'un an,1,256000.0
+ariana,La Soukra,150,4.0,3,2,5-10 ans,1,459000.0
+ariana,Ariana Ville,76,3.0,2,1,1-5 ans,1,120000.0
+ariana,Ariana Ville,120,4.0,2,1,nan,1,185000.0
+ariana,Cite El Ghazela,45,1.0,1,1,10-20 ans,4,100000.0
+ariana,El Menzah 7,63,1.0,2,1,Nouveau,1,250000.0
+ariana,El Menzah 7,106,2.0,2,1,nan,1,427480.0
+ariana,El Menzah 7,158,4.0,3,1,1-5 ans,3,470000.0
+ariana,La Soukra,109,2.0,2,1,nan,1,430000.0
+ariana,Ariana Ville,140,4.0,2,1,Bon état,1,360000.0
+ariana,La Soukra,158,3.0,2,1,5-10 ans,2,395000.0
+ariana,Ariana Ville,300,4.0,3,2,1-5 ans,3,650000.0
+ariana,La Soukra,200,4.0,3,2,1-5 ans,2,600000.0
+ariana,La Soukra,156,3.0,2,1,1-5 ans,1,360000.0
+ariana,El Menzah 7,210,2.0,2,1,nan,1,420000.0
+ariana,La Soukra,109,4.0,2,1,10-20 ans,1,210000.0
+ariana,La Soukra,140,3.0,2,2,Bon état,1,465000.0
+ariana,Cite El Ghazela,117,3.0,2,1,Bon état,2,158000.0
+ariana,La Soukra,155,4.0,4,1,Moins d'un an,1,640000.0
+ariana,El Menzah 7,225,2.0,2,1,nan,1,550000.0
+ariana,La Soukra,159,4.0,3,2,5-10 ans,7,520000.0
+ariana,La Soukra,126,3.0,2,1,nan,1,370000.0
+ariana,La Soukra,127,4.0,3,2,Nouveau,1,457000.0
+ariana,Cite Ennasr,210,4.0,3,2,1-5 ans,4,480000.0
+ariana,La Soukra,171,4.0,3,2,5-10 ans,1,400000.0
+ariana,La Soukra,172,4.0,3,1,Moins d'un an,2,770000.0
+ariana,La Soukra,100,2.0,2,1,nan,1,410000.0
+ariana,El Menzah 7,200,6.0,4,2,20-30 ans,1,420000.0
+ariana,La Soukra,125,1.0,3,1,5-10 ans,1,330000.0
+ariana,Ariana Ville,184,2.0,2,1,nan,1,290000.0
+ariana,La Soukra,175,2.0,3,1,5-10 ans,1,425000.0
+ariana,Ariana Ville,97,3.0,2,2,20-30 ans,2,189000.0
+ariana,Ariana Ville,139,3.0,3,1,5-10 ans,1,238000.0
+ariana,Cite Ennasr,66,3.0,1,1,Bon état,2,220000.0
+ariana,Cite Ennasr,186,4.0,3,2,10-20 ans,4,395000.0
+ben-arous,Boumhel,129,4.0,3,2,Moins d'un an,2,470000.0
+ben-arous,Mornag,55,2.0,1,1,Moins d'un an,1,110000.0
+ben-arous,Ben Arous,120,3.0,2,1,Nouveau,2,288000.0
+ben-arous,Boumhel,147,4.0,3,2,Moins d'un an,2,470000.0
+ben-arous,Boumhel,163,4.0,3,2,Nouveau,2,520000.0
+ben-arous,Boumhel,70,1.0,1,1,1-5 ans,2,180000.0
+ben-arous,Rades,115,2.0,3,1,Bon état,1,285000.0
+ben-arous,El Mourouj,110,1.0,3,1,10-20 ans,2,180000.0
+ben-arous,Borj Cedria,140,3.0,2,1,Bon état,2,240000.0
+ben-arous,El Mourouj,90,6.0,3,1,Bon état,2,199000.0
+ben-arous,Ezzahra,144,1.0,3,1,Bon état,2,310000.0
+ben-arous,Borj Cedria,75,3.0,3,1,5-10 ans,2,140000.0
+ben-arous,Hammam Lif,275,3.0,2,1,5-10 ans,2,140000.0
+ben-arous,El Mourouj,154,1.0,3,2,1-5 ans,2,335000.0
+ben-arous,El Mourouj,300,1.0,2,1,1-5 ans,2,435000.0
+ben-arous,El Mourouj,87,3.0,2,1,nan,2,110000.0
+ben-arous,El Mourouj,60,2.0,1,1,Bon état,2,118000.0
+ben-arous,Rades,108,3.0,2,1,10-20 ans,4,130000.0
+ben-arous,Ben Arous,88,3.0,2,1,30-50 ans,2,120000.0
+ben-arous,El Mourouj,60,2.0,1,1,1-5 ans,2,166000.0
+ben-arous,Mohamadia,180,2.0,2,1,10-20 ans,1,260000.0
+ben-arous,Ezzahra,124,4.0,3,2,5-10 ans,1,320000.0
+ben-arous,Ezzahra,100,4.0,3,1,Bon état,2,150000.0
+ben-arous,Ben Arous,55,3.0,2,1,Bon état,2,140000.0
+ben-arous,Ezzahra,187,5.0,4,2,Bon état,2,420000.0
+ben-arous,Ben Arous,122,2.0,2,2,5-10 ans,4,210000.0
+ben-arous,El Mourouj,113,2.0,2,1,1-5 ans,5,250000.0
+ben-arous,El Mourouj,82,3.0,1,1,nan,2,105000.0
+ben-arous,El Mourouj,80,2.0,1,1,10-20 ans,2,130000.0
+ben-arous,Rades,75,3.0,2,1,Bon état,2,160000.0
+ben-arous,Borj Cedria,100,2.0,2,1,Bon état,1,160000.0
+ben-arous,Borj Cedria,300,5.0,8,5,5-10 ans,2,780000.0
+ben-arous,Ben Arous,85,4.0,3,1,20-30 ans,3,165000.0
+ben-arous,Ben Arous,106,4.0,4,2,Bon état,1,235000.0
+ben-arous,El Mourouj,90,3.0,2,2,Bon état,2,180000.0
+ben-arous,Boumhel,103,2.0,2,1,nan,2,229000.0
+ben-arous,Hammam Lif,105,6.0,2,1,Bon état,2,140000.0
+ben-arous,Ben Arous,122,4.0,3,1,10-20 ans,4,175000.0
+ben-arous,Ezzahra,80,6.0,3,1,20-30 ans,5,120000.0
+ben-arous,Boumhel,180,5.0,4,1,10-20 ans,2,350000.0
+ben-arous,El Mourouj,100,4.0,3,1,10-20 ans,2,157000.0
+ben-arous,El Mourouj,96,2.0,2,1,20-30 ans,3,145000.0
+ben-arous,Rades,67,2.0,2,1,nan,2,140000.0
+ben-arous,Ben Arous,127,3.0,2,1,Nouveau,2,306000.0
+ben-arous,Boumhel,117,5.0,2,1,Nouveau,2,307000.0
+ben-arous,Ezzahra,110,5.0,2,1,Moins d'un an,2,287000.0
+ben-arous,Ben Arous,121,3.0,2,1,Nouveau,2,291000.0
+ben-arous,Ben Arous,153,4.0,3,1,Nouveau,2,368000.0
+ben-arous,Ben Arous,207,4.0,3,1,Nouveau,2,459000.0
+ben-arous,Mornag,121,3.0,2,1,Nouveau,2,260000.0
+ben-arous,Mornag,95,3.0,2,1,Nouveau,2,205000.0
+ben-arous,Mornag,95,3.0,2,1,Nouveau,2,205000.0
+ben-arous,El Mourouj,75,3.0,2,1,10-20 ans,2,147000.0
+ben-arous,El Mourouj,62,1.0,2,1,Bon état,2,140000.0
+ben-arous,El Mourouj,260,1.0,2,2,1-5 ans,2,1550000.0
+ben-arous,Rades,80,3.0,2,1,10-20 ans,2,155000.0
+ben-arous,El Mourouj,300,9.0,7,5,Bon état,2,750000.0
+ben-arous,Rades,128,7.0,3,2,5-10 ans,2,270000.0
+ben-arous,El Mourouj,300,12.0,10,4,Bon état,2,780000.0
+ben-arous,Rades,110,1.0,3,1,10-20 ans,3,180000.0
+ben-arous,Boumhel,115,5.0,2,1,5-10 ans,4,270000.0
+ben-arous,Ben Arous,74,3.0,2,1,Bon état,2,195000.0
+ben-arous,Boumhel,90,3.0,2,1,Bon état,2,144000.0
+ben-arous,El Mourouj,115,4.0,3,2,5-10 ans,4,2550000.0
+ben-arous,El Mourouj,90,3.0,2,1,5-10 ans,4,148000.0
+ben-arous,El Mourouj,130,4.0,3,1,10-20 ans,2,190000.0
+ben-arous,Ezzahra,136,2.0,2,1,nan,2,255000.0
+ben-arous,El Mourouj,100,3.0,2,1,5-10 ans,3,125000.0
+ben-arous,Mornag,92,3.0,2,1,Nouveau,2,200000.0
+ben-arous,El Mourouj,112,3.0,2,2,Moins d'un an,1,267000.0
+ben-arous,Ezzahra,85,2.0,2,1,nan,2,150000.0
+ben-arous,Ezzahra,72,2.0,2,1,nan,2,110000.0
+ben-arous,Boumhel,100,3.0,2,2,Nouveau,2,298000.0
+ben-arous,Ezzahra,168,2.0,2,1,nan,2,440000.0
+ben-arous,Boumhel,90,2.0,2,1,nan,2,267000.0
+ben-arous,Hammam Lif,154,3.0,2,2,Moins d'un an,4,295000.0
+ben-arous,Ben Arous,90,1.0,3,2,1-5 ans,3,190000.0
+ben-arous,Rades,134,4.0,3,2,1-5 ans,2,239000.0
+ben-arous,Ezzahra,100,7.0,3,2,Bon état,2,300000.0
+ben-arous,Ben Arous,92,1.0,2,2,Bon état,4,100000.0
+ben-arous,Ezzahra,145,2.0,2,1,nan,2,340000.0
+ben-arous,Ben Arous,70,1.0,1,1,Bon état,2,105000.0
+ben-arous,El Mourouj,104,2.0,2,1,Nouveau,2,219000.0
+ben-arous,Ben Arous,123,2.0,2,1,nan,2,240000.0
+ben-arous,Ben Arous,116,2.0,2,1,nan,2,268000.0
+ben-arous,El Mourouj,110,4.0,3,1,20-30 ans,1,198000.0
+ben-arous,Fouchana,103,4.0,3,1,1-5 ans,1,175000.0
+ben-arous,Boumhel,67,1.0,1,1,5-10 ans,1,165000.0
+ben-arous,El Mourouj,94,3.0,3,1,Bon état,2,190000.0
+ben-arous,Megrine,116,1.0,3,2,20-30 ans,1,220000.0
+ben-arous,Ezzahra,99,1.0,2,1,5-10 ans,2,205000.0
+ben-arous,Borj Cedria,122,3.0,2,1,Bon état,2,240000.0
+ben-arous,Mornag,64,2.0,1,1,Nouveau,2,200000.0
+ben-arous,Rades,67,3.0,2,1,20-30 ans,2,145000.0
+ben-arous,Mornag,92,3.0,2,1,Nouveau,2,200000.0
+ben-arous,Ezzahra,125,3.0,2,1,Moins d'un an,1,318000.0
+ben-arous,El Mourouj,111,3.0,2,2,Moins d'un an,2,260000.0
+ben-arous,Ezzahra,125,3.0,2,1,Moins d'un an,2,313000.0
+ben-arous,El Mourouj,100,10.0,6,4,Bon état,2,500000.0
+ben-arous,Fouchana,98,2.0,2,1,Nouveau,2,223000.0
+ben-arous,Ben Arous,300,4.0,4,1,10-20 ans,1,260000.0
+ben-arous,El Mourouj,103,3.0,2,1,Bon état,2,160000.0
+ben-arous,El Mourouj,114,4.0,3,1,1-5 ans,5,285000.0
+ben-arous,El Mourouj,102,3.0,2,1,Bon état,2,210000.0
+ben-arous,Mornag,125,3.0,2,2,5-10 ans,5,180000.0
+ben-arous,Fouchana,87,3.0,3,1,5-10 ans,2,140000.0
+ben-arous,Megrine,83,2.0,2,1,nan,2,150000.0
+ben-arous,Ezzahra,134,3.0,2,1,5-10 ans,2,290000.0
+ben-arous,El Mourouj,124,1.0,3,1,Bon état,2,230000.0
+ben-arous,Boumhel,300,3.0,2,1,Moins d'un an,2,740000.0
+ben-arous,Fouchana,89,3.0,2,1,Moins d'un an,1,163000.0
+ben-arous,Boumhel,93,2.0,2,1,nan,2,275000.0
+ben-arous,Ezzahra,75,2.0,2,1,nan,2,160000.0
+ben-arous,Boumhel,128,3.0,2,1,nan,2,378000.0
+ben-arous,Ben Arous,148,4.0,3,1,Nouveau,2,355000.0
+ben-arous,Boumhel,97,2.0,2,1,nan,2,289000.0
+ben-arous,Ben Arous,171,4.0,3,1,Nouveau,2,398000.0
+ben-arous,Ben Arous,174,4.0,3,1,Nouveau,2,403000.0
+ben-arous,Boumhel,163,4.0,3,3,Moins d'un an,2,520000.0
+ben-arous,Ben Arous,197,3.0,2,2,Moins d'un an,3,346000.0
+ben-arous,Boumhel,114,3.0,2,1,Nouveau,2,370000.0
+ben-arous,Boumhel,62,2.0,1,1,Nouveau,3,225000.0
+ben-arous,Ben Arous,174,4.0,3,1,Nouveau,2,391000.0
+ben-arous,Mornag,60,1.0,1,1,nan,2,155000.0
+ben-arous,Mornag,92,2.0,1,1,nan,2,230000.0
+ben-arous,Mornag,62,2.0,1,1,Moins d'un an,2,155000.0
+ben-arous,Boumhel,62,2.0,1,1,Moins d'un an,2,225000.0
+ben-arous,Boumhel,114,3.0,2,1,Moins d'un an,2,370000.0
+ben-arous,Fouchana,107,4.0,3,1,Moins d'un an,2,244000.0
+ben-arous,Ben Arous,107,3.0,2,2,Moins d'un an,2,255000.0
+ben-arous,Fouchana,109,4.0,3,1,Moins d'un an,2,248000.0
+ben-arous,Boumhel,138,4.0,3,2,Moins d'un an,1,515665.0
+ben-arous,Ben Arous,114,3.0,2,2,Moins d'un an,2,270000.0
+ben-arous,Fouchana,63,2.0,1,1,Moins d'un an,2,145000.0
+ben-arous,Boumhel,150,4.0,3,3,Nouveau,3,546222.0
+ben-arous,Boumhel,111,3.0,2,2,Nouveau,1,445134.0
+ben-arous,Ben Arous,57,2.0,1,1,Moins d'un an,2,150000.0
+la-manouba,La Manouba,169,4.0,3,2,Nouveau,2,462200.0
+la-manouba,La Manouba,70,5.0,3,1,10-20 ans,2,135000.0
+la-manouba,La Manouba,96,3.0,2,1,5-10 ans,1,180000.0
+la-manouba,La Manouba,112,4.0,3,2,5-10 ans,2,190000.0
+la-manouba,La Manouba,100,4.0,3,1,1-5 ans,4,219000.0
+la-manouba,La Manouba,108,1.0,3,1,Bon état,4,160000.0
+la-manouba,La Manouba,94,3.0,1,1,Bon état,2,140000.0
+la-manouba,La Manouba,170,2.0,3,2,Moins d'un an,6,330000.0
+la-manouba,La Manouba,64,2.0,2,1,nan,2,140000.0
+la-manouba,La Manouba,79,2.0,2,1,nan,2,150000.0
+la-manouba,La Manouba,100,3.0,2,1,Moins d'un an,5,260000.0
+la-manouba,La Manouba,186,3.0,2,1,Moins d'un an,2,375000.0
+la-manouba,La Manouba,167,4.0,3,2,Moins d'un an,2,451200.0
+la-manouba,La Manouba,141,4.0,3,2,Moins d'un an,6,360000.0
+la-manouba,La Manouba,99,3.0,2,1,Moins d'un an,6,260000.0
+la-manouba,La Manouba,100,1.0,2,1,5-10 ans,2,240000.0
+la-manouba,La Manouba,186,3.0,2,1,Moins d'un an,2,375000.0
+la-manouba,La Manouba,78,2.0,2,1,nan,2,165000.0
+la-manouba,La Manouba,88,2.0,2,1,nan,2,185000.0
+la-manouba,La Manouba,105,2.0,2,1,nan,2,145000.0
+la-manouba,La Manouba,98,2.0,2,1,nan,2,205000.0
+la-manouba,La Manouba,71,2.0,1,1,Bon état,2,160000.0
+la-manouba,La Manouba,300,20.0,15,7,10-20 ans,3,380000.0
+la-manouba,La Manouba,160,4.0,3,2,Nouveau,2,360000.0
+la-manouba,La Manouba,56,2.0,1,1,Bon état,2,100000.0
+la-manouba,La Manouba,101,7.0,3,1,Bon état,2,220000.0
+la-manouba,La Manouba,95,4.0,3,1,Bon état,2,135000.0
+la-manouba,La Manouba,82,1.0,2,1,10-20 ans,3,145000.0
+la-manouba,La Manouba,85,2.0,2,1,nan,2,160000.0
+la-manouba,La Manouba,150,1.0,3,1,Moins d'un an,4,340000.0
+la-manouba,La Manouba,127,3.0,3,1,Bon état,2,230000.0
+la-manouba,La Manouba,70,2.0,1,1,Nouveau,2,140000.0
+la-manouba,La Manouba,87,2.0,2,1,nan,2,160000.0
+la-manouba,La Manouba,148,4.0,3,1,Bon état,2,245000.0
+la-manouba,La Manouba,141,3.0,2,1,nan,2,282000.0
+la-manouba,La Manouba,87,2.0,2,1,nan,2,160000.0
+la-manouba,La Manouba,100,2.0,2,1,nan,2,260000.0
+la-manouba,La Manouba,120,2.0,2,1,nan,2,280000.0
+la-manouba,La Manouba,100,1.0,2,1,Moins d'un an,2,260000.0
+la-manouba,La Manouba,45,2.0,1,1,10-20 ans,2,150000.0
+la-manouba,La Manouba,74,2.0,1,1,10-20 ans,1,125000.0
+la-manouba,La Manouba,87,3.0,2,1,Bon état,2,180000.0
+la-manouba,La Manouba,140,4.0,3,1,Moins d'un an,1,380000.0
+la-manouba,La Manouba,300,12.0,8,4,Bon état,2,950000.0
+la-manouba,La Manouba,58,2.0,1,1,Nouveau,2,175000.0
+la-manouba,La Manouba,90,1.0,2,1,5-10 ans,2,210000.0

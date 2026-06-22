@@ -1,0 +1,2001 @@
+gouvernorat,delegation,superficie,nb_pieces,chambres,salle_de_bains,etage,prix
+tunis,El Manar,62,1,1,1,1,259532
+tunis,El Ouardia,300,4,2,1,5,1208100
+ariana,Raoued,142,2,1,1,1,707302
+tunis,Sidi Daoud,281,5,3,2,8,1255227
+ariana,Raoued,153,1,1,1,1,687429
+tunis,Carthage,169,5,4,2,1,747656
+ariana,Chotrana,242,4,4,2,1,1158696
+ben-arous,Fouchana,202,2,1,1,6,754672
+tunis,Centre Urbain Nord,119,2,1,1,7,488483
+tunis,Montfleury,244,2,1,2,4,1045296
+ariana,La Soukra,291,5,4,1,2,1281214
+ben-arous,Fouchana,259,3,3,1,9,873866
+ben-arous,Boumhel,144,2,2,1,5,566352
+tunis,Sidi Hassine,69,4,3,1,1,302979
+tunis,La Marsa,226,1,1,2,3,886213
+tunis,El Manar,130,5,1,1,2,476658
+tunis,Bab Bhar,147,1,1,1,4,630483
+tunis,La Goulette,116,3,3,1,9,501004
+ariana,Raoued,268,3,3,2,1,1046808
+tunis,Carthage,283,3,1,2,6,1349061
+tunis,El Menzah 1,164,2,1,2,9,789988
+ben-arous,El Mourouj,136,4,4,1,1,461992
+tunis,Bab Saadoun,230,4,3,1,9,987390
+ben-arous,Fouchana,84,3,2,1,5,354123
+tunis,Bab Saadoun,247,5,1,1,8,1221168
+ben-arous,Rades,251,3,3,2,6,910879
+tunis,Montplaisir,258,4,4,1,1,1272198
+tunis,Sijoumi,226,2,1,1,3,936250
+tunis,Ettahrir,210,1,1,2,1,847350
+tunis,La Marsa,223,1,1,2,5,862809
+tunis,Le Kram,151,1,1,2,7,713324
+ariana,Raoued,156,1,1,1,5,736320
+ben-arous,Mohamadia,152,2,1,2,1,606936
+ben-arous,Mohamadia,167,1,1,2,7,543084
+tunis,El Menzah 1,143,1,1,1,3,635492
+tunis,Carthage,103,3,2,1,1,451449
+ben-arous,Ben Arous,270,3,1,2,6,987120
+ben-arous,Rades,129,3,2,1,4,507099
+tunis,Le Bardo,94,5,4,1,7,366741
+tunis,Les Berges Du Lac,288,5,4,2,3,1230336
+tunis,El Ouardia,263,1,1,1,1,1002187
+ariana,Raoued,186,4,3,1,8,900612
+ariana,Ariana Ville,207,3,3,1,7,949302
+tunis,Carthage,152,4,1,2,8,704976
+tunis,Le Bardo,84,3,1,1,5,414960
+ariana,Raoued,102,2,2,1,3,431827
+ben-arous,Fouchana,268,3,2,2,5,919776
+ariana,Sidi Daoud,50,3,2,1,5,239400
+tunis,Tunis,266,4,4,1,9,1070357
+ben-arous,Rades,175,1,1,1,9,617750
+ben-arous,Boumhel,80,3,1,1,6,334640
+tunis,La Marsa,256,4,4,1,5,1256960
+ariana,Kalaat Landalous,256,2,1,2,5,1308787
+tunis,Carthage,143,1,1,1,2,670527
+tunis,Gammarth,107,5,3,1,5,430143
+ariana,La Soukra,62,1,1,1,7,282348
+ben-arous,Fouchana,200,4,2,1,4,650000
+tunis,Le Kram,59,2,2,1,3,289395
+tunis,Les Berges Du Lac,79,3,3,1,9,360082
+tunis,Le Kram,91,3,1,1,6,421057
+ben-arous,Boumhel,261,1,1,1,3,1061226
+ben-arous,Mornag,247,1,1,2,1,915876
+ben-arous,Rades,182,2,1,2,5,654708
+ariana,Ariana Ville,299,3,3,2,1,1288989
+tunis,Cite El Khadra,90,5,4,1,5,447480
+tunis,La Marsa,261,5,2,2,3,1084298
+tunis,El Omrane,195,2,2,2,8,849810
+ariana,Cité Ennasr,74,3,3,1,5,333518
+tunis,El Menzah 1,190,5,2,1,6,906300
+ariana,Ariana Ville,226,1,1,2,5,1101072
+ariana,Cité Ennasr,250,1,1,1,8,1135000
+tunis,Gammarth,199,3,3,1,7,931718
+tunis,Gammarth,297,3,3,2,4,1277694
+ariana,La Soukra,135,3,3,1,6,661500
+tunis,El Menzah 1,103,2,2,1,1,399073
+tunis,Cite El Khadra,92,5,3,1,1,438748
+tunis,La Marsa,280,3,1,2,5,1136240
+tunis,Sidi Hassine,257,2,1,2,1,1039308
+tunis,La Goulette,287,1,1,2,1,1356649
+ben-arous,Ben Arous,180,5,2,2,8,559386
+ariana,Sidi Daoud,265,3,2,1,3,1209990
+ariana,Sidi Daoud,102,5,1,1,5,446964
+tunis,Les Berges Du Lac,295,1,1,1,7,1454350
+ariana,Chotrana,147,1,1,1,2,702513
+tunis,Gammarth,71,2,2,1,6,348894
+ben-arous,Mohamadia,122,2,2,1,9,434198
+ariana,Ariana Ville,59,2,2,1,5,263473
+ben-arous,Ezzahra,265,1,1,2,3,951350
+tunis,Ettahrir,236,5,2,1,2,964933
+tunis,Cite El Khadra,95,2,1,1,8,409374
+ariana,La Soukra,159,3,2,2,9,709919
+tunis,Bab Bhar,281,4,4,1,6,1176547
+tunis,Bab Bhar,153,5,3,2,6,644895
+ben-arous,Megrine,113,2,1,1,2,360323
+tunis,Bab Bhar,158,1,1,2,1,687458
+tunis,Les Berges Du Lac,176,4,1,2,2,752752
+tunis,La Marsa,111,2,1,1,7,522699
+tunis,El Menzah 1,237,2,1,2,2,1025499
+ariana,El Menzah 1,267,5,1,1,8,1048669
+ariana,Cité Ennasr,101,3,2,1,5,488840
+tunis,La Marsa,187,3,2,2,7,752469
+tunis,El Ouardia,70,2,1,1,7,336910
+ariana,Centre Urbain Nord,267,5,1,2,9,1245822
+tunis,Bab El Khadra,125,5,4,1,6,580750
+tunis,El Mourouj,138,3,1,1,6,615659
+ariana,Raoued,54,4,3,1,1,269190
+tunis,Bab Bhar,186,4,4,2,7,789756
+tunis,Carthage,275,2,1,2,5,1216875
+tunis,Montfleury,59,3,2,1,3,271400
+tunis,Gammarth,99,2,1,1,9,430650
+ben-arous,Fouchana,242,5,1,1,9,896368
+ariana,Centre Urbain Nord,75,2,2,1,2,361500
+ben-arous,Borj Cedria,190,2,1,2,4,745940
+tunis,El Manar,176,4,2,1,2,728816
+ariana,Ariana Ville,213,2,1,2,5,1104160
+tunis,Sidi Hassine,67,1,1,1,6,312957
+ben-arous,El Mourouj,156,5,2,2,9,548964
+tunis,Bab Saadoun,251,4,2,2,3,1170915
+tunis,Cite El Khadra,219,1,1,2,3,1057332
+ariana,La Soukra,190,5,1,1,1,932900
+tunis,El Ouardia,266,1,1,1,4,1251264
+la-manouba,La Manouba,131,3,1,1,6,455683
+tunis,Carthage,85,1,1,1,1,359720
+tunis,El Menzah 1,288,4,1,1,1,1336896
+ariana,Borj Louzir,99,1,1,1,5,497192
+tunis,Bab Bhar,203,2,2,2,1,916951
+tunis,La Goulette,277,1,1,1,9,1285003
+tunis,El Menzah 1,249,2,2,2,3,1217361
+ariana,La Soukra,99,3,1,1,1,431343
+tunis,Cite El Khadra,298,4,4,1,5,1437462
+tunis,El Omrane Supérieur,229,4,1,1,5,1181330
+ariana,La Soukra,190,3,2,2,1,807690
+ariana,Sidi Daoud,90,3,1,1,8,381420
+ben-arous,Hammam Lif,52,3,3,1,9,207688
+ariana,Chotrana,59,1,1,1,1,244260
+tunis,Bab Bhar,61,4,1,1,2,284870
+tunis,Bab Bhar,99,1,1,1,2,417879
+ariana,Raoued,276,3,1,2,2,1244208
+tunis,La Marsa,161,5,3,2,7,611767
+tunis,La Marsa,160,1,1,1,7,680544
+ben-arous,El Mourouj,266,5,1,2,8,1063468
+ben-arous,El Mourouj,186,2,2,1,4,717960
+tunis,El Menzah 1,61,3,1,1,8,244085
+ariana,La Soukra,54,2,2,1,7,199260
+ariana,La Soukra,253,2,2,2,9,1114971
+ben-arous,Hammam Chatt,166,1,1,2,4,588304
+tunis,Ain Zaghouan,257,5,1,1,6,1225376
+ben-arous,El Mourouj,153,5,4,2,8,575586
+tunis,Carthage,127,4,3,1,1,515239
+tunis,Le Kram,289,5,2,1,1,1179813
+tunis,El Manar,108,5,4,1,6,455544
+tunis,Montplaisir,218,5,4,1,1,1081280
+ariana,La Soukra,282,3,3,2,5,1139844
+tunis,Centre Urbain Nord,109,1,1,1,1,453549
+ben-arous,Rades,237,5,4,1,1,807696
+tunis,Bab Bhar,230,5,3,2,5,1126597
+tunis,Bab Bhar,75,1,1,1,5,375480
+ariana,Chotrana,72,5,4,1,2,308512
+ben-arous,Ezzahra,230,2,1,2,6,777170
+tunis,La Marsa,137,2,2,1,3,613787
+ariana,Jardins d'El Menzah,125,3,3,1,9,563500
+tunis,Bab El Khadra,294,2,1,2,5,1242150
+ben-arous,Ben Arous,138,3,2,1,7,423522
+ben-arous,El Mourouj,107,5,3,1,3,385414
+tunis,Le Bardo,115,3,2,1,6,523135
+ariana,Kalaat Landalous,136,5,4,1,8,586840
+tunis,La Marsa,217,5,2,1,4,796628
+tunis,Sijoumi,51,4,2,1,2,198609
+ariana,Raoued,126,5,1,1,1,615258
+tunis,La Marsa,273,1,1,2,6,1280643
+ariana,La Soukra,158,3,2,1,5,819546
+ariana,Centre Urbain Nord,172,4,1,1,4,734371
+tunis,El Menzah 1,257,2,1,2,5,1345472
+tunis,El Manar,66,2,1,1,8,282150
+ariana,Borj Louzir,66,3,3,1,6,268686
+tunis,Le Kram,227,5,2,2,2,841307
+tunis,Bab Bhar,199,1,1,1,2,806666
+tunis,La Goulette,141,5,3,1,5,630975
+tunis,La Goulette,141,4,2,1,7,528157
+ariana,La Soukra,252,4,1,1,8,969796
+ariana,La Soukra,55,3,2,1,5,260914
+ben-arous,Fouchana,223,1,1,1,8,935708
+ben-arous,Ezzahra,168,2,1,2,7,539481
+ben-arous,Ben Arous,148,4,2,1,7,575868
+ben-arous,Fouchana,67,2,1,1,4,211472
+ben-arous,Ezzahra,107,5,1,1,2,367545
+ariana,Ariana Ville,85,4,3,1,2,347395
+tunis,Bab Bhar,255,5,2,1,9,1134189
+tunis,Le Bardo,266,5,2,1,5,1194872
+tunis,Le Kram,233,3,3,1,6,1023126
+tunis,Sijoumi,178,5,1,1,1,790142
+tunis,Cite El Khadra,135,1,1,1,8,590355
+tunis,El Manar,64,1,1,1,4,294656
+ben-arous,Boumhel,84,2,2,1,1,346668
+tunis,Cite Olympique,101,3,1,1,4,500758
+tunis,Bab Bhar,188,1,1,1,4,893752
+tunis,El Manar,200,5,1,1,5,835380
+tunis,Montfleury,56,4,2,1,5,272185
+ariana,Raoued,93,2,1,1,8,394599
+ariana,Mnihla,76,1,1,1,9,347396
+ben-arous,Ezzahra,120,4,2,1,2,408960
+tunis,Les Berges Du Lac,212,4,4,1,8,908420
+tunis,Tunis,220,4,2,1,1,881298
+tunis,Carthage,193,2,1,2,5,953806
+ben-arous,El Mourouj,134,1,1,1,2,400995
+tunis,El Omrane Supérieur,83,2,1,1,2,349015
+ariana,El Menzah 5,229,4,2,1,6,1019508
+tunis,El Ouardia,228,2,2,2,9,1042644
+tunis,Ettahrir,218,5,3,2,9,1063186
+tunis,Khaznadar,276,4,4,2,3,1331424
+tunis,El Menzah 1,180,1,1,1,7,838260
+tunis,Le Bardo,128,1,1,1,8,575616
+tunis,El Omrane,133,4,2,1,4,600761
+ariana,La Soukra,176,5,4,2,2,787600
+ariana,Raoued,175,1,1,2,1,846650
+tunis,Hrairia,270,4,3,2,3,1206090
+ariana,Raoued,197,4,3,1,6,909746
+tunis,Le Bardo,134,2,1,1,7,573118
+ben-arous,El Mourouj,164,4,1,1,9,661576
+ben-arous,El Mourouj,157,3,1,2,2,631925
+ben-arous,El Mourouj,201,1,1,1,5,680385
+tunis,Centre Urbain Nord,171,2,2,2,6,704349
+ariana,Centre Urbain Nord,274,3,1,2,9,1339586
+ariana,El Menzah 5,194,5,3,1,1,962240
+ariana,Raoued,155,3,2,2,1,691920
+ben-arous,El Mourouj,103,2,2,1,8,330733
+ariana,Ariana Ville,297,5,4,2,1,1274219
+tunis,Tunis,259,4,3,2,3,1078476
+ben-arous,Megrine,196,1,1,1,8,759696
+ben-arous,Boumhel,277,1,1,2,5,1117972
+ariana,Raoued,151,3,2,1,3,754698
+tunis,Carthage,170,4,3,2,1,704106
+tunis,Hrairia,87,3,2,1,5,376544
+tunis,Montfleury,216,4,1,2,2,1037016
+tunis,Carthage,92,5,1,1,7,400016
+ben-arous,El Mourouj,168,4,4,2,3,660912
+tunis,Le Bardo,86,1,1,1,7,414262
+tunis,El Manar,275,3,2,2,5,1257506
+tunis,Bab Bhar,204,3,3,2,2,826404
+ariana,El Menzah 6,221,5,3,1,9,885989
+tunis,La Marsa,147,2,1,1,1,615591
+tunis,Bab Bhar,61,3,2,1,6,248861
+tunis,El Ouardia,287,3,2,2,7,1223481
+ariana,Kalaat Landalous,97,3,2,1,3,352779
+ben-arous,Mohamadia,238,4,2,1,3,970564
+ben-arous,Rades,126,2,2,1,8,439614
+ariana,Raoued,255,3,2,2,1,1262760
+tunis,Carthage,114,3,3,1,4,519726
+ariana,Centre Urbain Nord,226,5,2,2,1,1070562
+tunis,El Ouardia,169,3,1,1,4,708448
+ariana,La Soukra,135,2,2,1,9,602640
+ben-arous,Borj Cedria,164,5,4,2,5,708430
+ben-arous,Fouchana,185,1,1,2,8,687478
+ariana,Ariana Ville,231,4,2,2,5,1018086
+ariana,El Menzah 7,161,5,1,2,5,622490
+ariana,Ariana Ville,72,1,1,1,8,320184
+tunis,Bab El Khadra,134,2,1,1,1,626986
+ben-arous,Borj Cedria,73,1,1,1,8,258639
+ben-arous,Rades,120,3,1,1,7,439080
+ariana,La Soukra,203,3,1,2,6,775196
+tunis,Cite Olympique,204,5,1,2,5,920631
+tunis,La Marsa,269,2,1,1,1,1276136
+tunis,Ain Zaghouan,155,1,1,2,5,700638
+ariana,Raoued,299,5,4,1,4,1229517
+tunis,La Marsa,118,1,1,1,9,486632
+ariana,Raoued,158,3,1,2,5,751858
+ben-arous,Rades,114,3,2,1,3,379506
+tunis,Cite El Khadra,174,1,1,2,5,738290
+tunis,El Omrane Supérieur,56,1,1,1,6,257152
+ariana,Ariana Ville,218,4,4,1,7,997350
+tunis,Bab El Khadra,120,3,2,1,1,517920
+ben-arous,Boumhel,218,3,1,2,3,904700
+tunis,La Marsa,241,2,1,2,2,1106190
+tunis,La Marsa,51,2,2,1,9,216597
+ariana,La Soukra,237,5,3,2,1,1127883
+ariana,Raoued,202,2,1,2,1,829008
+tunis,Ain Zaghouan,65,5,3,1,6,306605
+tunis,El Menzah 1,292,4,3,2,4,1269324
+ben-arous,Fouchana,285,2,1,2,1,975840
+ariana,Chotrana,293,5,2,2,8,1238804
+ben-arous,Hammam Chatt,221,2,1,1,1,889083
+ben-arous,Rades,120,1,1,1,7,435840
+ben-arous,Hammam Lif,130,5,4,1,9,451230
+ariana,El Menzah 6,290,5,2,2,9,1356910
+ariana,Ariana Ville,123,3,3,1,5,624569
+tunis,Centre Urbain Nord,300,1,1,2,4,1433100
+ben-arous,El Mourouj,138,4,1,1,9,518328
+tunis,El Menzah 1,198,3,3,1,1,952974
+ben-arous,Fouchana,93,1,1,1,4,333591
+la-manouba,La Manouba,265,2,1,2,1,1012300
+tunis,El Omrane,188,3,1,1,2,811408
+ariana,Raoued,228,2,1,1,7,912456
+ben-arous,Fouchana,69,2,2,1,7,261096
+tunis,Sidi Hassine,190,1,1,2,5,769120
+tunis,Cite El Khadra,123,4,4,1,2,541446
+ariana,Ariana Ville,70,3,3,1,1,281106
+tunis,Sidi Hassine,169,4,2,2,9,702026
+ariana,Chotrana,128,3,1,1,6,552038
+tunis,Sidi Daoud,200,1,1,1,6,989400
+tunis,Sijoumi,240,4,3,1,3,1163520
+ben-arous,Fouchana,279,1,1,2,5,1010970
+tunis,La Goulette,69,1,1,1,4,281561
+ben-arous,El Mourouj,161,4,3,2,3,556416
+ariana,El Menzah 1,248,3,1,1,5,961992
+ariana,Mnihla,79,5,4,1,1,359845
+tunis,Le Bardo,221,3,1,2,1,964665
+tunis,Tunis,185,4,1,1,9,756095
+ben-arous,Boumhel,94,3,1,1,8,314373
+ben-arous,Rades,112,2,2,1,5,467577
+tunis,La Marsa,184,2,2,2,1,773536
+ben-arous,El Mourouj,54,1,1,1,4,204552
+ariana,Kalaat Landalous,243,1,1,2,3,979290
+ben-arous,El Mourouj,237,2,2,2,4,770724
+tunis,La Marsa,296,4,3,1,9,1210344
+tunis,Khaznadar,53,2,2,1,3,215286
+tunis,Bab Bhar,73,4,4,1,6,358138
+tunis,La Marsa,283,2,2,2,1,1193128
+tunis,Montfleury,139,1,1,1,4,531800
+ariana,Raoued,185,1,1,1,5,755768
+ben-arous,Fouchana,262,3,1,2,9,1065554
+ben-arous,El Mourouj,261,4,1,2,3,1013985
+tunis,El Ouardia,207,1,1,2,1,751347
+tunis,Tunis,70,5,1,1,4,312760
+ariana,Chotrana,195,4,4,2,3,802620
+ariana,Centre Urbain Nord,161,2,1,1,2,779723
+tunis,Bab Bhar,233,1,1,1,3,1067839
+ben-arous,El Mourouj,160,4,2,1,9,621920
+tunis,Bab Bhar,55,1,1,1,5,228415
+ben-arous,El Mourouj,267,1,1,2,6,857630
+tunis,El Manar,146,4,3,1,9,709560
+tunis,Sidi Hassine,107,3,1,1,9,457746
+tunis,Le Bardo,271,2,2,1,6,1112915
+ariana,Ariana Ville,207,1,1,1,1,887202
+ariana,Raoued,143,4,3,1,3,594022
+tunis,La Marsa,168,2,2,2,7,611150
+tunis,Hrairia,50,5,4,1,1,206280
+tunis,Sijoumi,221,1,1,1,9,899912
+tunis,La Marsa,143,5,2,1,1,657943
+ariana,Chotrana,226,5,2,1,5,944002
+ariana,Chotrana,231,3,2,2,5,1023330
+ariana,Raoued,275,4,3,1,1,1353275
+ariana,Ariana Ville,263,2,1,2,4,1092843
+tunis,El Manar,217,5,3,1,9,931147
+tunis,Le Bardo,223,1,1,1,4,1010859
+tunis,La Goulette,53,3,1,1,1,257845
+tunis,El Omrane Supérieur,225,1,1,2,5,876420
+tunis,Ain Zaghouan,247,2,1,2,5,1103793
+ben-arous,Mohamadia,101,5,2,1,3,327038
+tunis,Cite El Khadra,52,1,1,1,4,231004
+tunis,Tunis,195,2,2,2,1,832065
+ariana,La Soukra,131,4,1,1,7,575876
+tunis,Montfleury,123,4,2,1,9,518814
+tunis,Les Berges Du Lac,190,3,2,1,7,768360
+tunis,Bab Bhar,74,3,1,1,7,320716
+ariana,Raoued,220,2,1,2,8,947980
+ariana,Sidi Daoud,270,5,4,1,1,1207710
+tunis,Cite El Khadra,88,1,1,1,1,412896
+ariana,Raoued,74,4,3,1,1,327450
+ariana,La Soukra,111,1,1,1,5,551398
+tunis,Montfleury,96,5,4,1,1,456192
+ben-arous,El Mourouj,205,2,2,1,7,774285
+ben-arous,Ezzahra,119,1,1,1,1,444584
+ben-arous,Fouchana,267,1,1,1,6,908574
+tunis,Le Bardo,149,4,4,1,8,743510
+tunis,Agba,262,2,1,2,5,1321855
+tunis,El Manar,122,3,1,1,4,491684
+tunis,La Marsa,140,2,2,1,2,599900
+ariana,La Soukra,69,1,1,1,8,343413
+ben-arous,Rades,230,3,1,2,8,938170
+ariana,Raoued,163,1,1,1,8,703019
+tunis,El Manar,60,4,3,1,4,260226
+ben-arous,Mohamadia,154,1,1,2,5,523746
+ariana,Mnihla,174,5,3,1,9,734976
+ariana,Cite Ennasr,166,3,3,2,7,759118
+ben-arous,El Mourouj,278,5,4,2,5,966050
+ben-arous,El Mourouj,203,1,1,2,4,803068
+tunis,El Ouardia,206,2,1,1,2,1006104
+ben-arous,Megrine,172,5,1,1,5,639014
+ben-arous,Ezzahra,184,4,3,2,2,748144
+ben-arous,Boumhel,209,4,1,1,5,748220
+ariana,Jardins d'El Menzah,131,3,3,1,4,539720
+tunis,El Ouardia,228,4,4,2,9,925680
+ariana,La Soukra,170,2,1,1,9,731340
+tunis,El Manar,95,4,2,1,5,434435
+ben-arous,Fouchana,270,2,1,2,1,873990
+ben-arous,Ezzahra,192,4,3,2,7,754176
+tunis,El Menzah 1,257,3,3,1,2,1138227
+tunis,El Omrane,148,5,4,1,3,610500
+ariana,Ariana Ville,215,3,1,1,5,966435
+ben-arous,Mornag,258,5,3,2,2,961566
+tunis,La Goulette,82,3,1,1,3,356208
+ariana,La Soukra,66,3,2,1,4,325908
+tunis,Gammarth,164,3,2,2,5,629809
+ben-arous,Ben Arous,233,1,1,1,2,915690
+tunis,Ain Zaghouan,82,4,2,1,5,348409
+tunis,El Ouardia,285,1,1,1,8,1413315
+tunis,La Marsa,254,3,2,1,9,1120140
+ariana,Aouina,195,5,1,2,3,789945
+ben-arous,El Mourouj,115,4,4,1,9,434286
+ariana,La Soukra,97,1,1,1,5,495398
+tunis,Sijoumi,187,2,1,1,5,938945
+ben-arous,Fouchana,125,1,1,1,9,438075
+ariana,Raoued,299,4,2,2,5,1250717
+tunis,Cite Olympique,232,2,1,2,9,1005163
+ariana,Cite Ennasr,256,5,3,1,4,990950
+ariana,Raoued,146,2,2,1,1,723138
+ariana,Cite Ennasr,231,3,2,1,1,1095171
+tunis,Gammarth,147,4,3,1,3,647094
+tunis,Sidi Daoud,56,5,1,1,4,229824
+tunis,Les Berges Du Lac,113,5,4,1,7,488386
+ariana,Raoued,136,4,2,1,8,564998
+tunis,Les Berges Du Lac,133,1,1,1,6,588804
+ben-arous,El Mourouj,253,4,4,2,9,939034
+tunis,Bab El Khadra,292,1,1,1,8,1375320
+tunis,Sidi Bou Said,158,1,1,1,3,716372
+tunis,Ettahrir,204,1,1,2,1,906372
+tunis,Cite Olympique,162,2,1,1,6,755892
+tunis,Tunis,133,3,2,1,6,607943
+tunis,Les Berges Du Lac,260,1,1,1,3,1103960
+ben-arous,Ezzahra,71,3,1,1,4,246867
+la-manouba,La Manouba,209,2,2,1,5,791775
+ben-arous,Fouchana,69,2,2,1,2,228279
+tunis,La Marsa,84,5,1,1,6,365316
+ariana,Raoued,243,3,2,2,4,1154250
+tunis,Gammarth,88,3,3,1,6,358459
+ariana,Chotrana,181,2,1,1,2,713339
+ariana,Kalaat Landalous,159,5,3,2,2,625347
+ben-arous,El Mourouj,283,3,1,1,5,1232578
+ben-arous,Ezzahra,257,4,1,1,7,1018234
+ben-arous,Ben Arous,195,1,1,2,3,796185
+ben-arous,Boumhel,156,4,4,1,1,650364
+ariana,El Menzah 6,80,5,2,1,3,367040
+tunis,Le Kram,265,1,1,1,4,1074919
+ariana,Chotrana,263,3,3,1,3,1169534
+tunis,Les Berges Du Lac,177,5,2,1,2,814908
+tunis,La Goulette,132,4,4,1,9,647592
+ben-arous,Fouchana,99,5,2,1,8,351945
+ariana,La Soukra,133,5,3,1,1,644784
+tunis,El Ouardia,55,1,1,1,7,270765
+tunis,Gammarth,122,3,3,1,6,551440
+tunis,Gammarth,190,1,1,2,7,724356
+ben-arous,Hammam Lif,292,5,2,2,4,907185
+ben-arous,Fouchana,245,3,1,2,6,830182
+ariana,Aouina,291,3,3,1,9,1346748
+ariana,Ariana Ville,146,1,1,1,5,594512
+ben-arous,Mornag,239,1,1,2,6,861356
+tunis,Montfleury,103,2,1,1,3,412515
+tunis,El Manar,274,3,3,1,5,994784
+tunis,El Menzah 1,77,4,1,1,2,340032
+tunis,Bab Bhar,123,5,4,1,8,576624
+ariana,Mnihla,245,2,2,2,8,1127980
+ariana,Raoued,133,2,2,1,4,655025
+ben-arous,Hammam Lif,264,5,2,1,6,883872
+tunis,La Marsa,213,5,2,2,8,916901
+tunis,El Omrane,284,3,3,1,1,1214384
+tunis,El Manar,142,5,2,1,8,585040
+tunis,Les Berges Du Lac,153,1,1,2,7,687735
+ben-arous,Megrine,264,3,3,1,6,916898
+tunis,Le Bardo,266,3,2,1,1,1088551
+ben-arous,Boumhel,276,4,1,1,1,982008
+tunis,Le Bardo,250,4,2,2,5,1309875
+ariana,Raoued,54,3,1,1,1,262278
+tunis,Le Bardo,252,3,1,2,7,926251
+tunis,El Omrane,166,3,2,2,8,748328
+tunis,Ain Zaghouan,152,4,1,2,1,662568
+ben-arous,El Mourouj,173,1,1,2,6,569394
+tunis,Aouina,163,2,2,2,1,617313
+tunis,Le Bardo,57,1,1,1,5,289434
+tunis,El Ouardia,127,1,1,1,3,588518
+tunis,Les Berges Du Lac,250,2,2,1,2,1176250
+tunis,El Menzah 1,275,1,1,1,7,1079100
+ben-arous,Ezzahra,216,3,3,2,3,883872
+tunis,Ain Zaghouan,96,3,2,1,4,415200
+tunis,El Menzah 1,254,2,2,1,3,1263396
+ariana,Raoued,70,2,2,1,1,325360
+tunis,Carthage,108,2,1,1,3,432324
+ariana,Ariana Ville,195,3,2,1,2,828886
+tunis,Bab Saadoun,164,2,1,2,5,711203
+ben-arous,Nouvelle Medina,129,4,3,1,3,530319
+tunis,Bab Bhar,218,3,1,1,8,921747
+tunis,El Ouardia,265,4,3,1,4,1189850
+tunis,Gammarth,286,4,3,2,5,1206755
+ben-arous,Rades,132,3,1,1,1,514008
+ariana,La Soukra,257,1,1,2,7,1067321
+ariana,La Soukra,196,5,2,1,9,730472
+ariana,Raoued,165,4,2,2,3,692175
+ariana,Kalaat Landalous,196,2,1,1,1,817516
+tunis,La Marsa,297,4,1,1,1,1196613
+tunis,Le Kram,80,5,3,1,1,334560
+tunis,Bab Bhar,132,1,1,1,4,629376
+la-manouba,La Manouba,254,3,2,2,6,935990
+tunis,Carthage,199,1,1,2,8,828238
+ariana,Centre Urbain Nord,248,1,1,2,4,981410
+ben-arous,Rades,246,4,3,1,4,1019916
+ariana,Mnihla,152,1,1,2,2,701328
+ariana,Ariana Ville,250,2,2,2,5,1158937
+tunis,El Omrane,224,4,2,1,5,921312
+ben-arous,Fouchana,122,2,2,1,5,460062
+ariana,Sidi Daoud,65,1,1,1,3,271147
+tunis,Hrairia,215,4,4,2,4,990290
+tunis,Sidi Daoud,184,5,4,2,5,775192
+ariana,Ariana Ville,245,4,1,1,5,1259238
+ariana,Raoued,141,4,3,1,9,566354
+tunis,El Omrane,247,5,4,2,6,1000103
+tunis,La Goulette,227,5,1,1,6,1088465
+ariana,Raoued,143,1,1,1,1,634062
+ben-arous,El Mourouj,184,1,1,2,3,628120
+tunis,La Marsa,169,5,1,2,2,781287
+ben-arous,El Mourouj,132,3,3,1,7,442068
+ariana,Sidi Daoud,75,3,2,1,4,328185
+tunis,Carthage,113,2,2,1,5,475940
+tunis,Les Berges Du Lac,90,5,1,1,2,443610
+ariana,Cite Ennasr,289,4,1,1,5,1097101
+ariana,Mnihla,167,3,1,1,5,796615
+tunis,Les Berges Du Lac,124,3,2,1,6,579576
+tunis,Le Bardo,242,1,1,1,2,1084426
+ariana,Centre Urbain Nord,121,1,1,1,7,465111
+tunis,La Marsa,291,3,3,2,1,1386615
+tunis,Le Bardo,272,2,2,1,3,1089088
+tunis,La Marsa,270,5,3,2,4,1315980
+ariana,Chotrana,88,5,3,1,3,399520
+ariana,El Menzah 7,59,3,2,1,7,264143
+ben-arous,Boumhel,245,3,2,2,1,820995
+tunis,Tunis,260,4,3,2,5,1102647
+tunis,La Goulette,122,1,1,1,1,582306
+tunis,El Ouardia,245,1,1,2,2,1070160
+ben-arous,Ezzahra,182,1,1,2,1,608062
+tunis,Bab Bhar,208,4,2,1,9,942656
+tunis,Les Berges Du Lac,93,2,1,1,8,391995
+tunis,Sidi Hassine,273,3,2,2,5,1305759
+ben-arous,Boumhel,150,3,2,1,6,488100
+ben-arous,El Mourouj,122,3,2,1,8,507642
+tunis,Sidi Hassine,179,4,2,2,7,870835
+ariana,Cite Ennasr,242,3,2,2,3,1090936
+tunis,Khaznadar,279,2,2,2,6,1143900
+tunis,Carthage,194,4,4,2,4,929066
+ben-arous,Boumhel,94,4,1,1,3,347142
+tunis,Les Berges Du Lac,205,1,1,1,5,888982
+ben-arous,Ezzahra,273,2,2,2,4,1119846
+tunis,Cite El Khadra,196,2,2,2,8,816732
+ben-arous,Fouchana,109,3,1,1,1,410167
+ariana,Ariana Ville,65,1,1,1,5,255896
+ariana,Ariana Ville,231,1,1,2,7,1035342
+ariana,Raoued,150,3,1,1,8,687600
+tunis,Khaznadar,60,2,2,1,4,280020
+ariana,Centre Urbain Nord,60,1,1,1,3,262380
+tunis,El Omrane,99,3,2,1,4,444510
+tunis,Ain Zaghouan,263,1,1,2,6,1235311
+ben-arous,Rades,252,4,3,2,1,818244
+tunis,La Marsa,60,4,2,1,5,279360
+ariana,La Soukra,163,4,1,2,3,647240
+tunis,Tunis,182,4,2,1,5,859376
+ariana,Cite Ennasr,209,4,3,1,2,923153
+ben-arous,El Mourouj,135,4,3,1,7,544725
+ariana,Jardins d'El Menzah,200,4,1,1,1,732420
+ariana,Raoued,213,4,2,2,8,965742
+tunis,El Manar,226,2,1,2,6,1084348
+tunis,Gammarth,268,3,1,2,1,1090706
+ben-arous,Rades,127,4,4,1,2,418338
+ariana,La Soukra,85,2,1,1,2,384030
+ben-arous,Ezzahra,71,3,3,1,8,270084
+tunis,Le Bardo,189,5,1,2,2,878283
+ben-arous,Boumhel,177,3,2,1,4,673308
+tunis,Tunis,284,3,1,1,4,1317476
+ben-arous,Ezzahra,277,3,2,2,5,1218661
+ariana,Raoued,219,3,2,1,1,1080546
+ben-arous,Ben Arous,68,2,2,1,8,227460
+ben-arous,El Mourouj,143,2,2,1,4,525239
+tunis,Carthage,177,5,1,2,3,844467
+tunis,Le Kram,198,3,2,2,2,904860
+tunis,Carthage,150,3,1,1,8,742800
+ariana,Ariana Ville,261,3,2,2,7,1283337
+tunis,Gammarth,200,3,1,1,9,877400
+ariana,La Soukra,216,4,4,2,5,987940
+ariana,Centre Urbain Nord,91,4,4,1,9,425698
+tunis,Mutuelleville,185,2,1,2,1,892625
+tunis,Bab Bhar,74,3,2,1,2,309690
+tunis,Agba,263,3,3,2,8,1062546
+tunis,El Manar,260,2,1,1,7,1283360
+tunis,Centre Urbain Nord,82,2,2,1,2,408934
+tunis,Mutuelleville,260,3,3,1,1,1076868
+tunis,Les Berges Du Lac,296,1,1,2,4,1377288
+ariana,Cité Ennasr,213,4,1,2,6,822201
+ariana,Jardins d'El Menzah,73,4,2,1,5,291461
+ben-arous,Ben Arous,75,5,4,1,4,277965
+ben-arous,Rades,177,2,1,1,5,574365
+tunis,La Marsa,77,2,1,1,5,392688
+tunis,El Manar,127,3,3,1,6,617347
+ariana,Ariana Ville,248,5,2,2,7,1185688
+tunis,El Menzah 1,269,4,1,2,9,1039093
+tunis,Ettahrir,144,4,3,1,3,636192
+ariana,Ariana Ville,201,5,3,1,4,767016
+tunis,El Mourouj,99,3,1,1,5,437005
+tunis,Le Kram,124,4,3,1,9,513694
+ben-arous,Ben Arous,132,5,2,1,5,510840
+tunis,El Ouardia,276,1,1,1,1,995338
+ben-arous,Rades,217,3,2,2,3,700150
+ariana,El Menzah 6,252,4,4,1,4,1211112
+ben-arous,Ezzahra,74,2,1,1,9,309542
+tunis,El Omrane,108,3,1,1,2,450619
+ben-arous,Rades,206,5,3,1,9,786714
+tunis,Gammarth,228,2,2,2,1,1114236
+ariana,Raoued,289,2,2,1,7,1297118
+ariana,Chotrana,73,4,1,1,8,308279
+la-manouba,La Manouba,126,1,1,1,6,474390
+tunis,La Goulette,238,4,3,2,9,1012928
+ben-arous,El Mourouj,61,2,1,1,1,244366
+tunis,Gammarth,89,3,3,1,1,440016
+ariana,Ariana Ville,191,3,2,1,1,797043
+tunis,Cite El Khadra,262,5,1,1,3,1199698
+ariana,Mnihla,178,2,2,1,4,862054
+ariana,Mnihla,270,1,1,1,4,1111320
+ariana,Cite Ennasr,237,1,1,2,2,1062873
+tunis,El Ouardia,170,3,3,2,6,719100
+ben-arous,Mornag,109,3,3,1,8,362534
+tunis,Gammarth,194,2,2,2,2,898996
+tunis,Sijoumi,205,3,3,2,1,1011060
+tunis,La Marsa,118,4,3,1,7,496544
+ben-arous,El Mourouj,195,4,4,2,7,696540
+ariana,Kalaat Landalous,181,4,4,1,3,682551
+ben-arous,Fouchana,134,1,1,1,8,472484
+tunis,Mutuelleville,87,4,3,1,2,387672
+ariana,Raoued,86,5,2,1,6,417530
+ariana,Mnihla,194,3,3,2,3,739780
+ben-arous,Ezzahra,277,4,3,1,2,932936
+tunis,Tunis,129,2,2,1,1,480305
+ariana,Ariana Ville,178,3,1,2,7,642562
+tunis,La Marsa,269,2,1,2,5,1144864
+tunis,La Marsa,205,1,1,2,2,936030
+ben-arous,Boumhel,172,5,1,2,4,669768
+ben-arous,El Mourouj,278,5,3,2,1,1021566
+tunis,Carthage,98,5,1,1,6,401604
+ariana,Centre Urbain Nord,275,1,1,2,3,1013017
+tunis,Cite El Khadra,60,1,1,1,2,288360
+ariana,Ariana Ville,242,4,4,1,4,993168
+tunis,Tunis,132,3,2,1,5,561792
+ben-arous,Boumhel,184,4,4,2,3,572644
+ariana,Chotrana,56,1,1,1,2,270312
+ariana,Mnihla,124,3,2,1,5,644099
+ariana,El Mourouj,167,5,2,1,7,765862
+ariana,Sidi Daoud,56,4,3,1,2,234752
+ben-arous,El Mourouj,200,1,1,2,6,746400
+ben-arous,Mohamadia,54,2,1,1,5,208882
+ben-arous,Rades,175,3,2,2,1,600950
+tunis,El Ouardia,94,1,1,1,7,375539
+tunis,Montplaisir,109,5,1,1,8,477093
+ben-arous,Hammam Lif,77,5,4,1,9,261053
+tunis,La Goulette,271,4,2,1,8,1137061
+tunis,El Manar,222,4,1,2,2,1078032
+tunis,Les Berges Du Lac,260,2,1,2,4,1183000
+tunis,Cite El Khadra,254,3,3,2,5,1032256
+tunis,El Ouardia,146,1,1,1,5,665935
+tunis,El Ouardia,103,2,1,1,8,459071
+ariana,Chotrana,270,4,1,1,7,1104840
+tunis,Cite El Khadra,282,3,1,2,7,1406334
+ben-arous,Fouchana,227,3,2,1,8,794954
+ben-arous,Borj Cedria,248,4,2,2,2,891560
+tunis,Montfleury,114,2,2,1,6,491556
+tunis,Bab Bhar,197,4,4,2,1,963527
+tunis,El Ouardia,202,5,2,2,5,772722
+tunis,Les Berges Du Lac,215,5,4,1,5,883521
+tunis,El Omrane,219,3,2,1,9,885636
+ariana,Cité Ennasr,237,2,2,2,5,1164120
+tunis,El Manar,233,1,1,1,5,1037782
+ariana,La Soukra,121,5,4,1,4,562408
+tunis,Carthage,221,4,3,1,2,894608
+ben-arous,El Mourouj,297,4,2,1,5,1172618
+ben-arous,Ezzahra,250,3,1,2,8,789525
+ariana,Centre Urbain Nord,192,4,4,1,7,835776
+tunis,Cite El Khadra,131,4,1,1,7,480914
+ben-arous,Ezzahra,249,2,1,1,5,1056780
+ariana,Raoued,202,2,2,2,1,932028
+ariana,Ariana Ville,243,5,1,1,5,1133352
+tunis,La Marsa,290,3,1,2,9,1270287
+ariana,Ariana Ville,296,2,1,1,7,1280851
+ben-arous,Mohamadia,227,4,2,1,1,729578
+ben-arous,Fouchana,268,4,2,2,1,816944
+tunis,Sidi Hassine,279,3,3,2,6,1302372
+ariana,Ariana Ville,152,3,1,1,1,709232
+tunis,Tunis,197,5,1,2,9,913489
+tunis,Sidi Hassine,112,2,1,1,8,476896
+ben-arous,El Mourouj,109,5,3,1,3,450170
+tunis,Aouina,258,4,1,2,3,1271424
+ariana,Cite Ennasr,77,4,1,1,4,383383
+tunis,La Goulette,147,4,1,1,2,610050
+tunis,Tunis,192,2,1,1,9,876480
+ariana,Kalaat Landalous,287,2,2,2,6,1238290
+tunis,La Goulette,285,5,4,2,8,1153680
+tunis,El Omrane,148,4,2,1,9,610189
+tunis,El Menzah 1,182,5,3,2,3,893256
+tunis,Sidi Hassine,153,3,2,2,7,634491
+ben-arous,El Mourouj,292,3,2,1,2,1158656
+tunis,Tunis,229,2,2,1,1,993402
+ariana,Centre Urbain Nord,219,1,1,2,3,910383
+ariana,Raoued,267,5,1,2,7,1164253
+ariana,Ariana Ville,210,4,1,2,7,988470
+tunis,Bab Bhar,184,5,3,2,2,691545
+ben-arous,Ben Arous,179,2,1,2,4,739091
+ariana,La Soukra,201,1,1,1,4,807175
+ben-arous,Rades,223,2,1,2,6,850299
+tunis,Hrairia,223,3,2,2,2,1083111
+ariana,Ariana Ville,174,5,1,2,5,694521
+ben-arous,Ben Arous,77,5,3,1,5,318063
+tunis,Sidi Hassine,162,3,2,2,9,706806
+tunis,Carthage,298,4,2,2,8,1256666
+la-manouba,La Manouba,160,3,2,2,4,666880
+ariana,Raoued,94,1,1,1,5,441894
+ariana,Raoued,274,5,4,1,9,1171076
+ariana,Raoued,297,5,2,1,9,1276209
+ariana,La Soukra,72,1,1,1,1,317880
+tunis,Sidi Hassine,130,2,2,1,9,554463
+ariana,Kalaat Landalous,147,5,2,1,2,690753
+ariana,Raoued,264,2,2,2,9,1195656
+tunis,Ettahrir,282,5,3,2,7,1407180
+tunis,Ettahrir,289,1,1,2,2,1261485
+la-manouba,La Manouba,234,4,4,2,4,869076
+tunis,Sidi Bou Said,281,1,1,2,6,1195711
+tunis,Bab Saadoun,114,3,3,1,6,518814
+tunis,El Menzah 1,293,4,3,2,7,1317328
+tunis,Tunis,96,4,1,1,1,384672
+tunis,Cite Olympique,254,1,1,1,8,1140206
+tunis,Agba,103,5,1,1,1,414884
+ben-arous,Megrine,181,5,3,1,5,644649
+ariana,Raoued,225,3,1,2,1,1078425
+tunis,Montplaisir,182,1,1,2,7,842478
+ariana,Raoued,180,2,1,1,6,706158
+tunis,El Manar,147,3,1,1,5,672378
+tunis,Bab El Khadra,192,5,3,2,9,845952
+tunis,Montplaisir,254,2,2,2,9,1173988
+tunis,El Menzah 1,199,5,2,1,8,847939
+tunis,Tunis,130,4,1,1,7,546390
+ariana,Ariana Ville,252,1,1,1,7,1033956
+tunis,El Manar,280,4,2,2,5,1192240
+ariana,Ariana Ville,239,4,1,2,3,1047752
+tunis,El Ouardia,205,3,1,1,2,770656
+tunis,La Goulette,75,5,1,1,7,284580
+ben-arous,Rades,294,5,3,1,1,975492
+ariana,Cite Ennasr,283,4,1,2,4,1197090
+ben-arous,El Mourouj,216,1,1,1,4,885384
+tunis,Sidi Daoud,263,3,1,1,5,1092062
+ariana,Raoued,207,3,3,1,7,786372
+tunis,Gammarth,72,1,1,1,4,304819
+ben-arous,Boumhel,87,5,2,1,6,299810
+ariana,Ariana Ville,295,2,1,2,2,1109259
+ariana,La Soukra,98,2,2,1,5,505033
+tunis,Gammarth,235,4,3,2,5,1153615
+tunis,Bab Bhar,208,5,2,2,4,935584
+ariana,Chotrana,164,1,1,2,8,644126
+tunis,La Marsa,97,4,4,1,5,454658
+ben-arous,Rades,107,2,1,1,9,357487
+ben-arous,El Mourouj,181,4,3,1,4,738299
+tunis,Agba,131,2,2,1,9,615700
+ben-arous,Rades,245,2,2,1,1,793310
+tunis,Carthage,80,4,2,1,1,369200
+ben-arous,El Mourouj,158,1,1,2,3,579544
+ariana,Centre Urbain Nord,268,1,1,1,1,1116220
+tunis,Hrairia,178,2,1,2,1,827166
+ben-arous,Mohamadia,120,2,1,1,5,407160
+ariana,La Soukra,189,5,3,1,5,848373
+tunis,El Omrane Supérieur,94,5,3,1,7,440672
+tunis,Bab Bhar,183,1,1,1,1,744938
+ben-arous,Ezzahra,101,1,1,1,1,403495
+ben-arous,Hammam Chatt,206,4,1,1,5,724914
+ariana,Cite Ennasr,78,5,4,1,1,319098
+ben-arous,El Mourouj,207,1,1,2,8,851184
+ariana,La Soukra,70,3,3,1,3,288414
+tunis,Les Berges Du Lac,256,1,1,2,7,1136896
+tunis,Montplaisir,234,5,3,2,1,983736
+ariana,El Menzah 6,57,3,3,1,9,230052
+ben-arous,Fouchana,262,2,1,2,3,921716
+tunis,El Menzah 1,138,5,2,1,8,498911
+tunis,El Manar,277,5,3,1,5,1232331
+tunis,Carthage,129,1,1,1,1,635067
+tunis,Tunis,244,1,1,2,1,1057813
+ben-arous,Rades,299,2,1,2,1,1248624
+tunis,Carthage,247,3,3,1,3,1149044
+ariana,La Soukra,238,2,1,1,1,981512
+ariana,Centre Urbain Nord,74,5,2,1,8,300440
+ariana,Raoued,226,3,1,2,1,1071014
+tunis,La Goulette,64,2,2,1,1,281856
+ben-arous,El Mourouj,144,1,1,1,3,559296
+ariana,Raoued,226,3,2,2,4,961856
+ben-arous,Borj Cedria,60,3,2,1,2,224880
+ben-arous,Ezzahra,114,2,2,1,3,470592
+tunis,Le Kram,151,1,1,2,9,667812
+ben-arous,Borj Cedria,213,5,3,2,6,695658
+ariana,Raoued,275,3,2,1,3,1231450
+ariana,Cité Ennasr,200,4,2,2,1,932200
+ariana,La Soukra,104,5,1,1,5,524050
+tunis,El Omrane Supérieur,79,2,1,1,8,335118
+ariana,La Soukra,73,2,1,1,5,381027
+ben-arous,Mornag,286,1,1,1,5,1018446
+ben-arous,Fouchana,105,4,1,1,1,438795
+tunis,Mutuelleville,147,4,1,1,1,645330
+tunis,Gammarth,88,3,3,1,4,317116
+tunis,La Goulette,70,5,2,1,1,296170
+ben-arous,Boumhel,199,2,2,2,9,673814
+tunis,El Omrane,224,5,1,1,7,1014720
+tunis,Agba,131,4,1,1,3,556095
+ben-arous,El Mourouj,246,4,1,2,4,998268
+ben-arous,Ben Arous,237,4,1,2,8,966486
+ariana,Aouina,95,1,1,1,1,416290
+tunis,Bab Bhar,182,4,4,1,5,786786
+tunis,Tunis,97,2,2,1,8,416518
+la-manouba,La Manouba,143,1,1,1,7,527155
+tunis,Carthage,228,4,3,1,8,1023264
+ariana,Ariana Ville,244,3,1,2,1,1095364
+ariana,Mnihla,135,2,2,1,1,669195
+tunis,Gammarth,116,2,1,1,5,573968
+tunis,Le Bardo,135,4,2,1,5,600696
+ben-arous,Megrine,73,3,3,1,4,275064
+tunis,El Manar,89,4,4,1,1,378517
+ben-arous,Hammam Lif,81,1,1,1,1,267834
+ariana,La Soukra,217,3,1,2,3,875334
+tunis,El Mourouj,141,5,1,1,1,602775
+tunis,Cite El Khadra,219,5,1,2,5,921836
+ben-arous,Fouchana,157,1,1,2,3,634280
+tunis,La Marsa,143,2,2,1,6,688259
+tunis,Bab El Khadra,184,1,1,2,1,771530
+ariana,El Menzah 6,177,4,1,1,5,814580
+tunis,Cite Olympique,88,1,1,1,6,432608
+tunis,Cite El Khadra,203,5,3,2,4,927507
+tunis,Cite El Khadra,73,2,1,1,2,322076
+ben-arous,Boumhel,277,1,1,2,6,1056755
+ben-arous,Nouvelle Medina,128,3,1,1,5,450240
+ariana,Aouina,240,2,1,1,9,914976
+tunis,Centre Urbain Nord,63,5,1,1,7,277704
+ben-arous,Fouchana,281,2,1,1,6,1109669
+tunis,Cite El Khadra,187,5,3,1,2,888998
+tunis,Centre Urbain Nord,265,5,4,2,7,1008139
+tunis,El Omrane Supérieur,172,5,3,2,1,716552
+ariana,Ariana Ville,118,3,1,1,1,581976
+tunis,El Manar,255,5,1,2,2,966654
+ariana,Cité Ennasr,192,4,2,2,2,803136
+tunis,El Manar,233,1,1,2,4,1041044
+ariana,La Soukra,171,3,2,2,7,660846
+ariana,Chotrana,182,3,2,2,7,732732
+tunis,Cite El Khadra,249,1,1,1,2,1087134
+ariana,Mnihla,157,5,2,2,5,767102
+ben-arous,Ben Arous,207,2,2,2,5,783495
+ariana,Mnihla,158,3,3,1,1,765984
+tunis,Ain Zaghouan,269,1,1,1,4,1084365
+ariana,Centre Urbain Nord,142,2,1,1,9,607476
+ben-arous,El Mourouj,274,5,1,1,6,993524
+tunis,Ettahrir,169,1,1,2,9,630150
+tunis,La Marsa,146,5,3,1,1,601812
+ben-arous,Fouchana,90,4,2,1,9,360720
+tunis,Les Berges Du Lac,112,5,4,1,5,473536
+ben-arous,El Mourouj,293,1,1,1,4,1137133
+ariana,La Soukra,300,1,1,1,9,1219500
+ben-arous,Borj Cedria,192,4,4,1,7,685440
+tunis,Montfleury,236,4,2,2,4,1177876
+ariana,Raoued,93,2,2,1,6,440820
+ariana,Kalaat Landalous,88,2,1,1,9,372477
+tunis,El Menzah 1,239,2,1,1,5,1097966
+tunis,Carthage,89,5,3,1,6,357335
+ben-arous,El Mourouj,281,2,1,2,7,1009633
+ben-arous,Mornag,256,3,3,2,9,928256
+ariana,Kalaat Landalous,55,5,3,1,6,260150
+tunis,Hrairia,168,2,2,2,5,703987
+ariana,Ariana Ville,245,1,1,1,8,1019935
+ariana,Kalaat Landalous,137,1,1,1,4,498501
+ariana,El Menzah 1,263,3,2,2,8,1130900
+ben-arous,Ezzahra,119,5,2,1,5,358142
+tunis,Centre Urbain Nord,209,5,4,2,6,869440
+tunis,Bab Bhar,63,2,2,1,1,243186
+ariana,La Soukra,284,2,1,2,5,1195185
+tunis,El Ouardia,195,2,2,1,6,796185
+tunis,Hrairia,99,4,1,1,5,465300
+tunis,El Manar,211,4,3,1,3,958995
+tunis,Le Kram,52,2,1,1,1,213668
+ariana,El Menzah 5,157,4,2,1,2,578764
+ben-arous,Ben Arous,256,1,1,1,9,868096
+tunis,El Menzah 1,190,5,2,2,5,794637
+ariana,La Soukra,122,4,1,1,6,554124
+ariana,Cité Ennasr,118,4,1,1,5,586460
+ben-arous,Rades,71,3,3,1,5,240406
+ariana,La Soukra,245,3,1,1,1,1214710
+tunis,El Menzah 1,149,4,3,1,4,655898
+tunis,El Manar,124,1,1,1,1,587016
+ben-arous,Mornag,290,2,2,1,4,889227
+tunis,El Mourouj,270,4,2,2,7,1146231
+ben-arous,Mohamadia,140,2,1,1,1,535500
+ariana,El Menzah 1,115,3,1,1,6,527390
+tunis,Ain Zaghouan,284,3,1,2,1,1136284
+tunis,El Menzah 1,294,2,2,2,1,1430310
+ariana,El Menzah 1,265,3,2,2,3,1134067
+ben-arous,Rades,124,5,3,1,6,520552
+ben-arous,Rades,222,3,1,2,5,859806
+tunis,Sidi Bou Said,217,4,4,1,7,1061130
+ben-arous,El Mourouj,83,3,3,1,1,316313
+ben-arous,Mohamadia,80,3,2,1,1,307280
+tunis,Le Kram,196,1,1,2,7,867496
+tunis,El Ouardia,67,3,1,1,4,291584
+tunis,Sidi Bou Said,193,3,1,2,5,795380
+ariana,La Soukra,285,4,1,2,7,1273380
+tunis,Ettahrir,264,2,2,2,4,1100800
+ariana,Raoued,84,3,1,1,6,404376
+ariana,El Menzah 1,244,3,1,2,7,997472
+ariana,Raoued,153,5,4,2,5,655548
+ariana,Raoued,212,1,1,2,5,920228
+ariana,Raoued,212,3,2,1,5,982556
+tunis,Carthage,275,3,3,2,8,1314225
+tunis,La Marsa,50,3,1,1,2,232500
+tunis,Centre Urbain Nord,263,2,2,1,5,1125377
+ariana,Raoued,158,2,2,2,5,785260
+tunis,Centre Urbain Nord,155,4,1,1,1,627595
+tunis,La Marsa,294,4,4,1,7,1425900
+tunis,Agba,285,2,2,1,7,1393080
+tunis,Bab Bhar,193,4,2,2,2,806740
+ariana,El Mourouj,238,1,1,1,4,1031730
+tunis,Cite El Khadra,282,1,1,1,2,1138800
+tunis,Montplaisir,245,5,1,2,2,1031719
+ben-arous,Borj Cedria,54,2,1,1,2,175014
+ariana,La Soukra,78,2,1,1,7,284029
+tunis,Bab El Khadra,129,2,1,1,2,541671
+tunis,Cite El Khadra,123,2,1,1,1,609711
+tunis,Les Berges Du Lac,232,5,1,2,1,1031680
+ariana,La Soukra,146,2,1,1,7,584073
+tunis,Hrairia,284,2,1,1,8,1233781
+ariana,Cite Ennasr,146,2,1,1,1,627829
+tunis,Les Berges Du Lac,167,4,2,2,1,787071
+ariana,El Menzah 6,135,2,2,1,5,585495
+tunis,Ain Zaghouan,120,4,1,1,8,499800
+tunis,Aouina,62,1,1,1,1,302808
+tunis,Le Bardo,61,2,2,1,2,275110
+ben-arous,Boumhel,165,5,3,2,3,530475
+ariana,Raoued,247,3,2,2,9,1184365
+tunis,Carthage,81,5,2,1,1,350325
+ariana,Ariana Ville,119,4,4,1,2,522053
+ben-arous,Boumhel,126,4,2,1,1,453222
+tunis,Gammarth,163,4,2,1,8,808806
+ariana,Mnihla,139,1,1,1,9,633423
+ben-arous,Fouchana,77,3,3,1,7,303303
+tunis,Bab Bhar,248,5,1,2,7,1016056
+ariana,Chotrana,141,5,1,1,4,606018
+ariana,Centre Urbain Nord,170,4,4,1,3,810560
+tunis,Bab Saadoun,133,2,2,1,5,696155
+tunis,Mutuelleville,283,5,3,1,5,1274595
+ariana,Chotrana,295,2,1,1,5,1292690
+tunis,Gammarth,253,4,3,2,4,1183534
+tunis,Mutuelleville,267,5,1,2,1,1334466
+ben-arous,Rades,139,1,1,1,7,464496
+tunis,La Marsa,291,1,1,2,2,1313574
+ben-arous,El Mourouj,166,3,2,1,6,601916
+tunis,El Menzah 1,110,1,1,1,1,464530
+ben-arous,Nouvelle Medina,197,1,1,1,1,750964
+ariana,Raoued,80,4,3,1,7,359784
+ariana,Chotrana,67,5,2,1,2,294686
+ariana,El Menzah 5,76,3,3,1,9,379848
+tunis,El Ouardia,138,5,3,1,8,653154
+ariana,La Soukra,263,5,4,2,1,1126692
+ben-arous,Ben Arous,231,3,2,1,4,776622
+tunis,Gammarth,157,2,2,2,9,761136
+ariana,La Soukra,76,1,1,1,8,324010
+ariana,Centre Urbain Nord,86,1,1,1,5,421486
+ariana,La Soukra,290,5,1,2,1,1346470
+ariana,Ariana Ville,113,2,1,1,5,485871
+tunis,Ain Zaghouan,145,4,3,1,5,643075
+tunis,Le Kram,205,3,2,2,2,884575
+tunis,Cite El Khadra,89,4,4,1,5,345070
+tunis,Sijoumi,188,4,4,1,2,791292
+ben-arous,Fouchana,110,2,2,1,2,415602
+tunis,La Marsa,265,3,2,2,3,1193030
+ariana,Raoued,210,4,1,1,8,888300
+ariana,La Soukra,108,1,1,1,7,461808
+tunis,Ettahrir,207,3,2,2,2,876541
+tunis,La Marsa,56,2,1,1,5,236544
+ariana,Mnihla,150,2,2,1,4,747300
+tunis,Carthage,176,2,1,2,1,782848
+ben-arous,Boumhel,213,2,2,1,8,846036
+tunis,El Menzah 1,199,2,2,2,1,779264
+tunis,Tunis,113,3,2,1,1,476747
+ariana,Kalaat Landalous,156,3,3,1,7,748176
+ariana,La Soukra,298,3,2,1,3,1174984
+tunis,Sijoumi,78,2,1,1,2,335400
+tunis,Tunis,156,5,1,1,1,743964
+ben-arous,El Mourouj,155,5,4,1,8,476392
+ben-arous,Ben Arous,219,5,3,2,2,721583
+ariana,Mnihla,158,4,2,1,4,666064
+tunis,Sidi Bou Said,227,2,1,2,1,942504
+tunis,Hrairia,244,2,2,2,8,1078016
+tunis,El Menzah 1,77,5,2,1,5,341049
+tunis,El Manar,76,1,1,1,3,326420
+ben-arous,Ben Arous,154,2,1,1,5,531022
+tunis,El Omrane,115,4,3,1,1,478860
+ariana,Raoued,143,3,2,1,3,666666
+ben-arous,El Mourouj,228,3,3,2,5,769500
+ariana,Mnihla,89,1,1,1,9,424441
+ben-arous,El Mourouj,255,4,4,1,8,1005210
+ben-arous,El Mourouj,118,2,2,1,7,395064
+ariana,Ariana Ville,75,2,2,1,1,327750
+tunis,La Marsa,273,1,1,1,5,1181544
+tunis,Cite El Khadra,68,2,1,1,3,286171
+ariana,Cite Ennasr,181,5,1,1,5,794846
+tunis,Bab Bhar,172,1,1,2,5,723844
+tunis,El Manar,155,4,2,1,3,695020
+ben-arous,Fouchana,72,5,4,1,2,295416
+ben-arous,Fouchana,96,4,1,1,1,349632
+tunis,Sijoumi,266,1,1,2,5,1364939
+ariana,Raoued,269,4,1,1,9,853382
+tunis,Centre Urbain Nord,250,2,1,2,7,970808
+tunis,Carthage,187,3,2,1,1,1071221
+ariana,Jardins d'El Menzah,274,3,2,2,16,989295
+tunis,Hrairia,141,1,1,1,9,668553
+ben-arous,Boumhel,268,2,1,2,4,839430
+ariana,La Soukra,169,5,4,1,5,579128
+tunis,Sidi Hassine,192,4,1,2,7,781709
+ariana,Jardins d'El Menzah,294,1,1,1,2,926466
+ariana,Raoued,72,1,1,1,1,274753
+tunis,Bab Saadoun,217,3,2,2,8,887075
+tunis,La Marsa,250,1,1,2,8,914598
+tunis,El Omrane Supérieur,107,1,1,1,1,550754
+ariana,Chotrana,168,1,1,2,7,628794
+tunis,Ain Zaghouan,191,3,2,1,4,865465
+ben-arous,Boumhel,61,1,1,1,5,258753
+tunis,La Marsa,229,1,1,1,2,990081
+ben-arous,Boumhel,239,1,1,1,2,840425
+tunis,Centre Urbain Nord,122,4,1,1,2,577639
+tunis,Gammarth,94,2,1,1,6,461127
+ariana,Chotrana,82,1,1,1,3,342122
+ariana,La Soukra,138,5,3,1,10,475304
+ben-arous,Rades,150,5,4,1,6,579588
+tunis,Centre Urbain Nord,148,2,1,1,7,708063
+ben-arous,El Mourouj,269,5,4,1,16,777292
+tunis,La Marsa,96,3,2,1,2,423944
+ariana,La Soukra,300,4,1,2,9,1044485
+ben-arous,El Mourouj,268,1,1,1,7,931905
+tunis,El Omrane,178,5,3,1,1,820972
+ben-arous,Megrine,291,1,1,2,5,1043904
+ben-arous,Boumhel,209,3,2,2,3,676693
+tunis,Sidi Daoud,263,1,1,1,5,1317664
+tunis,El Omrane,173,1,1,1,2,733203
+tunis,Montfleury,195,3,2,1,4,944302
+tunis,Le Bardo,196,5,1,1,6,881607
+ben-arous,Fouchana,264,1,1,1,5,993588
+ben-arous,Fouchana,269,5,1,2,5,1062381
+ben-arous,Mohamadia,82,4,2,1,6,266028
+tunis,Cite El Khadra,259,4,2,2,1,1116268
+ben-arous,Ezzahra,265,2,1,2,16,968056
+ariana,El Menzah 5,248,2,1,1,1,717011
+ariana,La Soukra,141,4,1,1,5,543847
+ariana,La Soukra,83,2,1,1,9,321143
+ben-arous,El Mourouj,267,3,2,2,10,922269
+tunis,La Marsa,53,5,3,1,8,253232
+ben-arous,El Mourouj,134,4,3,1,4,524163
+tunis,Bab Bhar,108,4,1,1,4,433946
+ben-arous,Hammam Lif,192,4,3,1,1,688946
+tunis,Carthage,192,2,1,2,10,903491
+tunis,La Marsa,280,2,1,1,7,1088714
+ariana,La Soukra,226,5,1,1,2,697431
+tunis,Carthage,88,3,2,1,10,439397
+ben-arous,El Mourouj,140,1,1,1,9,586522
+ben-arous,Rades,192,5,1,2,5,640692
+ariana,Mnihla,184,5,3,1,10,667188
+tunis,Ain Zaghouan,169,4,1,1,3,826564
+ariana,La Soukra,255,1,1,2,16,781951
+tunis,Sidi Bou Said,253,3,2,2,3,1121491
+tunis,El Menzah 1,99,2,1,1,8,454374
+ben-arous,El Mourouj,183,2,1,1,16,607468
+ben-arous,Fouchana,264,4,3,1,9,959015
+tunis,El Omrane,145,5,2,1,6,628100
+ariana,La Soukra,192,5,2,2,10,637456
+tunis,Centre Urbain Nord,200,1,1,1,7,920150
+tunis,Ettahrir,93,3,1,1,7,430751
+ben-arous,Hammam Chatt,190,5,1,1,6,747527
+tunis,La Goulette,253,1,1,1,5,1113419
+tunis,La Goulette,221,4,3,1,6,963921
+ariana,El Menzah 7,229,3,2,1,9,859671
+tunis,La Marsa,191,1,1,1,9,941597
+tunis,Bab Bhar,287,1,1,1,6,1218159
+ben-arous,El Mourouj,269,2,1,1,6,801897
+ben-arous,El Mourouj,199,3,2,2,6,691049
+ariana,Raoued,283,2,1,1,6,1019988
+ben-arous,Boumhel,145,5,1,1,6,511869
+ben-arous,Ezzahra,81,3,2,1,16,369918
+tunis,Bab El Khadra,106,4,3,1,2,581562
+tunis,Bab Bhar,162,3,2,2,6,659079
+ariana,La Soukra,112,2,1,1,2,435764
+tunis,Cite Olympique,128,3,2,1,5,615069
+ariana,El Menzah 7,277,4,2,2,16,1040388
+ben-arous,Fouchana,132,5,3,1,5,450974
+tunis,Carthage,226,1,1,2,5,840342
+ariana,Mnihla,142,3,2,1,1,634243
+ben-arous,El Mourouj,92,1,1,1,8,359439
+tunis,Bab Saadoun,215,2,1,2,6,811632
+ariana,El Menzah 7,144,2,1,1,1,591619
+ariana,La Soukra,128,4,2,1,10,452926
+ben-arous,Rades,241,3,2,2,5,800415
+ariana,El Mourouj,134,5,1,1,1,550156
+ariana,Raoued,211,2,1,1,1,782387
+tunis,Centre Urbain Nord,72,1,1,1,9,380620
+tunis,El Menzah 1,180,3,2,2,5,844576
+tunis,El Omrane,114,1,1,1,5,585303
+ben-arous,Boumhel,127,4,2,1,7,529771
+la-manouba,La Manouba,160,2,1,1,3,752631
+ben-arous,Fouchana,125,3,2,1,1,449455
+ariana,Raoued,205,1,1,2,16,714475
+ariana,Chotrana,167,4,1,1,10,590485
+tunis,Le Kram,130,2,1,1,1,590854
+tunis,Cite El Khadra,281,2,1,2,7,1329912
+tunis,Sidi Hassine,55,1,1,1,4,297814
+tunis,La Marsa,86,3,2,1,5,350303
+tunis,Khaznadar,188,1,1,1,7,818345
+ariana,La Soukra,139,5,1,1,1,515653
+ben-arous,Fouchana,197,3,1,1,7,648762
+tunis,El Omrane Supérieur,99,1,1,1,1,483002
+la-manouba,La Manouba,163,1,1,2,16,571071
+tunis,Aouina,62,1,1,1,5,371863
+ben-arous,El Mourouj,167,5,2,2,9,617062
+ben-arous,Megrine,222,3,2,2,2,770453
+tunis,El Ouardia,181,3,1,2,6,800157
+tunis,Aouina,141,3,1,1,3,574526
+ben-arous,Borj Cedria,88,5,1,1,7,337945
+ariana,Raoued,135,1,1,1,9,515317
+la-manouba,La Manouba,54,4,3,1,1,244508
+tunis,Ain Zaghouan,234,3,1,2,16,843309
+ben-arous,Rades,275,5,2,2,1,923881
+ariana,Raoued,54,4,2,1,10,269786
+ben-arous,Ezzahra,244,5,2,2,7,848512
+ariana,Ariana Ville,203,1,1,2,4,753239
+ben-arous,Boumhel,144,4,3,1,5,542664
+ben-arous,Rades,100,5,4,1,4,329558
+tunis,Le Kram,262,1,1,2,2,999591
+ben-arous,El Mourouj,130,2,1,1,5,510535
+tunis,Agba,195,2,1,1,3,899115
+ariana,Chotrana,98,2,1,1,16,321999
+ben-arous,Fouchana,51,4,2,1,7,222641
+ariana,Raoued,129,5,2,1,6,468046
+ariana,Chotrana,157,4,2,1,10,609463
+tunis,Sidi Daoud,267,1,1,2,1,972602
+tunis,Gammarth,277,5,1,1,9,1419970
+tunis,Bab Bhar,248,4,2,2,10,1247145
+tunis,El Menzah 1,270,5,4,2,10,1214987
+tunis,Sidi Hassine,195,3,2,1,2,887976
+ariana,Raoued,294,5,2,2,8,954531
+ben-arous,Fouchana,58,4,2,1,16,304099
+ariana,Raoued,232,4,2,2,4,950169
+ben-arous,Ezzahra,169,3,2,1,6,659151
+ben-arous,El Mourouj,147,2,1,1,6,535503
+tunis,Bab Bhar,236,1,1,2,1,892938
+tunis,Bab Bhar,115,3,1,1,8,566759
+ben-arous,Borj Cedria,261,3,1,2,6,992599
+ariana,Aouina,196,2,1,1,2,720221
+ariana,La Soukra,127,1,1,1,7,450596
+ben-arous,Ezzahra,142,1,1,1,1,515659
+ariana,La Soukra,101,3,1,1,2,328431
+ariana,Mnihla,95,2,1,1,6,327745
+tunis,La Marsa,125,3,2,1,8,533341
+ariana,Chotrana,142,4,1,1,4,592083
+ariana,La Soukra,55,5,1,1,6,237850
+ariana,Raoued,164,4,1,2,2,752723
+ariana,Raoued,195,2,1,1,10,762870
+tunis,Montplaisir,284,5,3,1,9,1079964
+ben-arous,Fouchana,189,5,3,1,8,894893
+ben-arous,Rades,174,1,1,1,2,688024
+tunis,Mutuelleville,258,1,1,1,4,1071437
+ariana,Raoued,297,2,1,1,5,895709
+ben-arous,Mornag,207,1,1,1,7,721582
+ben-arous,Mohamadia,82,4,3,1,5,277761
+tunis,Le Bardo,229,1,1,2,6,1023547
+ben-arous,Ben Arous,240,5,2,2,9,797570
+tunis,Sidi Hassine,214,3,2,2,6,1005886
+ben-arous,Mohamadia,124,2,1,1,5,415388
+ariana,Ariana Ville,51,5,1,1,5,207758
+ariana,Raoued,118,2,1,1,2,475759
+tunis,Le Bardo,60,5,1,1,16,308978
+ariana,Mnihla,267,5,3,2,6,1103757
+ariana,Raoued,263,5,2,2,8,854835
+tunis,Bab Bhar,119,5,2,1,3,537195
+tunis,Gammarth,196,3,1,2,10,914619
+tunis,El Menzah 1,93,4,1,1,1,374596
+ariana,Cite Ennasr,115,1,1,1,3,458122
+tunis,Hrairia,53,5,2,1,6,259273
+ariana,Raoued,190,4,1,1,9,609901
+ariana,Kalaat Landalous,112,5,4,1,7,519025
+tunis,El Omrane Supérieur,211,3,2,1,7,960573
+tunis,Ettahrir,236,4,2,1,3,1007777
+ariana,Ariana Ville,240,5,2,2,5,778449
+ariana,La Soukra,96,1,1,1,3,376111
+tunis,Cite Olympique,75,4,3,1,4,400350
+ben-arous,Ezzahra,64,2,1,1,7,230568
+tunis,Hrairia,114,1,1,1,10,531919
+ben-arous,El Mourouj,131,5,3,1,6,462043
+ben-arous,Fouchana,99,5,3,1,10,350317
+ben-arous,Boumhel,248,4,2,2,8,849916
+ben-arous,El Mourouj,273,1,1,2,6,983629
+tunis,El Manar,116,2,1,1,8,572164
+tunis,La Marsa,125,2,1,1,1,554718
+tunis,Mutuelleville,50,1,1,1,5,281504
+tunis,Sidi Bou Said,145,3,2,1,5,678476
+tunis,Tunis,161,5,2,2,9,722969
+tunis,Sidi Daoud,72,5,1,1,5,393051
+ariana,Cité Ennasr,234,3,2,1,7,770988
+ariana,Sidi Daoud,81,2,1,1,5,318122
+ariana,Cité Ennasr,104,2,1,1,5,396570
+ben-arous,Mornag,104,1,1,1,7,385887
+ariana,Cité Ennasr,212,2,1,2,10,631621
+ben-arous,Hammam Lif,256,2,1,1,1,836834
+ariana,La Soukra,177,2,1,1,6,573680
+la-manouba,La Manouba,65,2,1,1,4,271993
+ariana,Kalaat Landalous,204,4,3,2,3,649467
+ariana,La Soukra,150,3,2,1,10,570627
+tunis,La Goulette,197,1,1,1,6,802704
+ben-arous,El Mourouj,172,4,1,2,2,706835
+ariana,La Soukra,242,2,1,2,6,839059
+tunis,Tunis,162,2,1,2,1,731795
+tunis,Bab Bhar,232,1,1,2,16,892771
+ariana,Cité Ennasr,248,5,3,1,3,758595
+ariana,La Soukra,60,5,4,1,16,245933
+ariana,Chotrana,64,3,1,1,16,228492
+ariana,Ariana Ville,196,1,1,1,3,771261
+tunis,Gammarth,209,1,1,2,1,833850
+ben-arous,Boumhel,271,5,4,2,2,927178
+ariana,La Soukra,297,4,3,2,5,1123054
+ben-arous,El Mourouj,208,4,1,1,5,720907
+tunis,Gammarth,262,2,1,2,1,1051326
+ariana,Sidi Daoud,76,5,3,1,6,299020
+tunis,Bab Saadoun,154,1,1,2,5,659648
+ariana,La Soukra,263,1,1,1,8,877254
+tunis,La Marsa,88,5,2,1,5,423194
+tunis,El Menzah 1,231,1,1,1,7,1003056
+ariana,Centre Urbain Nord,158,5,1,2,4,641604
+ariana,Cité Ennasr,140,4,1,1,8,580955
+ben-arous,Hammam Lif,286,1,1,2,9,1078282
+ariana,El Menzah 7,278,3,1,1,5,831709
+tunis,Gammarth,82,5,4,1,5,364355
+tunis,Ettahrir,103,1,1,1,1,410737
+tunis,Centre Urbain Nord,61,2,1,1,1,352414
+tunis,El Omrane,131,4,3,1,2,604195
+tunis,El Mourouj,298,3,1,1,6,1120362
+tunis,Mutuelleville,173,4,1,1,1,825482
+tunis,La Goulette,71,1,1,1,3,360488
+tunis,El Menzah 1,103,5,3,1,3,439561
+ariana,Raoued,206,1,1,2,1,687151
+ben-arous,El Mourouj,208,4,1,2,1,691127
+tunis,Sidi Daoud,126,4,3,1,1,624339
+tunis,Cite El Khadra,269,5,2,2,3,994180
+la-manouba,La Manouba,243,1,1,1,7,898786
+ben-arous,El Mourouj,277,3,2,2,6,874238
+ben-arous,Ezzahra,190,3,1,2,5,736782
+tunis,Cite El Khadra,224,2,1,1,16,886198
+ariana,Sidi Daoud,95,5,4,1,5,339248
+tunis,Sidi Hassine,99,5,2,1,6,420845
+ariana,Ariana Ville,167,5,2,1,2,601452
+ben-arous,El Mourouj,134,2,1,1,6,469016
+ariana,La Soukra,137,4,3,1,6,550928
+ariana,Cité Ennasr,260,3,1,1,3,907573
+tunis,Ain Zaghouan,126,3,2,1,6,562305
+la-manouba,La Manouba,123,4,1,1,6,543132
+tunis,Agba,157,3,1,2,6,650174
+ben-arous,Ezzahra,59,5,3,1,16,280691
+tunis,Cite El Khadra,147,4,2,1,4,592351
+tunis,Carthage,188,1,1,1,10,833644
+ben-arous,Mohamadia,110,2,1,1,6,446300
+ariana,Raoued,274,1,1,2,4,894074
+ben-arous,Megrine,159,3,2,1,6,610522
+tunis,El Omrane Supérieur,299,5,4,1,5,1196569
+tunis,Ain Zaghouan,131,4,1,1,9,581778
+ariana,Raoued,255,4,2,2,5,905491
+tunis,El Omrane,138,2,1,1,8,635804
+ariana,La Soukra,168,2,1,2,1,678517
+ben-arous,Rades,57,2,1,1,6,258600
+ben-arous,Ezzahra,139,1,1,1,5,559408
+ariana,El Menzah 7,122,4,3,1,8,405491
+ariana,La Soukra,293,5,2,2,10,999466
+tunis,Hrairia,170,5,3,2,10,848302
+ben-arous,Nouvelle Medina,118,2,1,1,5,481572
+tunis,Sidi Hassine,218,5,1,1,4,1100773
+ariana,El Mourouj,263,2,1,2,5,897887
+tunis,Montplaisir,71,3,1,1,3,353345
+tunis,Khaznadar,166,2,1,1,10,818166
+tunis,El Manar,192,5,4,1,6,957575
+tunis,Sidi Hassine,113,5,1,1,10,542923
+ariana,Centre Urbain Nord,59,3,1,1,1,217706
+ariana,La Soukra,62,4,1,1,4,293280
+ariana,El Mourouj,246,1,1,1,4,712484
+ben-arous,Mohamadia,92,1,1,1,5,355181
+ariana,Borj Louzir,207,5,1,2,16,781376
+tunis,Montplaisir,101,2,1,1,4,439669
+ben-arous,Rades,167,3,1,1,2,689859
+tunis,Bab Bhar,122,5,3,1,2,613191
+ben-arous,Boumhel,198,5,3,2,1,842685
+ben-arous,Fouchana,294,2,1,2,4,1098548
+tunis,Bab Bhar,147,3,2,1,10,807449
+ben-arous,El Mourouj,101,3,2,1,8,380167
+tunis,Mutuelleville,206,1,1,1,5,790740
+ariana,La Soukra,282,2,1,2,5,1219882
+ariana,Ariana Ville,297,1,1,2,5,1022397
+tunis,El Ouardia,267,3,2,2,3,1115756
+tunis,Tunis,275,5,1,2,16,1193137
+ben-arous,Borj Cedria,63,3,2,1,6,230617
+tunis,Ettahrir,253,5,2,2,3,924683
+ariana,El Mourouj,277,2,1,2,4,895963
+ariana,Raoued,247,3,2,2,5,933344
+ariana,Raoued,263,3,2,2,3,949343
+tunis,Hrairia,64,1,1,1,3,348792
+ben-arous,El Mourouj,246,3,1,1,3,941415
+ben-arous,Ben Arous,245,3,2,1,5,871745
+ben-arous,Boumhel,230,2,1,1,3,936391
+tunis,Khaznadar,116,2,1,1,10,521118
+ariana,Mnihla,263,4,3,1,7,830238
+tunis,El Omrane Supérieur,111,3,1,1,10,511254
+tunis,El Manar,202,2,1,1,6,798805
+ariana,Ariana Ville,94,3,1,1,7,360399
+ariana,Aouina,225,4,3,1,5,758938
+tunis,Aouina,66,5,1,1,7,357183
+tunis,Bab Saadoun,155,3,2,1,5,704255
+tunis,Le Bardo,94,2,1,1,2,432000
+ariana,Raoued,80,3,2,1,5,338067
+ben-arous,El Mourouj,64,3,2,1,5,236845
+tunis,Cite El Khadra,258,2,1,1,9,1131902
+ben-arous,Hammam Lif,93,3,2,1,3,330961
+tunis,Sijoumi,169,3,1,2,5,679198
+tunis,Ain Zaghouan,287,5,3,1,1,1101497
+ben-arous,El Mourouj,128,5,3,1,5,493978
+tunis,La Goulette,98,1,1,1,3,543313
+ben-arous,El Mourouj,83,2,1,1,8,329820
+ben-arous,Mornag,268,5,3,2,1,850636
+tunis,Le Bardo,270,2,1,1,9,1078104
+tunis,El Menzah 1,103,1,1,1,5,494839
+tunis,Le Bardo,267,5,2,2,8,1091635
+tunis,Montfleury,90,4,3,1,10,508451
+tunis,El Menzah 1,129,1,1,1,4,603008
+tunis,Carthage,84,5,3,1,9,355064
+tunis,El Omrane,71,3,2,1,6,351202
+tunis,Montfleury,67,1,1,1,4,295698
+ariana,Cite Ennasr,266,4,1,1,8,991531
+ariana,Raoued,62,4,1,1,8,266531
+tunis,El Mourouj,147,1,1,1,6,721942
+ben-arous,Fouchana,147,3,1,1,3,578133
+tunis,Carthage,228,1,1,2,16,1011505
+ben-arous,Ben Arous,90,1,1,1,6,402254
+ariana,La Soukra,188,1,1,2,2,604284
+tunis,Sidi Daoud,191,3,2,1,6,948214
+tunis,Le Bardo,56,4,1,1,16,325310
+ben-arous,Ben Arous,124,2,1,1,7,448158
+ben-arous,Fouchana,88,1,1,1,10,327995
+ariana,Kalaat Landalous,101,1,1,1,3,394423
+tunis,Bab Bhar,140,2,1,1,4,660599
+ben-arous,Rades,116,3,1,1,16,481833
+ariana,Cité Ennasr,90,5,1,1,5,425987
+tunis,Bab El Khadra,288,1,1,2,16,1193088
+ben-arous,Mornag,119,4,2,1,5,385483
+ben-arous,Rades,69,2,1,1,2,312197
+ariana,Raoued,137,4,2,1,5,460451
+ben-arous,Ezzahra,178,2,1,2,6,661077
+tunis,El Menzah 1,241,4,3,1,1,900121
+tunis,Cite El Khadra,180,5,1,1,5,765175
+ben-arous,Mohamadia,61,5,3,1,6,238169
+ben-arous,Ezzahra,68,4,1,1,4,299917
+ben-arous,El Mourouj,68,2,1,1,6,283026
+ben-arous,Ezzahra,182,4,1,2,5,653079
+ben-arous,Ezzahra,108,1,1,1,3,420823
+ben-arous,Fouchana,230,3,2,1,3,856801
+ben-arous,Ben Arous,208,2,1,2,4,729939
+ben-arous,Fouchana,113,4,1,1,4,466296
+ben-arous,Boumhel,194,1,1,2,1,772446
+tunis,El Menzah 1,191,4,2,2,1,953015
+ariana,La Soukra,174,3,1,2,6,673783
+tunis,Carthage,81,3,2,1,1,354946
+ben-arous,Rades,198,2,1,1,6,705500
+ariana,Ariana Ville,86,2,1,1,6,328325
+ben-arous,Ben Arous,149,4,3,1,8,623211
+tunis,La Marsa,296,1,1,1,8,1108310
+ariana,Ariana Ville,102,5,3,1,1,363971
+tunis,Bab Saadoun,158,1,1,2,6,764346
+ariana,Chotrana,91,1,1,1,1,352288
+ben-arous,Boumhel,234,1,1,2,3,714382
+tunis,Mutuelleville,72,2,1,1,1,388135
+ben-arous,Ezzahra,72,1,1,1,7,319285
+tunis,Tunis,154,2,1,2,2,625080
+ariana,La Soukra,285,4,2,1,2,1050220
+ben-arous,Fouchana,209,2,1,2,3,810346
+tunis,Bab Bhar,133,5,3,1,4,598992
+ben-arous,Boumhel,276,2,1,2,8,949358
+tunis,Bab Bhar,245,5,1,2,1,944691
+tunis,Bab Bhar,161,3,2,2,3,725638
+ariana,La Soukra,153,1,1,1,6,582166
+ariana,La Soukra,158,3,2,2,1,629289
+ben-arous,Mohamadia,239,4,1,2,9,719675
+la-manouba,La Manouba,138,1,1,1,6,539207
+ben-arous,El Mourouj,192,3,1,2,8,761292
+tunis,Le Bardo,169,4,3,2,5,829647
+ben-arous,Ezzahra,289,4,3,2,5,870361
+tunis,Cite El Khadra,294,2,1,1,2,1214327
+tunis,El Manar,72,5,3,1,7,346650
+ben-arous,Ben Arous,173,5,3,2,5,673596
+tunis,La Goulette,294,4,1,1,10,1284835
+ben-arous,Rades,214,3,1,1,16,624251
+ariana,La Soukra,112,1,1,1,3,405113
+ariana,Mnihla,73,1,1,1,16,280345
+ben-arous,Megrine,186,2,1,2,4,627312
+ben-arous,Rades,199,5,4,1,1,611448
+ariana,Raoued,199,4,3,1,3,689478
+tunis,El Menzah 1,287,5,1,1,7,1290547
+tunis,Tunis,119,1,1,1,16,581060
+ben-arous,Rades,268,5,4,2,3,956262
+tunis,Bab Bhar,175,3,1,1,7,908303
+ariana,Kalaat Landalous,143,2,1,1,5,512136
+ariana,Raoued,85,4,2,1,5,323253
+ben-arous,El Mourouj,239,2,1,1,6,758611
+ariana,Aouina,246,5,1,1,2,890393
+ariana,La Soukra,282,2,1,2,16,846613
+tunis,El Manar,149,2,1,1,10,693542
+ben-arous,Boumhel,53,2,1,1,10,231190
+tunis,El Omrane,199,1,1,2,7,870803
+ariana,Raoued,261,4,2,2,3,911054
+ben-arous,Rades,150,4,2,1,3,578174
+tunis,Carthage,152,4,1,1,5,803002
+tunis,Sidi Bou Said,59,3,2,1,6,326877
+ben-arous,Mohamadia,215,5,1,1,3,724909
+ariana,El Menzah 7,174,5,2,1,8,561166
+ben-arous,Rades,146,2,1,1,3,514582
+ben-arous,Ezzahra,69,1,1,1,5,288884
+ben-arous,Rades,269,4,3,2,6,963608
+ariana,La Soukra,151,4,3,1,1,579559
+tunis,Khaznadar,75,4,1,1,7,404071
+tunis,Gammarth,155,2,1,2,10,738110
+ben-arous,Boumhel,122,3,1,1,16,433813
+tunis,Sidi Hassine,205,5,3,1,1,812472
+tunis,Tunis,280,4,2,1,7,1148961
+tunis,Gammarth,298,5,4,1,5,1204688
+ben-arous,Rades,264,1,1,2,7,972084
+ariana,La Soukra,54,2,1,1,2,246476
+ben-arous,Boumhel,252,1,1,2,3,805411
+ariana,Chotrana,152,1,1,2,9,603851
+ariana,El Mourouj,72,4,1,1,2,320932
+ben-arous,Fouchana,62,3,2,1,7,268962
+ariana,Ariana Ville,142,2,1,1,16,474213
+tunis,El Menzah 1,153,2,1,2,1,773535
+tunis,Centre Urbain Nord,234,4,3,1,1,1092390
+ariana,Raoued,275,4,3,2,5,835563
+ariana,Raoued,63,5,1,1,7,286723
+ariana,Sidi Daoud,237,1,1,2,9,851158
+ariana,Cité Ennasr,68,1,1,1,5,295338
+ben-arous,Fouchana,102,1,1,1,16,424422
+ben-arous,Fouchana,251,1,1,2,16,985069
+tunis,Tunis,170,3,2,1,2,704104
+tunis,Sidi Bou Said,124,4,3,1,3,582512
+ariana,El Menzah 5,263,2,1,2,8,916844
+tunis,Sidi Hassine,274,2,1,2,10,1097908
+ben-arous,Boumhel,91,3,1,1,5,368415
+ariana,Kalaat Landalous,153,2,1,1,7,517934
+tunis,Bab Bhar,254,4,1,2,6,977867
+ben-arous,Fouchana,272,1,1,2,5,1125518
+tunis,Carthage,114,3,1,1,8,536353
+tunis,La Marsa,140,3,1,1,7,761925
+tunis,El Ouardia,231,3,1,1,5,999701
+ariana,Chotrana,60,2,1,1,1,253259
+tunis,Tunis,232,1,1,2,9,976581
+ben-arous,Mohamadia,250,4,2,2,5,906433
+ariana,Mnihla,83,2,1,1,5,281384
+ben-arous,Rades,69,4,1,1,3,294746
+ariana,Ariana Ville,245,5,4,1,10,891612
+ben-arous,El Mourouj,285,4,3,1,10,1060964
+ariana,Mnihla,192,4,2,2,8,768379
+tunis,Bab Bhar,270,5,1,1,1,1081719
+tunis,Ettahrir,172,1,1,2,5,886513
+tunis,La Goulette,98,3,1,1,4,451448
+ariana,Borj Louzir,97,3,1,1,6,396556
+ben-arous,Fouchana,200,1,1,1,5,713508
+ariana,Ariana Ville,173,5,4,1,2,611278
+ben-arous,Fouchana,115,4,3,1,1,374305
+ariana,Sidi Daoud,280,4,2,1,5,895725
+ben-arous,El Mourouj,138,3,1,1,3,448120
+tunis,La Marsa,176,2,1,1,5,766825
+ben-arous,Ezzahra,178,3,2,1,1,580657
+tunis,La Marsa,298,4,1,2,1,1122818
+la-manouba,La Manouba,125,5,4,1,4,484226
+tunis,Bab Bhar,238,5,4,2,9,1014809
+tunis,La Marsa,122,2,1,1,6,540109
+tunis,Sidi Daoud,111,4,3,1,7,535628
+ariana,Borj Louzir,226,5,3,1,16,673260
+ariana,El Menzah 7,89,3,2,1,16,329537
+tunis,Carthage,97,1,1,1,16,477235
+ben-arous,Rades,170,4,1,1,10,577510
+tunis,Bab El Khadra,59,5,2,1,5,284577
+ben-arous,Rades,172,1,1,1,6,615116
+ariana,El Menzah 6,56,1,1,1,3,212269
+tunis,La Marsa,99,1,1,1,16,476612
+ben-arous,El Mourouj,61,5,4,1,4,261469
+ben-arous,Rades,105,4,1,1,7,417059
+ariana,La Soukra,157,4,3,1,9,634697
+tunis,Ettahrir,172,4,3,1,1,773504
+ariana,Mnihla,247,4,1,1,10,767291
+ariana,Ariana Ville,103,3,2,1,9,369915
+tunis,Les Berges Du Lac,214,1,1,1,10,887073
+tunis,Khaznadar,291,3,2,2,6,1195323
+ben-arous,El Mourouj,133,5,1,1,6,463362
+ben-arous,Mohamadia,92,2,1,1,3,304945
+tunis,Carthage,278,3,1,1,1,1094495
+ariana,Cité Ennasr,73,5,1,1,5,301685
+ben-arous,Fouchana,175,2,1,2,3,683062
+ariana,Mnihla,274,2,1,1,4,829935
+tunis,El Menzah 1,203,4,2,2,9,744707
+ben-arous,Ben Arous,51,1,1,1,9,183173
+ben-arous,Fouchana,51,2,1,1,8,228046
+ben-arous,Fouchana,288,4,1,1,4,905114
+tunis,La Marsa,137,5,4,1,8,640387
+tunis,El Ouardia,74,5,4,1,1,401938
+tunis,Hrairia,281,5,3,1,2,1227877
+ariana,La Soukra,202,3,2,2,4,762842
+tunis,Carthage,66,4,2,1,7,340936
+tunis,El Ouardia,272,5,4,2,6,987610
+ariana,Ariana Ville,232,3,2,1,6,745859
+tunis,Ettahrir,124,1,1,1,8,542383
+tunis,Carthage,78,2,1,1,3,396538
+ben-arous,Fouchana,145,3,1,1,4,467173
+tunis,El Menzah 1,218,4,3,1,4,901818
+tunis,Les Berges Du Lac,192,3,1,2,1,846414
+tunis,Le Bardo,178,4,1,2,1,862322
+ben-arous,El Mourouj,269,5,2,1,8,1049023
+ariana,Ariana Ville,230,4,3,2,8,751444
+ariana,La Soukra,52,3,1,1,8,208686
+tunis,Tunis,297,3,1,2,2,1283011
+tunis,La Goulette,235,1,1,1,6,1135066
+tunis,El Menzah 1,123,3,1,1,8,496599
+ariana,Centre Urbain Nord,151,1,1,2,3,562712
+tunis,Montfleury,54,1,1,1,5,287716
+ben-arous,Ezzahra,133,1,1,1,3,506679
+tunis,Bab Saadoun,187,5,4,2,2,769213
+tunis,Gammarth,234,1,1,1,3,995396
+tunis,Ettahrir,258,1,1,2,2,1121346
+tunis,Le Bardo,133,3,2,1,10,643033
+ariana,Raoued,155,2,1,2,6,694210
+ben-arous,Rades,205,4,2,1,9,681953
+tunis,Aouina,224,5,2,2,1,962904
+tunis,Les Berges Du Lac,192,1,1,2,2,936574
+ben-arous,Boumhel,286,3,2,2,5,1076960
+tunis,El Omrane,91,5,3,1,6,492041
+ariana,Centre Urbain Nord,243,5,3,1,16,869721
+ben-arous,Mohamadia,185,1,1,1,1,623422
+tunis,Sidi Hassine,219,2,1,1,5,933240
+tunis,Bab Bhar,183,2,1,1,5,887597
+ariana,La Soukra,89,1,1,1,1,277820
+ben-arous,Mornag,58,4,1,1,9,241432
+ariana,Ariana Ville,136,2,1,1,3,530044
+tunis,Gammarth,119,5,4,1,6,512381
+ariana,Kalaat Landalous,71,2,1,1,5,292436
+tunis,Ettahrir,206,4,2,1,2,793805
+ben-arous,Boumhel,223,2,1,2,9,748302
+tunis,El Menzah 1,113,2,1,1,5,563923
+ariana,Sidi Daoud,51,5,2,1,4,231458
+ben-arous,Fouchana,272,3,2,1,2,951393
+ariana,Raoued,281,2,1,2,9,1062068
+ariana,Cite Ennasr,52,4,2,1,6,198846
+tunis,Les Berges Du Lac,200,2,1,1,3,899467
+ariana,El Menzah 6,239,2,1,2,10,915094
+ariana,Chotrana,59,1,1,1,1,199098
+ben-arous,Ben Arous,84,4,1,1,8,278505
+ben-arous,Fouchana,208,5,4,2,5,783623
+tunis,Gammarth,251,1,1,1,1,918835
+tunis,Montfleury,85,4,3,1,6,406304
+ben-arous,Ezzahra,119,5,1,1,6,397260
+tunis,La Marsa,289,5,2,1,7,1253532
+tunis,Cite El Khadra,97,5,1,1,6,458879
+ben-arous,El Mourouj,143,2,1,1,5,479540
+ariana,Centre Urbain Nord,227,2,1,1,5,831298
+tunis,Les Berges Du Lac,247,4,1,1,1,925063
+tunis,Tunis,211,2,1,2,3,913272
+ben-arous,El Mourouj,178,3,2,1,4,640633
+tunis,Carthage,119,1,1,1,10,541489
+ben-arous,El Mourouj,232,2,1,1,5,810415
+tunis,Bab Bhar,266,5,3,2,5,1092366
+ben-arous,Fouchana,127,5,1,1,10,526388
+ariana,Ariana Ville,112,2,1,1,5,441404
+tunis,Centre Urbain Nord,198,5,2,2,6,920531
+tunis,La Marsa,237,5,2,1,3,903518
+tunis,Gammarth,103,4,3,1,5,492193
+tunis,El Menzah 1,244,2,1,2,10,904530
+ben-arous,Rades,269,2,1,2,16,825942
+tunis,La Marsa,89,4,3,1,4,429043
+tunis,Bab Bhar,77,3,2,1,10,480101
+ben-arous,Rades,160,3,1,1,3,643278
+tunis,Montfleury,193,4,3,2,6,932594
+ariana,El Menzah 1,171,2,1,2,9,587921
+ben-arous,Rades,254,2,1,2,2,963884
+ben-arous,Rades,88,4,2,1,2,286723
+ben-arous,Fouchana,274,5,2,2,9,793494
+tunis,Le Kram,173,1,1,1,5,814872
+tunis,Montfleury,70,2,1,1,16,384860
+ariana,La Soukra,193,3,2,2,9,681653
+tunis,Bab Saadoun,58,3,2,1,16,285657
+ben-arous,El Mourouj,70,1,1,1,6,305248
+ben-arous,Fouchana,89,1,1,1,16,310871
+tunis,Bab Saadoun,126,4,1,1,6,691255
+ben-arous,Ezzahra,122,1,1,1,1,465395
+tunis,Gammarth,279,3,2,1,6,1186734
+tunis,La Marsa,112,3,2,1,1,468137
+tunis,Les Berges Du Lac,216,1,1,2,16,1104475
+ben-arous,Hammam Lif,79,2,1,1,5,391096
+ariana,Cité Ennasr,60,4,2,1,3,254180
+ariana,Cité Ennasr,184,4,3,2,7,683203
+tunis,Bab El Khadra,154,3,2,2,8,632374
+ben-arous,Mohamadia,266,5,4,2,1,940671
+ariana,Ariana Ville,153,4,1,2,1,661256
+ben-arous,Nouvelle Medina,142,1,1,1,16,540503
+tunis,Le Bardo,166,3,2,2,5,826752
+ben-arous,Rades,287,5,1,1,5,1044765
+ariana,Mnihla,263,4,2,1,7,988533
+tunis,Montfleury,83,2,1,1,1,384630
+tunis,Bab Bhar,289,1,1,1,5,1274699
+tunis,Mutuelleville,294,2,1,2,5,1080767
+ariana,La Soukra,155,4,3,1,5,529660
+tunis,El Menzah 1,187,2,1,2,9,805582
+tunis,Les Berges Du Lac,84,5,1,1,5,392574
+tunis,Cite El Khadra,192,4,1,1,8,821467
+tunis,Gammarth,66,2,1,1,6,315956
+ben-arous,Ezzahra,76,5,3,1,5,357695
+tunis,El Mourouj,169,4,2,2,10,746446
+tunis,Ettahrir,85,4,2,1,10,461118
+tunis,El Manar,145,3,2,1,2,690207
+tunis,Bab Saadoun,88,4,1,1,5,446979
+tunis,Sidi Daoud,251,2,1,1,10,981490
+ariana,Mnihla,118,4,2,1,16,405086
+ben-arous,El Mourouj,136,5,1,1,16,567601
+ben-arous,El Mourouj,155,4,2,2,9,612644
+tunis,La Goulette,119,5,4,1,1,458636
+ariana,El Menzah 5,68,5,1,1,3,294911
+ben-arous,Fouchana,287,4,2,2,7,915111
+ben-arous,El Mourouj,278,4,3,1,3,906769
+tunis,La Goulette,65,4,3,1,6,298625
+tunis,Carthage,60,2,1,1,5,318922
+ben-arous,Hammam Lif,84,4,2,1,4,298269
+ariana,Borj Louzir,153,2,1,1,3,681278
+ariana,Raoued,228,4,1,2,5,837236
+ben-arous,Rades,116,5,1,1,3,375135
+ariana,El Menzah 6,195,1,1,2,6,705731
+ben-arous,Fouchana,50,3,2,1,5,193564
+ben-arous,El Mourouj,180,1,1,1,6,728475
+tunis,Cite El Khadra,61,2,1,1,3,283615
+tunis,Cite El Khadra,159,4,3,2,5,733204
+tunis,Bab Bhar,170,2,1,1,4,746534
+ariana,Ariana Ville,157,2,1,2,10,627341
+ariana,Ariana Ville,80,1,1,1,6,280259
+tunis,El Menzah 1,173,4,2,2,8,819642
+tunis,Montfleury,153,1,1,1,6,805910
+ben-arous,Ben Arous,79,4,3,1,5,284995
+ariana,La Soukra,218,1,1,1,6,898191
+ben-arous,Fouchana,198,1,1,2,5,684314
+ben-arous,Hammam Lif,121,5,4,1,9,477426
+tunis,La Goulette,286,1,1,1,4,1265802
+ariana,Cite Ennasr,147,4,2,1,4,499940
+tunis,Gammarth,228,1,1,1,6,924872
+ariana,Raoued,130,4,3,1,6,530204
+ben-arous,Fouchana,251,5,3,2,5,864431
+tunis,Le Bardo,190,1,1,1,2,886819
+ariana,Cité Ennasr,282,3,1,1,6,942004
+tunis,Hrairia,228,3,1,2,5,964058
+tunis,Cite Olympique,175,2,1,2,10,800913
+ariana,Mnihla,196,2,1,1,3,632641
+ben-arous,Ezzahra,88,5,4,1,5,412097
+ariana,Cité Ennasr,115,2,1,1,10,410897
+ariana,Chotrana,169,2,1,1,1,621669
+ariana,Chotrana,143,4,3,1,5,566505
+ben-arous,Mohamadia,209,2,1,1,3,776070
+tunis,El Manar,285,4,2,2,1,1103874
+ariana,Kalaat Landalous,205,3,1,2,3,689402
+tunis,Cite El Khadra,226,4,2,1,8,955506
+ben-arous,Rades,263,1,1,2,3,914836
+ariana,Chotrana,106,1,1,1,3,439513
+ben-arous,Rades,167,1,1,1,1,560454
+ben-arous,Hammam Lif,79,3,1,1,5,326701
+tunis,Bab Saadoun,196,1,1,2,10,893050
+ben-arous,Fouchana,222,1,1,2,6,888321
+tunis,La Marsa,109,1,1,1,10,468636
+tunis,El Menzah 1,71,4,1,1,1,305951
+ben-arous,Ben Arous,108,3,1,1,2,434665
+ariana,La Soukra,51,2,1,1,1,191053
+tunis,El Menzah 1,264,2,1,2,4,1010543
+tunis,Le Kram,153,5,2,1,6,857086
+tunis,Tunis,79,3,2,1,3,417011
+tunis,Bab Bhar,192,3,1,2,4,879288
+tunis,Sidi Hassine,98,4,2,1,1,409723
+ben-arous,El Mourouj,54,2,1,1,1,195204
+ben-arous,Hammam Chatt,99,4,1,1,5,375688
+tunis,Sidi Bou Said,158,2,1,2,2,727136
+tunis,El Ouardia,90,2,1,1,1,346830
+tunis,El Manar,110,3,2,1,8,473098
+ariana,Cité Ennasr,64,5,4,1,3,232291
+ben-arous,El Mourouj,221,1,1,2,2,704911
+ben-arous,Fouchana,203,1,1,2,3,603541
+ben-arous,Rades,177,4,1,2,6,656404
+tunis,Ettahrir,268,1,1,1,2,1076877
+ariana,Ariana Ville,144,2,1,1,2,505430
+tunis,Hrairia,224,2,1,2,3,974237
+tunis,El Menzah 1,177,5,4,1,7,985261
+ariana,Aouina,58,1,1,1,10,243954
+ariana,Ariana Ville,259,3,2,2,9,1056235
+ben-arous,Boumhel,168,5,1,2,2,686787
+ariana,Chotrana,178,1,1,2,2,721031
+ben-arous,El Mourouj,273,3,1,1,8,1017841
+ben-arous,El Mourouj,104,4,2,1,10,428318
+tunis,El Ouardia,155,4,1,1,10,663649
+ariana,Centre Urbain Nord,211,4,2,2,6,608143
+ariana,Raoued,149,2,1,1,9,576602
+ariana,Raoued,99,3,1,1,9,406235
+tunis,Sidi Hassine,292,3,1,1,5,1103247
+tunis,Les Berges Du Lac,184,3,1,2,5,900886
+ben-arous,Ezzahra,299,2,1,1,5,874587
+tunis,Sidi Bou Said,63,4,2,1,3,286239
+tunis,Sidi Hassine,110,3,1,1,6,490968
+ariana,Raoued,237,5,4,2,6,818568
+tunis,Bab El Khadra,225,1,1,1,5,909374
+tunis,El Menzah 1,149,5,2,1,5,666238
+tunis,Tunis,252,5,1,1,5,1022834
+ben-arous,Fouchana,192,5,4,2,6,676525
+ariana,La Soukra,211,1,1,1,3,721647
+ben-arous,El Mourouj,226,2,1,1,9,653706
+ariana,Kalaat Landalous,135,4,1,1,10,507881
+ariana,La Soukra,62,4,3,1,9,243853
+tunis,El Omrane Supérieur,70,3,2,1,3,403130
+ben-arous,Ezzahra,96,2,1,1,2,308571
+ben-arous,Nouvelle Medina,132,5,4,1,6,428469
+tunis,Les Berges Du Lac,90,4,2,1,2,364940
+ben-arous,Boumhel,235,3,1,2,4,836957
+tunis,Sidi Bou Said,228,2,1,1,3,899794
+tunis,El Omrane,268,2,1,2,3,1208418
+ben-arous,Rades,290,1,1,2,10,1075762
+ariana,Raoued,139,4,1,1,1,632977
+tunis,Hrairia,275,4,1,2,10,1206912
+ben-arous,Rades,78,1,1,1,16,315065
+ben-arous,Hammam Chatt,68,1,1,1,2,260005
+tunis,Tunis,212,4,2,1,4,775340
+ben-arous,El Mourouj,107,1,1,1,2,430003
+tunis,La Marsa,104,5,1,1,4,508923
+ben-arous,El Mourouj,88,3,1,1,3,292734
+tunis,Cite El Khadra,251,5,1,2,2,1051264
+tunis,Bab Saadoun,242,2,1,2,5,984340
+ariana,Cité Ennasr,226,3,2,2,2,821436
+tunis,Carthage,261,3,1,1,6,1080493
+ben-arous,Ezzahra,234,5,3,2,5,683898
+tunis,Centre Urbain Nord,207,4,3,1,6,807556
+ariana,La Soukra,145,2,1,1,10,494179
+ben-arous,Ben Arous,151,1,1,1,5,536961
+tunis,Gammarth,114,3,1,1,2,521422
+tunis,Carthage,225,4,3,2,8,823572
+tunis,Carthage,88,5,4,1,5,434484
+tunis,Tunis,198,1,1,1,2,883498
+tunis,La Goulette,183,4,3,1,3,897405
+tunis,El Menzah 1,68,2,1,1,9,313849
+ariana,Sidi Daoud,234,5,4,1,16,709569
+ariana,Jardins d'El Menzah,52,4,1,1,9,216331
+tunis,El Omrane,157,3,1,1,7,664530
+tunis,Cite El Khadra,169,1,1,2,6,780477
+ariana,La Soukra,262,1,1,2,1,747096
+ben-arous,El Mourouj,92,5,3,1,6,388751
+ben-arous,Fouchana,176,3,2,2,2,681215
+ben-arous,Ezzahra,133,1,1,1,16,581625
+tunis,La Marsa,261,5,4,2,10,1141425
+tunis,Bab Saadoun,95,3,2,1,9,447211
+tunis,Cite Olympique,144,3,1,1,2,711890
+tunis,El Ouardia,298,1,1,2,6,1281200
+ariana,Ariana Ville,78,5,2,1,2,296661
+ben-arous,Fouchana,214,4,2,1,7,766010
+ben-arous,Boumhel,81,1,1,1,6,306402
+ben-arous,Fouchana,194,5,3,1,7,790025
+tunis,El Ouardia,150,3,1,1,6,635880
+tunis,Ain Zaghouan,76,4,2,1,9,375730
+tunis,Gammarth,89,4,2,1,16,419090
+tunis,La Goulette,231,5,4,1,2,1018234
+tunis,Bab Bhar,125,1,1,1,2,570910
+ariana,El Menzah 7,62,4,1,1,6,258335
+tunis,Montfleury,294,5,4,2,7,1217069
+tunis,Sidi Hassine,103,3,1,1,5,590047
+ariana,Sidi Daoud,215,4,3,2,3,765429
+ariana,La Soukra,55,3,1,1,16,249478
+tunis,La Marsa,92,1,1,1,5,432744
+ben-arous,El Mourouj,220,1,1,2,6,744261
+tunis,Cite El Khadra,290,2,1,1,6,1206774
+tunis,Ettahrir,169,1,1,2,5,763537
+tunis,La Marsa,125,4,2,1,5,610516
+ariana,Raoued,68,4,2,1,5,263919
+ben-arous,Nouvelle Medina,273,1,1,2,1,1019655
+ben-arous,Mohamadia,270,5,4,2,4,843103
+ariana,Mnihla,286,4,3,2,3,897541
+ben-arous,Ben Arous,218,5,2,1,1,643930
+tunis,Centre Urbain Nord,242,1,1,2,6,1025218
+ben-arous,Hammam Chatt,189,4,1,2,7,799510
+tunis,Ain Zaghouan,299,4,3,2,5,1508853
+tunis,La Goulette,94,2,1,1,10,384223
+tunis,La Goulette,223,3,1,2,5,925642
+ben-arous,El Mourouj,62,1,1,1,3,268262
+ariana,Cité Ennasr,205,1,1,2,3,634624
+ben-arous,Fouchana,57,2,1,1,5,229625
+ariana,Ariana Ville,62,3,1,1,4,234106
+ariana,El Menzah 5,127,5,2,1,9,441471
+ben-arous,Fouchana,216,1,1,1,2,628392
+ben-arous,Borj Cedria,82,2,1,1,9,321657
+tunis,La Marsa,139,5,3,1,8,668568
+tunis,Carthage,101,2,1,1,2,480722
+tunis,Bab El Khadra,155,5,2,1,8,743098
+ben-arous,El Mourouj,50,5,3,1,6,221029
+tunis,Le Bardo,101,5,3,1,8,490322
+ben-arous,Hammam Lif,271,1,1,1,4,978841
+ben-arous,El Mourouj,121,5,4,1,3,418036
+tunis,Carthage,160,2,1,1,6,724896
+ariana,Centre Urbain Nord,131,3,1,1,5,441216
+ben-arous,Rades,293,4,1,2,1,1081647
+tunis,Carthage,78,4,1,1,1,398683
+ariana,Aouina,206,2,1,1,6,749141
+ariana,Centre Urbain Nord,236,2,1,1,8,787621
+ariana,Mnihla,64,5,2,1,6,270657
+tunis,El Manar,120,3,2,1,5,522900
+tunis,Bab Bhar,223,4,3,1,7,952730
+ariana,El Mourouj,51,2,1,1,5,231329
+ben-arous,Mornag,260,4,3,2,9,918626
+ariana,Ariana Ville,152,4,3,2,10,584024
+tunis,Tunis,290,2,1,2,6,1259221
+ariana,Ariana Ville,140,3,1,1,2,640187
+ariana,Chotrana,93,4,1,1,16,369341
+ariana,Kalaat Landalous,176,1,1,2,5,836935
+ariana,Chotrana,198,3,1,1,10,655448
+tunis,Le Bardo,86,1,1,1,10,409001
+ben-arous,Ezzahra,172,5,1,2,7,615796
+tunis,Le Bardo,245,3,2,1,16,1092166
+ariana,Chotrana,152,3,2,1,8,519437
+ariana,Raoued,195,1,1,1,9,638077
+ben-arous,Fouchana,106,4,2,1,6,345590
+ben-arous,Ezzahra,147,1,1,1,2,482567
+ben-arous,Megrine,59,1,1,1,1,225475
+ben-arous,El Mourouj,149,5,2,1,1,576664
+ariana,La Soukra,80,1,1,1,8,273083
+tunis,El Menzah 1,232,3,2,1,6,854834
+ben-arous,El Mourouj,104,3,1,1,7,436083
+ariana,Raoued,127,4,3,1,9,518223
+tunis,Sidi Hassine,136,1,1,1,2,598842
+ben-arous,Borj Cedria,234,5,1,1,3,742499
+ben-arous,Ezzahra,293,5,4,2,1,923919
+tunis,La Marsa,94,4,3,1,3,438961
+tunis,Ettahrir,227,3,2,2,1,970062
+tunis,Le Kram,119,1,1,1,8,499082
+ben-arous,Mohamadia,182,1,1,2,9,662673
+tunis,Le Kram,188,5,2,2,6,871784
+ben-arous,El Mourouj,226,1,1,2,7,684225
+ariana,Cité Ennasr,114,5,4,1,4,458005
+tunis,La Goulette,110,2,1,1,10,483578
+tunis,Mutuelleville,167,1,1,2,1,868190
+ben-arous,Hammam Lif,95,5,3,1,5,479583
+ben-arous,El Mourouj,50,1,1,1,7,187482
+tunis,Sidi Hassine,85,4,2,1,3,468845
+ben-arous,El Mourouj,216,5,3,2,3,693089
+tunis,Carthage,126,5,1,1,3,567807
+tunis,El Omrane Supérieur,175,5,1,2,6,712993
+tunis,Montplaisir,231,1,1,1,6,905210
+ben-arous,El Mourouj,160,5,3,2,7,548053
+ariana,Raoued,174,2,1,1,1,606090
+tunis,Agba,124,3,2,1,6,605235
+ben-arous,Rades,162,5,2,2,3,653099
+ben-arous,Boumhel,213,2,1,1,1,688444
+ben-arous,Mornag,237,5,3,1,5,840955
+ariana,Mnihla,65,3,2,1,2,282486
+ariana,El Menzah 6,135,1,1,1,2,539596
+tunis,Carthage,194,5,4,2,6,1080926
+ariana,Cité Ennasr,261,1,1,1,3,831891
+ben-arous,Rades,293,5,4,1,5,903020
+tunis,Carthage,90,5,1,1,7,421316
+ben-arous,Mohamadia,189,3,2,2,1,579376
+tunis,Le Kram,75,2,1,1,3,355475
+ariana,Raoued,286,2,1,1,2,980846
+ben-arous,Fouchana,137,4,3,1,1,461526
+tunis,El Menzah 1,256,2,1,1,9,1094187
+ben-arous,El Mourouj,76,4,1,1,3,306783
+ariana,Cite Ennasr,56,4,1,1,16,211963
+ben-arous,Boumhel,236,5,1,2,8,886204
+tunis,Le Bardo,254,5,2,2,9,1110985
+ariana,El Menzah 6,97,3,1,1,3,361417
+tunis,El Ouardia,156,1,1,2,16,626494
+tunis,El Manar,100,5,2,1,6,499993
+ariana,Chotrana,273,3,2,1,4,1017977
+tunis,Carthage,255,3,1,1,2,1220039
+ben-arous,El Mourouj,231,1,1,1,5,849626
+ben-arous,Nouvelle Medina,141,5,3,1,3,577861
+ben-arous,El Mourouj,144,2,1,1,9,554424
+tunis,El Ouardia,104,4,1,1,9,447776
+ben-arous,El Mourouj,171,1,1,2,2,654409
+ben-arous,Fouchana,175,3,1,1,2,659954
+tunis,Ettahrir,93,2,1,1,6,400711
+tunis,Centre Urbain Nord,171,1,1,2,16,809571
+ben-arous,Ben Arous,236,5,4,2,16,803820
+ben-arous,Ezzahra,282,5,2,1,4,1145494
+ariana,Centre Urbain Nord,150,3,1,1,1,564602
+tunis,Gammarth,223,4,1,1,6,823263
+ariana,Jardins d'El Menzah,278,1,1,2,1,994289
+tunis,Carthage,97,1,1,1,2,435842
+ariana,El Menzah 6,152,5,2,1,3,567342
+ariana,Ariana Ville,157,1,1,1,2,641489
+ariana,Raoued,208,1,1,1,7,666919
+tunis,Les Berges Du Lac,197,2,1,1,6,915388
+ben-arous,Rades,213,1,1,1,2,768414
+ariana,Mnihla,240,1,1,1,5,941470
+ariana,La Soukra,130,1,1,1,3,473880
+tunis,Tunis,115,2,1,1,6,534617
+tunis,Ettahrir,107,5,3,1,5,480158
+tunis,Le Kram,254,1,1,1,5,1071482
+tunis,Les Berges Du Lac,128,5,4,1,1,597847
+ariana,Ariana Ville,140,1,1,1,1,630310
+tunis,Gammarth,265,4,3,2,2,1079087
+ariana,Cité Ennasr,137,4,1,1,9,478718
+tunis,Sidi Hassine,193,3,1,1,7,863530
+ben-arous,Nouvelle Medina,280,2,1,1,8,862635
+ben-arous,El Mourouj,124,1,1,1,4,526744
+tunis,El Menzah 1,251,5,4,2,4,1036525
+ben-arous,Fouchana,273,1,1,2,1,762311
+ben-arous,El Mourouj,113,2,1,1,2,504656
+tunis,Ettahrir,98,1,1,1,1,446379
+tunis,Les Berges Du Lac,227,5,4,2,3,827836
+tunis,Sijoumi,197,1,1,2,1,863028
+tunis,Tunis,278,1,1,1,5,1173714
+ben-arous,Fouchana,216,5,2,2,6,768161
+tunis,Ain Zaghouan,88,2,1,1,2,475631
+ariana,El Menzah 1,237,4,1,1,1,838478
+tunis,Tunis,224,4,1,2,8,832072
+ariana,Kalaat Landalous,284,1,1,1,7,971691
+tunis,Le Bardo,193,2,1,1,7,957044
+tunis,Gammarth,96,2,1,1,6,421809
+tunis,La Goulette,175,4,1,1,2,809236
+tunis,Khaznadar,274,5,2,2,10,1220077
+tunis,La Goulette,270,2,1,2,8,972458
+tunis,Sijoumi,69,4,1,1,7,377607
+ben-arous,Fouchana,184,2,1,2,2,681934
+tunis,El Menzah 1,222,4,3,1,7,985190
+tunis,Bab El Khadra,286,4,3,1,2,1043544
+tunis,Bab Bhar,238,3,2,1,16,922053
+tunis,El Menzah 1,224,2,1,2,6,989409
+tunis,La Marsa,51,1,1,1,4,268737
+ben-arous,Rades,77,3,1,1,5,299495
+tunis,Sidi Daoud,86,3,2,1,10,397066
+tunis,Bab Bhar,120,5,1,1,2,554009
+ben-arous,Rades,289,5,3,1,4,983863
+ariana,Raoued,69,2,1,1,9,262226
+ben-arous,Nouvelle Medina,184,2,1,1,1,853115
+ben-arous,Ben Arous,155,2,1,2,6,719480
+ariana,La Soukra,71,2,1,1,3,285069
+tunis,Mutuelleville,73,1,1,1,1,380746
+ariana,Centre Urbain Nord,144,5,2,1,1,469205
+tunis,Bab Bhar,262,1,1,2,8,1113448
+tunis,La Marsa,120,3,2,1,8,528209
+tunis,El Ouardia,139,3,1,1,9,657655
+ariana,El Mourouj,96,1,1,1,6,396548
+ariana,Borj Louzir,216,4,1,1,5,757648
+tunis,Ain Zaghouan,251,3,1,1,1,1091252
+tunis,Bab Bhar,258,5,4,2,5,1108220
+tunis,Centre Urbain Nord,277,3,1,2,2,1017010
+ariana,Ariana Ville,173,1,1,2,2,564644
+ben-arous,Ezzahra,282,1,1,1,5,917482
+ariana,Ariana Ville,227,2,1,2,3,841593
+tunis,Carthage,92,2,1,1,5,401977
+tunis,La Marsa,216,5,3,2,7,907063
+ariana,La Soukra,185,1,1,1,3,600714
+ariana,Mnihla,138,2,1,1,5,612586
+tunis,Cite El Khadra,222,5,3,2,7,836314
+ariana,Kalaat Landalous,129,2,1,1,7,462468
+ariana,El Menzah 1,151,2,1,2,9,566963
+tunis,Ettahrir,103,3,2,1,8,435650
+tunis,Carthage,187,1,1,2,7,858224
+ariana,Centre Urbain Nord,130,5,3,1,8,542171
+tunis,El Omrane Supérieur,272,3,2,1,1,1086694
+ben-arous,Fouchana,157,1,1,1,10,602358
+tunis,Gammarth,166,3,2,2,10,739333
+ariana,La Soukra,199,1,1,1,5,833528
+ariana,Sidi Daoud,277,4,2,1,5,967695
+ben-arous,Rades,250,5,2,2,3,938485
+ariana,Kalaat Landalous,199,5,4,2,2,662215
+ben-arous,El Mourouj,157,3,2,2,5,502626
+ariana,Ariana Ville,111,1,1,1,3,436670
+ben-arous,El Mourouj,150,2,1,1,7,503035
+ariana,Chotrana,81,5,2,1,6,361555
+tunis,Le Bardo,247,1,1,1,3,1193309
+ben-arous,Rades,72,5,1,1,6,254910
+tunis,Sidi Bou Said,182,2,1,2,5,871261
+ben-arous,El Mourouj,229,5,4,1,5,854868
+ariana,Cité Ennasr,295,3,1,2,1,984565
+tunis,Le Kram,150,3,2,1,16,678828
+ariana,Mnihla,181,3,1,2,10,870676
+ariana,Ariana Ville,72,1,1,1,7,315303
+ariana,La Soukra,163,4,3,2,2,617437
+ben-arous,Fouchana,91,5,1,1,3,345959
+ariana,La Soukra,82,3,1,1,3,302691
+ben-arous,Hammam Lif,262,1,1,1,2,991941
+ben-arous,Fouchana,202,5,1,1,3,636345
+ben-arous,Hammam Lif,59,1,1,1,2,261453
+tunis,Bab Bhar,248,2,1,2,7,1272977
+ben-arous,Fouchana,239,5,2,1,5,824758
+ariana,Ariana Ville,241,4,3,1,3,853591
+tunis,Sijoumi,298,1,1,1,5,1233544
+tunis,Montplaisir,223,1,1,1,9,1010237
+ariana,El Menzah 6,181,4,3,2,3,593850
+tunis,Montfleury,184,3,2,1,8,847821
+ben-arous,Ezzahra,216,3,2,1,1,669864
+ariana,Aouina,297,5,1,2,7,937632
+tunis,Bab Bhar,186,4,3,1,5,867123
+tunis,El Omrane,116,2,1,1,4,507514
+ben-arous,Fouchana,112,3,1,1,2,432248
+tunis,Mutuelleville,260,2,1,2,8,1120173
+tunis,Bab Bhar,85,2,1,1,4,380233
+ben-arous,Megrine,89,1,1,1,1,407639
+ariana,La Soukra,190,5,1,1,1,614388
+ariana,Centre Urbain Nord,123,5,2,1,5,399581
