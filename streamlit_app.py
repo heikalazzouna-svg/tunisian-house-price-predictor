@@ -3,6 +3,8 @@ import pandas as pd
 import joblib
 import numpy as np
 import warnings
+import pickle
+
 warnings.filterwarnings('ignore')
 
 st.set_page_config(page_title="🏠 Tunisian House Price Predictor", layout="wide")
@@ -14,19 +16,18 @@ st.markdown("### Predict house prices in Tunisia using Machine Learning")
 @st.cache_resource
 def load_model():
     try:
+        # Try to load with joblib
         model = joblib.load('model.pkl')
         st.success("✅ Model loaded successfully!")
         
-        # Show model info
-        st.sidebar.markdown("### 📊 Model Info")
-        st.sidebar.markdown(f"""
-        - **Type:** Random Forest Regressor
-        - **Pipeline:** Yes
-        - **Features:** 17
-        """)
+        # Show model type
+        model_type = type(model).__name__
+        st.sidebar.markdown(f"**Model Type:** {model_type}")
+        
         return model
     except Exception as e:
         st.error(f"❌ Model not found: {e}")
+        st.info("Please make sure the model file is in the repository.")
         return None
 
 model = load_model()
